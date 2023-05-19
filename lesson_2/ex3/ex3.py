@@ -17,5 +17,5 @@ with open('file.yaml', 'w', encoding='utf-8') as file1:
 with open("file.yaml", 'r', encoding='utf-8') as file2:
     data = yaml.load(file2, Loader=yaml.SafeLoader)
 
-print(data_to_yaml)
+print(data_to_yaml==data)
 print(data)
