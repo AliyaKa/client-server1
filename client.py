@@ -1,65 +1,61 @@
-import locale
-import subprocess
+"""клиентская часть"""
+import json
+import socket
+import sys
+import time
 
-import chardet
+from common.prgm_utils import send_message, codecs_msg
 
-print('\nЗадание № 1')
-
-str_list = ['разработка', 'сокет', 'декоратор']
-print('\nСтроковый формат:')
-for el in str_list:
-    print(f'тип: {type(el)}, содержимое: {el}')
-
-unicode_list = [
-    '\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430',
-    '\u0441\u043e\u043a\u0435\u0442',
-    '\u0434\u0435\u043a\u043e\u0440\u0430\u0442\u043e\u0440'
-]
-print('\nФормат Unicode:')
-for el in unicode_list:
-    print(f'тип: {type(el)}, содержимое: {el}')
-
-print('\nЗадание № 2')
-
-byte_list = [b'class', b'unicode', b'method']
-for el in byte_list:
-    print(f'тип: {type(el)}, содержимое: {el}, длина: {len(el)}')
-
-print('\nЗадание № 3')
-
-str_list = ['attribute', 'класс', 'функция', 'type']
-print('\nСлова, которые не возможно записать в байтовом типе:')
-for el in str_list:
-    el_encode = el.encode('ascii', errors='ignore')
-    if el_encode == b'':
-        print(f'{el}')
-
-print('\nЗадание № 4')
-
-str_list = ['разработка', 'администрирование', 'protocol', 'standard']
-for el in str_list:
-    el_encode = el.encode('ascii', errors='ignore')
-    print(ascii(el_encode), type(el_encode))
-    el_decode = el_encode.decode('ascii', errors='ignore')
-    print(ascii(el_decode), type(el_decode))
+# команда запуска для терминала:  python client.py [addr] [port]
 
 
-print('\nЗадание № 5')
+def create_presence_msg(account_name='Guest'):
+    out = {
+        'action': 'presence',
+        'time': time.time(),
+        'user': {
+            'account_name': account_name
+        }
+    }
+    return out
 
-# args = ['ping', 'yandex.ru']
-# subproc_ping = subprocess.Popen(args, stdout=subprocess.PIPE)
-# for line in subproc_ping.stdout:
-#     result = chardet.detect(line) # определим кодировку строки
-#     line = line.decode(result['encoding']).encode('utf-8') # выполняем обратное  преобразование
-#                                                            # из строки в байты в кодировке utf-8
-#     print(line.decode('utf-8')) # преобразуем байты в строку в кодировке utf-8
 
-print('\nЗадание № 6')
+def answer_server(message):
+    if 'response' in message:
+        if message['response'] == 200:
+            return '200 : OK'
+        return f'400 : {message["error"]}'
+    raise ValueError
 
-def_coding = locale.getpreferredencoding()
-print(f'Кодировка по умолчанию:{def_coding}\n')
-with open('test_file.txt', encoding='utf-8') as f:
-    for elem in f:
-        el_encode = elem.encode('utf-8')
-        el_decode = el_encode.decode('utf-8')
-        print(el_decode, end='')
+
+def main():
+
+    try:
+        server_address = sys.argv[1]
+        server_port = int(sys.argv[2])
+        if server_port < 1024 or server_port > 65535:
+            raise ValueError
+    except IndexError:
+        server_address = '127.0.0.1'
+        server_port = 7777
+    except ValueError:
+        print(
+            'Порт - это число в диапазоне от 1024 до 65535.')
+        sys.exit(1)
+
+    client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    client.connect((server_address, server_port))
+
+    message_to_server = create_presence_msg()
+    send_message(client, message_to_server)
+
+    #  Получаем ответ
+    try:
+        answer = answer_server(codecs_msg(client))
+        print(answer)
+    except (ValueError, json.JSONDecodeError):
+        print('Не удалось декодировать сообщение сервера.')
+
+
+if __name__ == '__main__':
+    main()
