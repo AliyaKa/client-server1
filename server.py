@@ -1,21 +1,36 @@
 """ серверная часть """
+
 import json
 import socket
 import sys
-
-from common.prgm_utils import codecs_msg, send_message
+from common.variables import DEFAULT_PORT, RESPONSE, PRESENCE, ACTION, TIME,\
+    USER, ACCOUNT_NAME, ERROR, MAX_CONNECTIONS
+from common.prgm_utils import get_message, send_message
 
 
 # команда запуска для терминала:  python server.py -p [port] -a [addr]
 
+# формирует ответ на сообщение клиента
+def parse_client_message(message):
+    if ACTION in message \
+            and message[ACTION] == PRESENCE \
+            and TIME in message \
+            and USER in message \
+            and message[USER][ACCOUNT_NAME] == 'Guest':
+        return {RESPONSE: 200}
+    return {
+        RESPONSE: 400,
+        ERROR: 'Bad Request'
+    }
 
-def port():
-    # функция определяет номер порта
+
+def main():
+    # определение порта
     try:
         if '-p' in sys.argv:
             listen_port = int(sys.argv[sys.argv.index('-p') + 1])
         else:
-            listen_port = 7777
+            listen_port = DEFAULT_PORT
         if listen_port < 1024 or listen_port > 65535:
             raise ValueError
     except IndexError:
@@ -25,11 +40,7 @@ def port():
         print(
             'Порт - это число в диапазоне от 1024 до 65535.')
         sys.exit(1)
-    return listen_port
-
-
-def addr():
-    # Определяет ip-адрес
+    # определение адреса
     try:
         if '-a' in sys.argv:
             listen_address = sys.argv[sys.argv.index('-a') + 1]
@@ -39,33 +50,16 @@ def addr():
         print(
             'После параметра \'a\'- адрес, который будет слушать сервер.')
         sys.exit(1)
-    return listen_address
 
-
-# формирует ответ на сообщение клиента
-def parse_client_message(message):
-    if 'action' in message \
-            and message['action'] == 'presence' \
-            and 'time' in message \
-            and 'user' in message \
-            and message['user']['account_name'] == 'Guest':
-        return {'response': 200}
-    return {
-        'response': 400,
-        'error': 'Bad Request'
-    }
-
-
-def main():
     server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    server.bind((addr(), port()))
+    server.bind((listen_address, listen_port))
 
-    server.listen(5)
+    server.listen(MAX_CONNECTIONS)
 
     while True:
         client, client_address = server.accept()
         try:
-            message_from_client = codecs_msg(client)  # получает сообщение от клиента
+            message_from_client = get_message(client)  # получает сообщение от клиента
             print(message_from_client)
             response = parse_client_message(message_from_client)  # формирует ответ клиенту
             send_message(client, response)  # отправляет ответ клиенту
