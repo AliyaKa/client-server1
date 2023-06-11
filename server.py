@@ -1,14 +1,18 @@
 """ серверная часть """
-
+import argparse
 import json
+import logging
+import log.server_log_config
 import socket
 import sys
-from common.variables import DEFAULT_PORT, RESPONSE, PRESENCE, ACTION, TIME,\
-    USER, ACCOUNT_NAME, ERROR, MAX_CONNECTIONS
+from common.variables import DEFAULT_PORT, PRESENCE, ACTION, TIME, \
+    USER, ACCOUNT_NAME, MAX_CONNECTIONS, ERR_DICT, OK_DICT
 from common.prgm_utils import get_message, send_message
+from errors import IncorrectDataRecivedError, NonDictInputError
 
+# Инициализация серверного логера
+SERVER_LOGGER = logging.getLogger('server')
 
-# команда запуска для терминала:  python server.py -p [port] -a [addr]
 
 # формирует ответ на сообщение клиента
 def parse_client_message(message):
@@ -17,39 +21,31 @@ def parse_client_message(message):
             and TIME in message \
             and USER in message \
             and message[USER][ACCOUNT_NAME] == 'Guest':
-        return {RESPONSE: 200}
-    return {
-        RESPONSE: 400,
-        ERROR: 'Bad Request'
-    }
+        return OK_DICT
+    return ERR_DICT
+
+
+def create_arg_parser():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-p', default=DEFAULT_PORT, type=int, nargs='?')
+    parser.add_argument('-a', default='', nargs='?')
+    return parser
 
 
 def main():
     # определение порта
-    try:
-        if '-p' in sys.argv:
-            listen_port = int(sys.argv[sys.argv.index('-p') + 1])
-        else:
-            listen_port = DEFAULT_PORT
-        if listen_port < 1024 or listen_port > 65535:
-            raise ValueError
-    except IndexError:
-        print('После параметра -\'p\' указывается номер порта.')
+    parser = create_arg_parser()
+    namespace = parser.parse_args(sys.argv[1:])
+    listen_address = namespace.a
+    listen_port = namespace.p
+
+    if listen_port < 1024 or listen_port > 65535:
+        SERVER_LOGGER.critical(f'Попытка запуска сервера с порта {listen_port}. '
+                               f'Допустимы порты с 1024 до 65535.')
         sys.exit(1)
-    except ValueError:
-        print(
-            'Порт - это число в диапазоне от 1024 до 65535.')
-        sys.exit(1)
-    # определение адреса
-    try:
-        if '-a' in sys.argv:
-            listen_address = sys.argv[sys.argv.index('-a') + 1]
-        else:
-            listen_address = ''
-    except IndexError:
-        print(
-            'После параметра \'a\'- адрес, который будет слушать сервер.')
-        sys.exit(1)
+    SERVER_LOGGER.info(f'Запущен сервер, порт для подключений: {listen_port}, '
+                       f'адрес: {listen_address}. '
+                       f'Если адрес не указан, принимаются соединения с любых адресов.')
 
     server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     server.bind((listen_address, listen_port))
@@ -58,17 +54,28 @@ def main():
 
     while True:
         client, client_address = server.accept()
+        SERVER_LOGGER.info(f'Установлено соедение с клиентом: {client_address}')
         try:
             message_from_client = get_message(client)  # получает сообщение от клиента
-            print(message_from_client)
+            SERVER_LOGGER.debug(f'Получено сервером сообщение от клиента: {message_from_client}')
             response = parse_client_message(message_from_client)  # формирует ответ клиенту
+            SERVER_LOGGER.info(f'Ответ сервера клиенту: {response}')
             send_message(client, response)  # отправляет ответ клиенту
+            SERVER_LOGGER.debug(f'Соединение с клиентом {client_address} завершено.')
             client.close()
             break
         except (ValueError, json.JSONDecodeError):
-            print('Некорретное сообщение от клиента.')
+            SERVER_LOGGER.error(f'Некорректная JSON строка, полученная от '
+                                f'клиента {client_address}. Соединение завершено.')
             client.close()
-            break
+        except IncorrectDataRecivedError:
+            SERVER_LOGGER.error(f'От клиента {client_address} приняты некорректные данные. '
+                                f'Соединение завершено.')
+            client.close()
+        except NonDictInputError:
+            SERVER_LOGGER.error(f'Сообщение от клиента {client_address} должен быть словарем. '
+                                f'Соединение завершено.')
+            client.close()
 
 
 if __name__ == '__main__':

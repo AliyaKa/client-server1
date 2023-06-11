@@ -1,7 +1,8 @@
 """константы"""
+import logging
 
 # Порт поумолчанию для сетевого ваимодействия
-DEFAULT_PORT = 8888
+DEFAULT_PORT = 7777
 # IP адрес по умолчанию для подключения клиента
 DEFAULT_IP = '127.0.0.1'
 # Максимальная очередь подключений
@@ -29,3 +30,8 @@ ERR_DICT = {
     }
 
 OK_DICT = {RESPONSE: 200}
+
+# Текущий уровень логирования
+LOGGING_LEVEL = logging.DEBUG
+# создаём формировщик логов (formatter):
+FORMATTER = logging.Formatter('%(asctime)s %(levelname)s %(filename)s %(message)s')

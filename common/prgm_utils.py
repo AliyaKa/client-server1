@@ -19,3 +19,6 @@ def send_message(sock, message):
     json_message = json.dumps(message)
     encoded_message = json_message.encode(ENCODING)
     sock.send(encoded_message)
+
+
+
