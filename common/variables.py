@@ -1,5 +1,6 @@
 """константы"""
 import logging
+import sys
 
 # Порт поумолчанию для сетевого ваимодействия
 DEFAULT_PORT = 7777
@@ -34,4 +35,16 @@ OK_DICT = {RESPONSE: 200}
 # Текущий уровень логирования
 LOGGING_LEVEL = logging.DEBUG
 # создаём формировщик логов (formatter):
-FORMATTER = logging.Formatter('%(asctime)s %(levelname)s %(filename)s %(message)s')
+FORMATTER = logging.Formatter('%(asctime)s %(levelname)s (%(filename)s) %(message)s')
+
+# метод определения модуля, источника запуска.
+# Метод find () возвращает индекс первого вхождения искомой подстроки,
+# если он найден в данной строке.
+# Если его не найдено, - возвращает -1.
+
+if sys.argv[0].find('client.py') == -1:
+    LOGGER = logging.getLogger('server')
+else:
+    LOGGER = logging.getLogger('client')
+
+
