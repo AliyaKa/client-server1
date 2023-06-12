@@ -1,0 +1,66 @@
+2023-06-11 11:13:55,768 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2023-06-11 11:13:55,768 DEBUG client.py Успешный ответ сервера: 200: OK
+2023-06-11 11:15:13,084 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2023-06-11 11:15:13,085 DEBUG client.py Ответ сервера 400 : Bad Request 
+2023-06-11 11:18:20,118 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2023-06-11 11:18:20,125 DEBUG client.py Успешный ответ сервера: 200: OK
+2023-06-11 11:25:21,536 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2023-06-11 11:25:21,546 DEBUG client.py Разбор ответа сервера: {'response': 400, 'error': 'Bad Request'}
+2023-06-11 11:25:21,546 ERROR client.py Ответ сервера 400 : Bad Request 
+2023-06-11 11:26:41,531 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2023-06-11 11:26:41,531 DEBUG client.py Разбор ответа сервера: {'response': 400, 'error': 'Bad Request'}
+2023-06-11 11:26:41,531 DEBUG client.py Ответ сервера 400 : Bad Request 
+2023-06-11 11:27:34,985 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2023-06-11 11:27:34,985 DEBUG client.py Разбор ответа сервера: {'response': 400, 'error': 'Bad Request'}
+2023-06-11 11:27:34,986 DEBUG client.py Отсутствует обязательное поле: Bad Request 
+2023-06-11 11:28:43,451 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2023-06-11 11:28:43,452 DEBUG client.py Разбор ответа сервера: {'response': 400, 'error': 'Bad Request'}
+2023-06-11 11:28:43,452 DEBUG client.py Ответ сервера 400 : Bad Request 
+2023-06-11 11:31:09,788 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2023-06-11 11:31:09,789 DEBUG client.py Разбор ответа сервера: {'response': 400, 'error': 'Bad Request'}
+2023-06-11 11:31:09,789 DEBUG client.py Ответ сервера 400 : Bad Request 
+2023-06-11 11:32:39,100 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2023-06-11 11:32:39,100 DEBUG client.py Разбор ответа сервера: {'response': 400, 'error': 'Bad Request'}
+2023-06-11 11:32:39,100 DEBUG client.py Ответ сервера 400 : Bad Request. Отсутствует обязательное поле
+2023-06-11 12:29:29,602 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2023-06-11 12:29:29,602 DEBUG client.py Разбор ответа сервера: {'response': 400, 'error': 'Bad Request'}
+2023-06-11 12:30:00,384 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2023-06-11 12:30:00,384 DEBUG client.py Разбор ответа сервера: {'response': 400, 'error': 'Bad Request'}
+2023-06-11 12:30:59,760 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2023-06-11 12:30:59,761 DEBUG client.py Разбор ответа сервера: {'response': 400, 'error': 'Bad Request'}
+2023-06-11 12:30:59,761 ERROR client.py Ответ сервера 400 : Bad Request. Отсутствует обязательное поле
+2023-06-11 12:31:40,087 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2023-06-11 12:31:40,087 DEBUG client.py Разбор ответа сервера: {'response': 400, 'error': 'Bad Request'}
+2023-06-11 12:31:40,088 ERROR client.py Ответ сервера 400 : Bad Request. Отсутствует обязательное поле
+2023-06-11 12:32:15,798 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2023-06-11 12:32:15,799 DEBUG client.py Разбор ответа сервера: {'response': 200}
+2023-06-11 12:32:15,799 DEBUG client.py Успешный ответ : 200: OK
+2023-06-11 12:35:02,664 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2023-06-11 12:35:02,665 DEBUG client.py Разбор ответа сервера: {'response': 200}
+2023-06-11 12:35:02,665 DEBUG client.py Успешный ответ : 200: OK
+2023-06-11 12:39:37,926 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2023-06-11 12:39:37,926 DEBUG client.py Разбор ответа сервера: {'response': 200}
+2023-06-11 12:39:37,926 DEBUG client.py Успешный ответ : 200: OK
+2023-06-11 12:39:55,758 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2023-06-11 12:39:55,758 DEBUG client.py Разбор ответа сервера: {'response': 400, 'error': 'Bad Request'}
+2023-06-11 12:39:55,758 ERROR client.py Ответ сервера 400 : Bad Request. Отсутствует обязательное поле
+2023-06-11 14:25:52,867 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2023-06-11 14:25:52,868 DEBUG client.py Разбор ответа сервера: {'response': 200}
+2023-06-11 14:25:52,869 DEBUG client.py Успешный ответ : 200: OK
+2023-06-11 19:16:11,599 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2023-06-11 19:16:11,602 DEBUG client.py Разбор ответа сервера: {'response': 200}
+2023-06-11 19:16:11,602 DEBUG client.py Успешный ответ : 200: OK
+2023-06-11 19:17:36,653 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2023-06-11 19:17:36,653 DEBUG client.py Разбор ответа сервера: {'response': 200}
+2023-06-11 19:17:36,653 DEBUG client.py Успешный ответ : 200: OK
+2023-06-11 19:20:46,229 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2023-06-11 19:20:46,230 DEBUG client.py Разбор ответа сервера: {'response': 400, 'error': 'Bad Request'}
+2023-06-11 19:20:46,230 ERROR client.py Ответ сервера 400 : Bad Request. Отсутствует обязательное поле
+2023-06-11 19:37:46,666 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2023-06-11 19:37:46,667 DEBUG client.py Разбор ответа сервера: {'response': 200}
+2023-06-11 19:37:46,667 DEBUG client.py Успешный ответ : 200: OK
+2023-06-11 19:37:46,667 INFO client.py Принят ответ от сервера 200 : OK
+2023-06-12 12:13:05,091 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2023-06-12 12:13:05,093 DEBUG client.py Разбор ответа сервера: {'response': 200}
+2023-06-12 12:13:05,093 DEBUG client.py Успешный ответ : 200: OK
+2023-06-12 12:13:05,093 INFO client.py Принят ответ от сервера 200 : OK
