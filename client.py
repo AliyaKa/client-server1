@@ -9,7 +9,6 @@ from errors import ReqFieldMissingError
 from common.variables import DEFAULT_PORT, DEFAULT_IP, ACTION, TIME, USER, ACCOUNT_NAME,\
     PRESENCE, RESPONSE, ERROR
 from common.prgm_utils import get_message, send_message
-import log.client_log_config
 
 # команда запуска для терминала:  python client.py [addr] [port]
 

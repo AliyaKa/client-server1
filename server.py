@@ -2,7 +2,6 @@
 import argparse
 import json
 import logging
-import log.server_log_config
 import socket
 import sys
 from common.variables import DEFAULT_PORT, PRESENCE, ACTION, TIME, \
