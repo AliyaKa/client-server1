@@ -1,7 +1,8 @@
 import json
 from common.variables import MAX_PACKAGE_LENGTH, ENCODING
+from decos import log
 
-
+@log
 def get_message(client):
     # функция принимает ответ стороны
     encoded_response = client.recv(MAX_PACKAGE_LENGTH)
@@ -14,6 +15,7 @@ def get_message(client):
     raise ValueError
 
 
+@log
 def send_message(sock, message):
     # функция отправляет ответ стороне
     json_message = json.dumps(message)
