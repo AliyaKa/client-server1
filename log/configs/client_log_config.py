@@ -12,7 +12,6 @@ sys.path.append('../')
 PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 PATH = os.path.join(PATH, 'logs/client/client.log')
 
-
 # создаём потоки вывода логов
 STREAM_HANDLER = logging.StreamHandler(sys.stderr)
 STREAM_HANDLER.setFormatter(FORMATTER)
