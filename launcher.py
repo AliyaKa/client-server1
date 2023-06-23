@@ -1,3 +1,4 @@
+
 import subprocess
 import time
 
@@ -16,13 +17,16 @@ while True:
                                         shell=True
                                         ))
         time.sleep(0.1)
+
         for i in range(3):
             PROCESS.append(subprocess.Popen(f'gnome-terminal -e "python client.py -n test{i}"',
+
                                             stdout=subprocess.PIPE,
                                             stderr=None,
                                             shell=True
                                             ))
             time.sleep(0.1)
+
 
     elif ACTION == 'x':
         while PROCESS:
