@@ -17,7 +17,7 @@ STREAM_HANDLER.setFormatter(FORMATTER)
 STREAM_HANDLER.setLevel(logging.ERROR)
 
 # ежедневная ротация лог-файлов
-LOG_FILE = logging.handlers.TimedRotatingFileHandler(PATH, encoding=ENCODING, interval=1, when='M')
+LOG_FILE = logging.handlers.TimedRotatingFileHandler(PATH, encoding=ENCODING, interval=1, when='D')
 LOG_FILE.setFormatter(FORMATTER)
 
 # создаём регистратор и настраиваем его
