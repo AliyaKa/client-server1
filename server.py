@@ -3,14 +3,18 @@ import argparse
 import select
 import socket
 import sys
+import time
 from common.variables import DEFAULT_PORT, PRESENCE, ACTION, TIME, \
     USER, ACCOUNT_NAME, MAX_CONNECTIONS, ERR_DICT, LOGGER, MESSAGE, \
+
     MESSAGE_TEXT, SENDER, OK_DICT, ERROR, DESTINATION, EXIT
+
 from common.prgm_utils import get_message, send_message
 from decos import log
 
 
 @log
+
 def parse_client_message(message, messages_list, client, clients, names):
     """ Обработчик сообщений от клиентов,
     принимает словарь-сообщение от клиента,
@@ -87,6 +91,7 @@ def process_message(message, names, listen_socks):
                      f'отправка сообщений не возможна.')
 
 
+
 @log
 def create_arg_parser():
     parser = argparse.ArgumentParser()
@@ -113,12 +118,15 @@ def main():
     server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     server.bind((listen_address, listen_port))
     server.settimeout(0.5)
+
     # Слушаем порт
+
     server.listen(MAX_CONNECTIONS)
 
     # список клиентов и очередь сообщений
     clients = []
     messages = []
+
 
     names = dict()  # Словарь с именами пользователей и соответствующими им сокетами
 
@@ -145,13 +153,16 @@ def main():
                 try:
                     parse_client_message(get_message(client_with_message),
                                          messages,
+
                                          client_with_message,
                                          clients,
                                          names)
+
                 except:
                     LOGGER.info(f'Клиент {client_with_message.getpeername()}'
                                 f' отключился от сервера')
                     clients.remove(client_with_message)
+
         for i in messages:
             try:
                 process_message(i, names, send_data)
@@ -160,6 +171,7 @@ def main():
                 clients.remove(names[i[DESTINATION]])
                 del names[i[DESTINATION]]
         messages.clear()
+
 
 
 if __name__ == '__main__':
