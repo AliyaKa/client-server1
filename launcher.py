@@ -1,4 +1,5 @@
 import subprocess
+import time
 
 PROCESS = []
 
@@ -17,7 +18,6 @@ while True:
                                         shell=True
                                         ))
         for i in range(clients):
-
             PROCESS.append(subprocess.Popen(f'gnome-terminal -e "python client.py -n test{i+1}"',
                                             stdout=subprocess.PIPE,
                                             stderr=None,
