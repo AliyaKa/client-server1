@@ -1,6 +1,5 @@
 
 import subprocess
-import time
 
 PROCESS = []
 
@@ -11,24 +10,23 @@ while True:
     if ACTION == 'q':
         break
     elif ACTION == 's':
+        clients = int(input('Введите количество тестовых клиентов для запуска: '))
+
         PROCESS.append(subprocess.Popen('gnome-terminal -e "python server.py"',
                                         stdout=subprocess.PIPE,
                                         stderr=None,
                                         shell=True
                                         ))
-        time.sleep(0.1)
 
-        for i in range(3):
-            PROCESS.append(subprocess.Popen(f'gnome-terminal -e "python client.py -n test{i}"',
+        for i in range(clients):
+
+            PROCESS.append(subprocess.Popen(f'gnome-terminal -e "python client.py -n test{i+1}"',
 
                                             stdout=subprocess.PIPE,
                                             stderr=None,
                                             shell=True
                                             ))
-            time.sleep(0.1)
-
 
     elif ACTION == 'x':
         while PROCESS:
-            VICTIM = PROCESS.pop()
-            VICTIM.kill()
+            PROCESS.pop().kill()

@@ -17,7 +17,7 @@ from common.prgm_utils import get_message, send_message
 def print_help():
     # Список команд
     print('Поддерживаемые команды:')
-    print('message - отправить сообщение')
+    print('msg - отправить сообщение')
     print('help - вывести справку')
     print('exit - выход из программы')
 
@@ -83,7 +83,7 @@ def user_active(sock, username):
     print_help()
     while True:
         command = input('Введите команду:')
-        if command == 'message':
+        if command == 'msg':
             create_message(sock, username)
         elif command == 'help':
             print_help()
