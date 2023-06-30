@@ -3,6 +3,7 @@ import argparse
 import select
 import socket
 import sys
+
 from common.variables import *
 from common.prgm_utils import get_message, send_message
 from decos import log
@@ -10,7 +11,9 @@ from descripors import Port
 from metaclasses import ServerMaker
 
 
+
 # Парсер аргументов командной строки:
+
 @log
 def create_arg_parser():
     parser = argparse.ArgumentParser()
@@ -163,6 +166,7 @@ def main():
     listen_address, listen_port = create_arg_parser()
     server = Server(listen_address, listen_port)
     server.main_loop()
+
 
 
 if __name__ == '__main__':
