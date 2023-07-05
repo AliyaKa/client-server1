@@ -8,6 +8,7 @@ from decos import log
 import socket
 import sys
 import time
+
 from errors import ReqFieldMissingError, ServerError, IncorrectDataRecivedError
 from common.variables import DEFAULT_PORT, DEFAULT_IP, ACTION, TIME, USER, ACCOUNT_NAME, \
     PRESENCE, RESPONSE, ERROR, MESSAGE, MESSAGE_TEXT, SENDER, DESTINATION, EXIT, LOGGER
@@ -84,6 +85,7 @@ class ClientReader(threading.Thread, metaclass=ClientMaker):
         self.sock = sock
         super().__init__()
 
+
     def run(self):
         while True:
             try:
@@ -108,8 +110,41 @@ class ClientReader(threading.Thread, metaclass=ClientMaker):
                 break
 
 
+
 @log
-def create_presence_msg(account_name):
+def message_from_server(message):
+    if ACTION in message \
+            and message[ACTION] == MESSAGE \
+            and SENDER in message \
+            and MESSAGE_TEXT in message:
+        print(f'Получено сообщение от пользователя '
+              f'{message[SENDER]}:\n{message[MESSAGE_TEXT]}')
+        LOGGER.info(f'Получено сообщение от пользователя '
+                    f'{message[SENDER]}:\n{message[MESSAGE_TEXT]}')
+    else:
+        LOGGER.error(f'Получено некорректное сообщение с сервера: {message}')
+
+
+@log
+def create_message(sock, account_name='Guest'):
+    message = input('Введите сообщение для отправки или \'!!!\' для завершения работы: ')
+    if message == '!!!':
+        sock.close()
+        LOGGER.info('Завершение работы по команде пользователя.')
+        print('Спасибо за использование нашего сервиса!')
+        sys.exit(0)
+    message_dict = {
+        ACTION: MESSAGE,
+        TIME: time.time(),
+        ACCOUNT_NAME: account_name,
+        MESSAGE_TEXT: message
+    }
+    LOGGER.debug(f'Сформирован словарь сообщения: {message_dict}')
+    return message_dict
+
+
+@log
+def create_presence_msg(account_name='Guest'):
     out = {
         ACTION: PRESENCE,
         TIME: time.time(),
@@ -141,10 +176,12 @@ def create_arg_parser():
     parser.add_argument('addr', default=DEFAULT_IP, nargs='?')
     parser.add_argument('port', default=DEFAULT_PORT, type=int, nargs='?')
     parser.add_argument('-n', '--name', default=None, nargs='?')
+
     namespace = parser.parse_args(sys.argv[1:])
     server_address = namespace.addr
     server_port = namespace.port
     client_name = namespace.name
+
 
     if server_port < 1024 or server_port > 65535:
         LOGGER.critical(
@@ -152,11 +189,14 @@ def create_arg_parser():
             f' Допустимы порты с 1024 до 65535.')
         sys.exit(1)
 
+
     return server_address, server_port, client_name
+
 
 
 @log
 def main():
+
     # сообщение о запуске
     print('Консольный менеджер. Клиентксий модуль.')
 
@@ -171,6 +211,7 @@ def main():
         f'Запущен клиент с парамертами: адрес сервера: {server_address}, '
         f'порт: {server_port}, режим работы: {client_name}')
     try:
+
         transport = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         transport.connect((server_address, server_port))
         send_message(transport, create_presence_msg(client_name))
@@ -192,6 +233,7 @@ def main():
             f'удаленный компьютер отклонил запрос на подключение.')
     else:
         # Если соединение с сервером установлено корректно,
+
         # запускаем клиентский процесс приема сообщений.
         receiver = ClientReader(client_name, transport)
         receiver.daemon = True
@@ -208,6 +250,7 @@ def main():
             if receiver.is_alive() and module_sender.is_alive():
                 continue
             break
+
 
 
 if __name__ == '__main__':

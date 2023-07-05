@@ -5,6 +5,7 @@ import socket
 import sys
 import threading
 
+
 from common.variables import *
 from common.prgm_utils import get_message, send_message
 from decos import log
@@ -13,7 +14,9 @@ from metaclasses import ServerMaker
 from server_database import ServerStorage
 
 
+
 # Парсер аргументов командной строки:
+
 @log
 def create_arg_parser():
     parser = argparse.ArgumentParser()
@@ -207,6 +210,7 @@ def main():
                 print(f'Пользователь {user[0]} время входа: {user[1]}. Вход с: {user[2]}:{user[3]}')
         else:
             print('Команда не распознана')
+
 
 
 if __name__ == '__main__':
