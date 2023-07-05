@@ -12,8 +12,10 @@ MAX_CONNECTIONS = 5
 MAX_PACKAGE_LENGTH = 1024
 # Кодировка проекта
 ENCODING = 'utf-8'
-# База данных для хранения данных сервера
-SERVER_DATABASE = 'sqlite:///server_base.db3'
+# # База данных для хранения данных сервера
+# SERVER_DATABASE = 'sqlite:///server_base.db3'
+# База данных для хранения данных сервера:
+SERVER_CONFIG = 'server.ini'
 
 # Прококол JIM основные ключи:
 ACTION = 'action'
@@ -30,12 +32,22 @@ ERROR = 'error'
 MESSAGE = 'message'
 MESSAGE_TEXT = 'mess_text'
 EXIT = 'exit'
+GET_CONTACTS = 'get_contacts'
+LIST_INFO = 'data_list'
+REMOVE_CONTACT = 'remove'
+ADD_CONTACT = 'add'
+USERS_REQUEST = 'get_users'
 ERR_DICT = {
         RESPONSE: 400,
         ERROR: 'Bad Request'
     }
 
 OK_DICT = {RESPONSE: 200}
+
+# 202
+RESPONSE_202 = {RESPONSE: 202,
+                LIST_INFO:None
+                }
 
 # Текущий уровень логирования
 LOGGING_LEVEL = logging.DEBUG
