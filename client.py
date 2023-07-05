@@ -15,8 +15,6 @@ from common.variables import DEFAULT_PORT, DEFAULT_IP, ACTION, TIME, USER, ACCOU
 from common.prgm_utils import get_message, send_message
 from metaclasses import ClientMaker
 
-LOGGER = logging.getLogger('client')
-
 
 # Класс создания и отправки сообщений на сервер и взаимодействия с пользователем:
 class ClientSender(threading.Thread, metaclass=ClientMaker):
