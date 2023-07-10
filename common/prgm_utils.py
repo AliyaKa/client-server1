@@ -1,6 +1,7 @@
 import json
 from common.variables import MAX_PACKAGE_LENGTH, ENCODING
-from decos import log
+from common.decos import log
+
 
 @log
 def get_message(client):

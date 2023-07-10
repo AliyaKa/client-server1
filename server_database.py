@@ -1,6 +1,5 @@
 from sqlalchemy import create_engine, Table, Column, Integer, String, MetaData, ForeignKey, DateTime
 from sqlalchemy.orm import sessionmaker, registry
-from common.variables import *
 import datetime
 
 mapper_registry = registry()
@@ -230,7 +229,7 @@ class ServerStorage:
         query = self.session.query(self.UsersContacts, self.AllUsers.name). \
             filter_by(user=user.id). \
             join(self.AllUsers, self.UsersContacts.contact == self.AllUsers.id)
-        return [contact[1] for contact in query.all]
+        return [contact[1] for contact in query.all()]
 
     def message_history(self):
         query = self.session.query(

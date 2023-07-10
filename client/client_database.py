@@ -1,8 +1,10 @@
 import datetime
+import os.path
 
 from sqlalchemy import create_engine, MetaData, Table, Column, Integer, String, Text, DateTime
 from sqlalchemy.orm import registry, sessionmaker
-
+import sys
+sys.path.append('../')
 mapper_registry = registry()
 
 
@@ -30,12 +32,12 @@ class ClientDB:
 
     # движок БД, каждый клиент будет иметь свою БД
     def __init__(self, name):
-        self.database_engine = create_engine(f'sqlite:///client_{name}.db3',
-                                             echo=False,  # отключение ведения лога (вывод sql-запросов)
-                                             pool_recycle=7200,  # опция переустановки соединения
-                                             # отключаем проверки на подключения с разных потоков
-                                             connect_args={'check_same_thread': False}
-                                             )
+        path = os.path.dirname(os.path.realpath(__file__))
+        filename = f'client_{name}.db3'
+        self.database_engine = create_engine(f'sqlite:///{os.path.join(path, filename)}',
+                                             echo=False,
+                                             pool_recycle=7200,
+                                             connect_args={'check_same_thread': False})
         # Создаем объект Metadata
         self.metadata = MetaData()
 
@@ -141,17 +143,4 @@ class ClientDB:
 # отладка
 if __name__ == '__main__':
     test_db = ClientDB('test1')
-    for i in ['Aliya', 'Mary', 'Kate']:
-        test_db.add_contact(i)
-    test_db.add_contact('Lena')
-    test_db.add_users(['Aliya', 'Mary', 'Kate', 'Lena', 'Suzanna'])
-    test_db.save_message('Aliya', 'Kate', f'Привет! я тестовое сообщение от {datetime.datetime.now()}!')
-    test_db.save_message('Lena', 'Aliya', f'Привет! я ответное тестовое сообщение от {datetime.datetime.now()}!')
-    print(test_db.get_contacts())
-    print(test_db.get_users())
-    print(test_db.check_user('vika'))
-    print(test_db.check_user('tata'))
-    print(test_db.get_history('Aliya'))
-    print(test_db.get_history(to_who='Lena'))
-    test_db.del_contact('Suzanna')
-    print(test_db.get_contacts())
+    print(sorted(test_db.get_history('test2'), key=lambda item: item[3]))
