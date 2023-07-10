@@ -22,8 +22,10 @@ ACTION = 'action'
 TIME = 'time'
 USER = 'user'
 ACCOUNT_NAME = 'account_name'
+
 SENDER = 'from'
 DESTINATION = 'to'
+
 
 # Прочие ключи, используемые в протоколе
 PRESENCE = 'presence'
@@ -31,12 +33,15 @@ RESPONSE = 'response'
 ERROR = 'error'
 MESSAGE = 'message'
 MESSAGE_TEXT = 'mess_text'
+
 EXIT = 'exit'
+
 GET_CONTACTS = 'get_contacts'
 LIST_INFO = 'data_list'
 REMOVE_CONTACT = 'remove'
 ADD_CONTACT = 'add'
 USERS_REQUEST = 'get_users'
+
 ERR_DICT = {
         RESPONSE: 400,
         ERROR: 'Bad Request'

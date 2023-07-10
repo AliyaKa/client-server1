@@ -11,6 +11,7 @@ from decos import log
 import socket
 import sys
 import time
+
 from errors import ReqFieldMissingError, ServerError, IncorrectDataRecivedError
 from common.variables import DEFAULT_PORT, DEFAULT_IP, ACTION, TIME, USER, ACCOUNT_NAME, \
     PRESENCE, RESPONSE, ERROR, MESSAGE, MESSAGE_TEXT, SENDER, DESTINATION, EXIT, LOGGER, GET_CONTACTS, LIST_INFO, \
@@ -163,6 +164,7 @@ class ClientReader(threading.Thread, metaclass=ClientMaker):
         self.database = database
         super().__init__()
 
+
     def run(self):
         while True:
             time.sleep(1)
@@ -206,9 +208,11 @@ class ClientReader(threading.Thread, metaclass=ClientMaker):
                         LOGGER.error(f'Получено некорректное сообщение с сервера: {message}')
 
 
+
 # Функция генерирует запрос о присутствии клиента
+
 @log
-def create_presence_msg(account_name):
+def create_presence_msg(account_name='Guest'):
     out = {
         ACTION: PRESENCE,
         TIME: time.time(),
@@ -240,10 +244,12 @@ def create_arg_parser():
     parser.add_argument('addr', default=DEFAULT_IP, nargs='?')
     parser.add_argument('port', default=DEFAULT_PORT, type=int, nargs='?')
     parser.add_argument('-n', '--name', default=None, nargs='?')
+
     namespace = parser.parse_args(sys.argv[1:])
     server_address = namespace.addr
     server_port = namespace.port
     client_name = namespace.name
+
 
     if server_port < 1024 or server_port > 65535:
         LOGGER.critical(
@@ -251,7 +257,9 @@ def create_arg_parser():
             f' Допустимы порты с 1024 до 65535.')
         sys.exit(1)
 
+
     return server_address, server_port, client_name
+
 
 
 # Функционал:
@@ -347,8 +355,10 @@ def database_load(sock, database, username):
             database.add_contact(contact)
 
 
+
 @log
 def main():
+
     # сообщение о запуске
     print('Консольный менеджер. Клиентксий модуль.')
 
@@ -366,6 +376,7 @@ def main():
         f'Запущен клиент с парамертами: адрес сервера: {server_address}, '
         f'порт: {server_port}, режим работы: {client_name}')
     try:
+
         transport = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         transport.settimeout(1)  # необходим для освобождения сокета
         transport.connect((server_address, server_port))
@@ -387,9 +398,11 @@ def main():
             f'Не удалось подключиться к серверу {server_address} : {server_port}, '
             f'удаленный компьютер отклонил запрос на подключение.')
     else:
+
         # Инициализация БД
         database = ClientDB(client_name)
         database_load(transport, database, client_name)
+
 
         # Если соединение с сервером установлено корректно,
         # запускаем отправку сообщений и взаимодействие с пользователем.
@@ -407,6 +420,7 @@ def main():
             if receiver.is_alive() and module_sender.is_alive():
                 continue
             break
+
 
 
 if __name__ == '__main__':

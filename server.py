@@ -6,8 +6,10 @@ import select
 import socket
 import threading
 
+
 from PyQt5.QtCore import QTimer
 from PyQt5.QtWidgets import QApplication, QMessageBox
+
 
 from common.variables import *
 from common.prgm_utils import get_message, send_message
@@ -22,7 +24,9 @@ new_connection = False
 conflag_lock = threading.Lock()
 
 
+
 # Парсер аргументов командной строки:
+
 @log
 def create_arg_parser(default_port, default_address):
     parser = argparse.ArgumentParser()
@@ -338,6 +342,7 @@ def main():
 
     # Запускаем GUI
     server_app.exec_()
+
 
 
 if __name__ == '__main__':
