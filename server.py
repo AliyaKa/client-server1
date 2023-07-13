@@ -13,7 +13,7 @@ from PyQt5.QtWidgets import QApplication, QMessageBox
 
 from common.variables import *
 from common.prgm_utils import get_message, send_message
-from decos import log
+from common.decos import log
 from descripors import Port
 from metaclasses import ServerMaker
 from server_database import ServerStorage
@@ -71,6 +71,7 @@ class Server(threading.Thread, metaclass=ServerMaker):
 
     def run(self):
         # Инициализируем сокет:
+        global new_connection
         self.init_socket()
 
         while True:
@@ -110,6 +111,8 @@ class Server(threading.Thread, metaclass=ServerMaker):
                                 del self.names[name]
                                 break
                         self.clients.remove(client_with_message)
+                        with conflag_lock:
+                            new_connection = True
 
             # Если есть сообщения, обрабатываем каждое
             for message in self.messages:
@@ -123,6 +126,8 @@ class Server(threading.Thread, metaclass=ServerMaker):
                     self.clients.remove(self.names[message[DESTINATION]])
                     self.database.user_logout(message[DESTINATION])
                     del self.names[message[DESTINATION]]
+                    with conflag_lock:
+                        new_connection = True
             self.messages.clear()
 
     def process_message(self, message, listen_socks):
@@ -249,11 +254,23 @@ class Server(threading.Thread, metaclass=ServerMaker):
             return
 
 
-def main():
+def config_load():
     config = configparser.ConfigParser()
-
     dir_path = os.path.dirname(os.path.realpath(__file__))
     config.read(f"{dir_path}/{'server.ini'}")
+    if 'SETTINGS' in config:
+        return config
+    else:
+        config.add_section('SETTINGS')
+        config.set('SETTINGS', 'Default_port', str(DEFAULT_PORT))
+        config.set('SETTINGS', 'Listen_Address', '')
+        config.set('SETTINGS', 'Database_path', '')
+        config.set('SETTINGS', 'Database_file', 'server_database.db3')
+        return config
+
+
+def main():
+    config = config_load()
 
     # Загрузка параметров командной строки (либо по умолчанию)
     listen_address, listen_port = create_arg_parser(
