@@ -3,6 +3,7 @@ import argparse
 
 from PyQt5.QtWidgets import QApplication
 
+
 from client.main_window import ClientMainWindow
 from client.start_dialog import UserNameDialog
 from client.transport import ClientTransport
@@ -19,10 +20,12 @@ def create_arg_parser():
     parser.add_argument('addr', default=DEFAULT_IP, nargs='?')
     parser.add_argument('port', default=DEFAULT_PORT, type=int, nargs='?')
     parser.add_argument('-n', '--name', default=None, nargs='?')
+
     namespace = parser.parse_args(sys.argv[1:])
     server_address = namespace.addr
     server_port = namespace.port
     client_name = namespace.name
+
 
     if server_port < 1024 or server_port > 65535:
         LOGGER.critical(
@@ -30,10 +33,12 @@ def create_arg_parser():
             f' Допустимы порты с 1024 до 65535.')
         sys.exit(1)
 
+
     return server_address, server_port, client_name
 
 
 if __name__ == '__main__':
+
     # загружаем параметры командной строки
     server_address, server_port, client_name = create_arg_parser()
 
@@ -72,3 +77,4 @@ if __name__ == '__main__':
     # Раз графическая оболочка закрылась, закрываем транспорт
     transport.transport_shutdown()
     transport.join()
+

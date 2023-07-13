@@ -1,3 +1,4 @@
+
 2023-06-11 11:13:55,768 DEBUG client.py Сформировано presence сообщение для пользователя Guest
 2023-06-11 11:13:55,768 DEBUG client.py Успешный ответ сервера: 200: OK
 2023-06-11 11:15:13,084 DEBUG client.py Сформировано presence сообщение для пользователя Guest
@@ -2403,6 +2404,7 @@ fffff
 2023-07-05 13:28:22,521 DEBUG (decos.py) Функция create_presence_msg c параметрами ('test1',), {}. Вызов из модуля __main__. 
 2023-07-05 13:28:22,521 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 38040), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1688545702.5208642, 'user': {'account_name': 'test1'}}), {}. Вызов из модуля common.prgm_utils. 
 2023-07-05 13:36:17,544 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+
 2023-07-09 09:44:13,095 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
 2023-07-09 09:44:20,601 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777, режим работы: test1
 2023-07-09 09:44:20,602 DEBUG (client.py) Сформировано presence сообщение для пользователя test1
@@ -4033,3 +4035,4 @@ fffff
 2023-07-10 14:52:06,471 DEBUG (transport.py) Потеряно соединение с сервером.
 2023-07-10 14:52:09,999 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=22, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 36982), raddr=('127.0.0.1', 7777)>, {'action': 'exit', 'time': 1688982729.599472, 'account_name': 'test1'}), {}. Вызов из модуля common.prgm_utils. 
 2023-07-10 14:52:09,999 DEBUG (transport.py) Транспорт завершает работу
+
