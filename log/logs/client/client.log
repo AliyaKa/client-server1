@@ -4033,3 +4033,1012 @@ fffff
 2023-07-10 14:52:06,471 DEBUG (transport.py) Потеряно соединение с сервером.
 2023-07-10 14:52:09,999 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=22, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 36982), raddr=('127.0.0.1', 7777)>, {'action': 'exit', 'time': 1688982729.599472, 'account_name': 'test1'}), {}. Вызов из модуля common.prgm_utils. 
 2023-07-10 14:52:09,999 DEBUG (transport.py) Транспорт завершает работу
+2023-07-12 21:07:00,266 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 21:07:00,296 DEBUG (client.py) Args loaded
+2023-07-12 21:07:00,312 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 21:07:00,312 DEBUG (client.py) Args loaded
+2023-07-12 21:07:00,324 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 21:07:00,324 DEBUG (client.py) Args loaded
+2023-07-12 21:07:01,159 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: test3
+2023-07-12 21:07:01,159 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: test1
+2023-07-12 21:07:01,159 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: test2
+2023-07-12 21:07:01,682 DEBUG (client.py) Keys successfully loaded
+2023-07-12 21:07:02,271 DEBUG (client.py) Keys successfully loaded
+2023-07-12 21:07:02,536 DEBUG (client.py) Keys successfully loaded
+2023-07-12 21:07:59,533 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 21:07:59,533 DEBUG (client.py) Args loaded
+2023-07-12 21:07:59,666 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 21:07:59,667 DEBUG (client.py) Args loaded
+2023-07-12 21:07:59,748 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 21:07:59,749 DEBUG (client.py) Args loaded
+2023-07-12 21:07:59,939 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: test2
+2023-07-12 21:08:00,063 DEBUG (client.py) Keys successfully loaded
+2023-07-12 21:08:00,118 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: test3
+2023-07-12 21:08:00,248 DEBUG (client.py) Keys successfully loaded
+2023-07-12 21:08:00,456 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: test1
+2023-07-12 21:08:00,631 DEBUG (client.py) Keys successfully loaded
+2023-07-12 21:09:20,373 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 21:09:20,373 DEBUG (client.py) Args loaded
+2023-07-12 21:09:20,463 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 21:09:20,463 DEBUG (client.py) Args loaded
+2023-07-12 21:09:20,487 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 21:09:20,487 DEBUG (client.py) Args loaded
+2023-07-12 21:09:20,749 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: test2
+2023-07-12 21:09:20,821 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: test1
+2023-07-12 21:09:20,853 DEBUG (client.py) Keys successfully loaded
+2023-07-12 21:09:20,864 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: test3
+2023-07-12 21:09:20,929 DEBUG (client.py) Keys successfully loaded
+2023-07-12 21:09:20,972 DEBUG (client.py) Keys successfully loaded
+2023-07-12 21:09:43,737 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 21:09:43,737 DEBUG (client.py) Args loaded
+2023-07-12 21:16:26,139 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 21:16:26,139 DEBUG (client.py) Args loaded
+2023-07-12 21:18:59,162 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 21:18:59,162 DEBUG (client.py) Args loaded
+2023-07-12 21:18:59,188 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 21:18:59,188 DEBUG (client.py) Args loaded
+2023-07-12 21:18:59,443 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: test1
+2023-07-12 21:18:59,477 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: test2
+2023-07-12 21:18:59,538 DEBUG (client.py) Keys successfully loaded
+2023-07-12 21:18:59,560 DEBUG (client.py) Keys successfully loaded
+2023-07-12 21:19:10,878 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 21:19:10,878 DEBUG (client.py) Args loaded
+2023-07-12 21:19:10,922 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 21:19:10,922 DEBUG (client.py) Args loaded
+2023-07-12 21:19:11,102 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: test1
+2023-07-12 21:19:11,209 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: test2
+2023-07-12 21:19:11,249 DEBUG (client.py) Keys successfully loaded
+2023-07-12 21:19:11,305 DEBUG (client.py) Keys successfully loaded
+2023-07-12 21:30:14,443 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 21:30:14,458 DEBUG (client.py) Args loaded
+2023-07-12 21:30:14,488 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 21:30:14,489 DEBUG (client.py) Args loaded
+2023-07-12 21:30:14,827 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: test1
+2023-07-12 21:30:14,850 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: test2
+2023-07-12 21:30:14,918 DEBUG (client.py) Keys successfully loaded
+2023-07-12 21:30:14,943 DEBUG (client.py) Keys successfully loaded
+2023-07-12 21:31:15,769 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 21:31:15,769 DEBUG (client.py) Args loaded
+2023-07-12 21:31:25,998 DEBUG (client.py) Using USERNAME = test11, PASSWD = 1
+2023-07-12 21:31:25,999 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: test11
+2023-07-12 21:31:26,783 DEBUG (client.py) Keys successfully loaded
+2023-07-12 21:36:28,557 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 21:36:28,557 DEBUG (client.py) Args loaded
+2023-07-12 21:36:36,330 DEBUG (client.py) Using USERNAME = test11, PASSWD = 1
+2023-07-12 21:36:36,330 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: test11
+2023-07-12 21:36:36,405 DEBUG (client.py) Keys successfully loaded
+2023-07-12 21:39:14,156 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 21:39:14,156 DEBUG (client.py) Args loaded
+2023-07-12 21:39:20,159 DEBUG (client.py) Using USERNAME = test11, PASSWD = 1
+2023-07-12 21:39:20,160 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: test11
+2023-07-12 21:39:20,234 DEBUG (client.py) Keys successfully loaded
+2023-07-12 21:43:11,255 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 21:43:11,255 DEBUG (client.py) Args loaded
+2023-07-12 21:43:18,532 DEBUG (client.py) Using USERNAME = test11, PASSWD = 1
+2023-07-12 21:43:18,532 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: test11
+2023-07-12 21:43:18,606 DEBUG (client.py) Keys successfully loaded
+2023-07-12 22:13:48,381 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 22:13:48,381 DEBUG (client.py) Args loaded
+2023-07-12 22:13:55,568 DEBUG (client.py) Using USERNAME = test11, PASSWD = 1
+2023-07-12 22:13:55,568 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: test11
+2023-07-12 22:13:55,653 DEBUG (client.py) Keys successfully loaded
+2023-07-12 22:13:55,718 INFO (transport.py) Попытка подключения № 1
+2023-07-12 22:13:55,719 DEBUG (transport.py) Connection established.
+2023-07-12 22:13:55,719 DEBUG (transport.py) Starting auth dialog
+2023-07-12 22:13:55,751 DEBUG (transport.py) Passwd hash ready: b'99d6de71ce050174245b4813d4f2ef34398ac31540b343ec4d338dc709e6ac21e8b3ec6e97cca8ed11876a37ad632f60a9fc26fd50e7dac28929f662b1b298b9'
+2023-07-12 22:13:55,751 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689182035.7518697, 'user': {'account_name': 'test11', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnVV3gWFE1KQueBiqrGnF\nwhm9ZbDuuFhKKvO31sKJQZw5czuN1XXn05cS2bwSYhcsl0Y0I9hvfgH8V07E2aRo\nfZn51ABNMA+/0ckYClv+woybcsFGROhuIKSyp91E96BcE7J2RGw3V/2raNcQMXN3\n2rgGenk/bcEwYozQwWvDzSefaaN/nLmdWTtT65XMMhvD9m2wurmEuiWr65zsow3j\nLKYwGMl7MuigbT+kEKy2IaZYPYyFW71iZ2F27JRoGyHRO/Bks3e45PFWBKzKc/xs\nTLgyj4llTAo9zpJNoxo5RtveJ4jADJPrZMHOqjlv5phypWh+1e/VlGDfb0d5WCQq\nsQIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-12 22:13:55,752 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 49830), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689182035.7518697, 'user': {'account_name': 'test11', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnVV3gWFE1KQueBiqrGnF\nwhm9ZbDuuFhKKvO31sKJQZw5czuN1XXn05cS2bwSYhcsl0Y0I9hvfgH8V07E2aRo\nfZn51ABNMA+/0ckYClv+woybcsFGROhuIKSyp91E96BcE7J2RGw3V/2raNcQMXN3\n2rgGenk/bcEwYozQwWvDzSefaaN/nLmdWTtT65XMMhvD9m2wurmEuiWr65zsow3j\nLKYwGMl7MuigbT+kEKy2IaZYPYyFW71iZ2F27JRoGyHRO/Bks3e45PFWBKzKc/xs\nTLgyj4llTAo9zpJNoxo5RtveJ4jADJPrZMHOqjlv5phypWh+1e/VlGDfb0d5WCQq\nsQIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 22:14:00,754 DEBUG (transport.py) Connection error.
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/client/transport.py", line 102, in connection_init
+    ans = get_message(self.transport)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 12, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 9, in get_message
+    encoded_response = client.recv(MAX_PACKAGE_LENGTH)
+TimeoutError: timed out
+2023-07-12 22:14:18,418 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 22:14:18,418 DEBUG (client.py) Args loaded
+2023-07-12 22:14:18,434 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 22:14:18,435 DEBUG (client.py) Args loaded
+2023-07-12 22:15:04,814 DEBUG (client.py) Using USERNAME = Aliya1, PASSWD = 1
+2023-07-12 22:15:04,815 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: Aliya1
+2023-07-12 22:15:05,308 DEBUG (client.py) Keys successfully loaded
+2023-07-12 22:15:05,757 INFO (transport.py) Попытка подключения № 1
+2023-07-12 22:15:05,758 DEBUG (transport.py) Connection established.
+2023-07-12 22:15:05,758 DEBUG (transport.py) Starting auth dialog
+2023-07-12 22:15:05,793 DEBUG (transport.py) Passwd hash ready: b'2920cea764529b20a414c7a542d6f9c6046ee22cbc2461925129cc125cda5a150c56193d0a33c12b99db165999acdbe312a87898c2f9344f95061d62ca2b9d89'
+2023-07-12 22:15:05,794 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689182105.7949393, 'user': {'account_name': 'Aliya1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtbJZfWz2fGnOHD7cyIKz\n+wYmkjJndfr5fvpTyjfwVlfPTIxqF97DvcOLEci4y0L0mbl3hEr5u/upP2uqIRin\nooYz4HnfmGW9CQugES+3mI2j6xx4J6aRbmXgxxSk965O8CDmlZdUoPA8w+cF6SYz\nN0Ivzn1QTIKD48tbAMXErtsts1zhTifHBtzSu0mpbaJoeRcJ0q+p4pGhuLqo/jG3\nfWPVAYPHhVZNd1Yh4nWcCP9xyTkzNr3UT0xxGcXfYVj+yFN+zAM423T2/0ADsgVr\nJBHAU5WSPM5eJMkoke+8QHeW1qpgI22U3vKBkFf47TIppY7fie8Z3GfgjQtqSbwQ\n+QIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-12 22:15:05,795 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 48258), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689182105.7949393, 'user': {'account_name': 'Aliya1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtbJZfWz2fGnOHD7cyIKz\n+wYmkjJndfr5fvpTyjfwVlfPTIxqF97DvcOLEci4y0L0mbl3hEr5u/upP2uqIRin\nooYz4HnfmGW9CQugES+3mI2j6xx4J6aRbmXgxxSk965O8CDmlZdUoPA8w+cF6SYz\nN0Ivzn1QTIKD48tbAMXErtsts1zhTifHBtzSu0mpbaJoeRcJ0q+p4pGhuLqo/jG3\nfWPVAYPHhVZNd1Yh4nWcCP9xyTkzNr3UT0xxGcXfYVj+yFN+zAM423T2/0ADsgVr\nJBHAU5WSPM5eJMkoke+8QHeW1qpgI22U3vKBkFf47TIppY7fie8Z3GfgjQtqSbwQ\n+QIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 22:15:05,982 DEBUG (client.py) Using USERNAME = Aliya2, PASSWD = 1
+2023-07-12 22:15:05,983 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: Aliya2
+2023-07-12 22:15:07,215 DEBUG (client.py) Keys successfully loaded
+2023-07-12 22:15:07,532 INFO (transport.py) Попытка подключения № 1
+2023-07-12 22:15:07,533 DEBUG (transport.py) Connection established.
+2023-07-12 22:15:07,533 DEBUG (transport.py) Starting auth dialog
+2023-07-12 22:15:07,542 DEBUG (decos.py) Функция get_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 48258), raddr=('127.0.0.1', 7777)>,), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 22:15:07,542 DEBUG (transport.py) Sever response = {'response': 511, 'bin': '7693b530ea57ebd357420abce00e4d0ce3ef0c06fddf9593235e2b56af8fc4a9b639a7103e61a8a7223276e3b17ecc56edf5a5bf43050e4e71df8ba58b21825d'}
+2023-07-12 22:15:07,543 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 48258), raddr=('127.0.0.1', 7777)>, {'response': 511, 'bin': '/JIQfsLNsNO8fhWMCN1AeA==\n'}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 22:15:07,544 DEBUG (decos.py) Функция get_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 48258), raddr=('127.0.0.1', 7777)>,), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 22:15:07,544 DEBUG (transport.py) Запрос списка известных пользователей Aliya1
+2023-07-12 22:15:07,544 DEBUG (transport.py) Сформирован запрос {'action': 'get_users', 'time': 1689182107.5446072, 'account_name': 'Aliya1'}
+2023-07-12 22:15:07,545 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 48258), raddr=('127.0.0.1', 7777)>, {'action': 'get_users', 'time': 1689182107.5446072, 'account_name': 'Aliya1'}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 22:15:07,567 DEBUG (transport.py) Passwd hash ready: b'd5d5a57aa99979a295d88d03a3031f2590dbeb4efe760d1b593213f60a1100bef752c94392d8e2cafed228b00cb9d6cc5f9a47aaf33aea87431f50c61a2e5df0'
+2023-07-12 22:15:07,568 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689182107.5681338, 'user': {'account_name': 'Aliya2', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnik9aIT1ZndLxCOAEuPn\nOEIkoTA4c2PQzkc825yVTDFsA5H3jySKvL6SztfEdNJn/Bp4xr/FDd4FoHFOU5bV\n4zPLs38YgZqbpVih4IHYc8KWIt+uE1GCPZRjd6UmMbsDyLly5QTsO2gIWwPZDIWo\n5DGLlF1zG8zSdTa+zYI+nDw3yZfX0xaltQ+/9MT/hAbpJS4rh+x8FS/0VFUp8zrN\nII7/Vaonxcg0qZrKIq2YWxwp9EsuYaq87AaRQ2OuAA6VRPVJsdrrbdSXnlBz22/c\nFlWsXn7kyFpMFdnlJYm05alaGPYvOCnEf2kDaSipSjErwwrEi8tUmiCjuswiiLGM\n6QIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-12 22:15:07,568 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 48262), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689182107.5681338, 'user': {'account_name': 'Aliya2', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnik9aIT1ZndLxCOAEuPn\nOEIkoTA4c2PQzkc825yVTDFsA5H3jySKvL6SztfEdNJn/Bp4xr/FDd4FoHFOU5bV\n4zPLs38YgZqbpVih4IHYc8KWIt+uE1GCPZRjd6UmMbsDyLly5QTsO2gIWwPZDIWo\n5DGLlF1zG8zSdTa+zYI+nDw3yZfX0xaltQ+/9MT/hAbpJS4rh+x8FS/0VFUp8zrN\nII7/Vaonxcg0qZrKIq2YWxwp9EsuYaq87AaRQ2OuAA6VRPVJsdrrbdSXnlBz22/c\nFlWsXn7kyFpMFdnlJYm05alaGPYvOCnEf2kDaSipSjErwwrEi8tUmiCjuswiiLGM\n6QIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 22:15:08,793 CRITICAL (transport.py) Потеряно соединение с сервером
+2023-07-12 22:15:08,793 DEBUG (transport.py) Connection error.
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/client/transport.py", line 102, in connection_init
+    ans = get_message(self.transport)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 12, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 9, in get_message
+    encoded_response = client.recv(MAX_PACKAGE_LENGTH)
+ConnectionResetError: [Errno 104] Соединение разорвано другой стороной
+2023-07-12 22:15:24,416 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 22:15:24,416 DEBUG (client.py) Args loaded
+2023-07-12 22:15:30,911 DEBUG (client.py) Using USERNAME = Aliya1, PASSWD = 1
+2023-07-12 22:15:30,911 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: Aliya1
+2023-07-12 22:15:30,986 DEBUG (client.py) Keys successfully loaded
+2023-07-12 22:15:31,048 INFO (transport.py) Попытка подключения № 1
+2023-07-12 22:15:31,048 DEBUG (transport.py) Connection established.
+2023-07-12 22:15:31,048 DEBUG (transport.py) Starting auth dialog
+2023-07-12 22:15:31,081 DEBUG (transport.py) Passwd hash ready: b'2920cea764529b20a414c7a542d6f9c6046ee22cbc2461925129cc125cda5a150c56193d0a33c12b99db165999acdbe312a87898c2f9344f95061d62ca2b9d89'
+2023-07-12 22:15:31,082 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689182131.0825775, 'user': {'account_name': 'Aliya1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtbJZfWz2fGnOHD7cyIKz\n+wYmkjJndfr5fvpTyjfwVlfPTIxqF97DvcOLEci4y0L0mbl3hEr5u/upP2uqIRin\nooYz4HnfmGW9CQugES+3mI2j6xx4J6aRbmXgxxSk965O8CDmlZdUoPA8w+cF6SYz\nN0Ivzn1QTIKD48tbAMXErtsts1zhTifHBtzSu0mpbaJoeRcJ0q+p4pGhuLqo/jG3\nfWPVAYPHhVZNd1Yh4nWcCP9xyTkzNr3UT0xxGcXfYVj+yFN+zAM423T2/0ADsgVr\nJBHAU5WSPM5eJMkoke+8QHeW1qpgI22U3vKBkFf47TIppY7fie8Z3GfgjQtqSbwQ\n+QIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-12 22:15:31,082 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 59820), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689182131.0825775, 'user': {'account_name': 'Aliya1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtbJZfWz2fGnOHD7cyIKz\n+wYmkjJndfr5fvpTyjfwVlfPTIxqF97DvcOLEci4y0L0mbl3hEr5u/upP2uqIRin\nooYz4HnfmGW9CQugES+3mI2j6xx4J6aRbmXgxxSk965O8CDmlZdUoPA8w+cF6SYz\nN0Ivzn1QTIKD48tbAMXErtsts1zhTifHBtzSu0mpbaJoeRcJ0q+p4pGhuLqo/jG3\nfWPVAYPHhVZNd1Yh4nWcCP9xyTkzNr3UT0xxGcXfYVj+yFN+zAM423T2/0ADsgVr\nJBHAU5WSPM5eJMkoke+8QHeW1qpgI22U3vKBkFf47TIppY7fie8Z3GfgjQtqSbwQ\n+QIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 22:15:36,086 DEBUG (transport.py) Connection error.
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/client/transport.py", line 102, in connection_init
+    ans = get_message(self.transport)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 12, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 9, in get_message
+    encoded_response = client.recv(MAX_PACKAGE_LENGTH)
+TimeoutError: timed out
+2023-07-12 22:17:51,657 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 22:17:51,657 DEBUG (client.py) Args loaded
+2023-07-12 22:18:03,429 DEBUG (client.py) Using USERNAME = Aliya1, PASSWD = 1
+2023-07-12 22:18:03,429 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: Aliya1
+2023-07-12 22:18:03,507 DEBUG (client.py) Keys successfully loaded
+2023-07-12 22:18:03,565 INFO (transport.py) Попытка подключения № 1
+2023-07-12 22:18:03,565 DEBUG (transport.py) Connection established.
+2023-07-12 22:18:03,565 DEBUG (transport.py) Starting auth dialog
+2023-07-12 22:18:03,577 DEBUG (transport.py) Passwd hash ready: b'2920cea764529b20a414c7a542d6f9c6046ee22cbc2461925129cc125cda5a150c56193d0a33c12b99db165999acdbe312a87898c2f9344f95061d62ca2b9d89'
+2023-07-12 22:18:03,578 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689182283.5781395, 'user': {'account_name': 'Aliya1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtbJZfWz2fGnOHD7cyIKz\n+wYmkjJndfr5fvpTyjfwVlfPTIxqF97DvcOLEci4y0L0mbl3hEr5u/upP2uqIRin\nooYz4HnfmGW9CQugES+3mI2j6xx4J6aRbmXgxxSk965O8CDmlZdUoPA8w+cF6SYz\nN0Ivzn1QTIKD48tbAMXErtsts1zhTifHBtzSu0mpbaJoeRcJ0q+p4pGhuLqo/jG3\nfWPVAYPHhVZNd1Yh4nWcCP9xyTkzNr3UT0xxGcXfYVj+yFN+zAM423T2/0ADsgVr\nJBHAU5WSPM5eJMkoke+8QHeW1qpgI22U3vKBkFf47TIppY7fie8Z3GfgjQtqSbwQ\n+QIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-12 22:18:03,578 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 46858), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689182283.5781395, 'user': {'account_name': 'Aliya1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtbJZfWz2fGnOHD7cyIKz\n+wYmkjJndfr5fvpTyjfwVlfPTIxqF97DvcOLEci4y0L0mbl3hEr5u/upP2uqIRin\nooYz4HnfmGW9CQugES+3mI2j6xx4J6aRbmXgxxSk965O8CDmlZdUoPA8w+cF6SYz\nN0Ivzn1QTIKD48tbAMXErtsts1zhTifHBtzSu0mpbaJoeRcJ0q+p4pGhuLqo/jG3\nfWPVAYPHhVZNd1Yh4nWcCP9xyTkzNr3UT0xxGcXfYVj+yFN+zAM423T2/0ADsgVr\nJBHAU5WSPM5eJMkoke+8QHeW1qpgI22U3vKBkFf47TIppY7fie8Z3GfgjQtqSbwQ\n+QIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 22:18:08,580 DEBUG (transport.py) Connection error.
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/client/transport.py", line 101, in connection_init
+    ans = get_message(self.transport)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 12, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 9, in get_message
+    encoded_response = client.recv(MAX_PACKAGE_LENGTH)
+TimeoutError: timed out
+2023-07-12 22:18:22,877 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 22:18:22,877 DEBUG (client.py) Args loaded
+2023-07-12 22:18:29,916 DEBUG (client.py) Using USERNAME = Aliya1, PASSWD = 1
+2023-07-12 22:18:29,917 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: Aliya1
+2023-07-12 22:18:29,992 DEBUG (client.py) Keys successfully loaded
+2023-07-12 22:18:30,063 INFO (transport.py) Попытка подключения № 1
+2023-07-12 22:18:30,063 DEBUG (transport.py) Connection established.
+2023-07-12 22:18:30,063 DEBUG (transport.py) Starting auth dialog
+2023-07-12 22:18:30,076 DEBUG (transport.py) Passwd hash ready: b'2920cea764529b20a414c7a542d6f9c6046ee22cbc2461925129cc125cda5a150c56193d0a33c12b99db165999acdbe312a87898c2f9344f95061d62ca2b9d89'
+2023-07-12 22:18:30,076 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689182310.0769594, 'user': {'account_name': 'Aliya1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtbJZfWz2fGnOHD7cyIKz\n+wYmkjJndfr5fvpTyjfwVlfPTIxqF97DvcOLEci4y0L0mbl3hEr5u/upP2uqIRin\nooYz4HnfmGW9CQugES+3mI2j6xx4J6aRbmXgxxSk965O8CDmlZdUoPA8w+cF6SYz\nN0Ivzn1QTIKD48tbAMXErtsts1zhTifHBtzSu0mpbaJoeRcJ0q+p4pGhuLqo/jG3\nfWPVAYPHhVZNd1Yh4nWcCP9xyTkzNr3UT0xxGcXfYVj+yFN+zAM423T2/0ADsgVr\nJBHAU5WSPM5eJMkoke+8QHeW1qpgI22U3vKBkFf47TIppY7fie8Z3GfgjQtqSbwQ\n+QIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-12 22:18:30,077 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 41886), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689182310.0769594, 'user': {'account_name': 'Aliya1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtbJZfWz2fGnOHD7cyIKz\n+wYmkjJndfr5fvpTyjfwVlfPTIxqF97DvcOLEci4y0L0mbl3hEr5u/upP2uqIRin\nooYz4HnfmGW9CQugES+3mI2j6xx4J6aRbmXgxxSk965O8CDmlZdUoPA8w+cF6SYz\nN0Ivzn1QTIKD48tbAMXErtsts1zhTifHBtzSu0mpbaJoeRcJ0q+p4pGhuLqo/jG3\nfWPVAYPHhVZNd1Yh4nWcCP9xyTkzNr3UT0xxGcXfYVj+yFN+zAM423T2/0ADsgVr\nJBHAU5WSPM5eJMkoke+8QHeW1qpgI22U3vKBkFf47TIppY7fie8Z3GfgjQtqSbwQ\n+QIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 22:18:35,078 DEBUG (transport.py) Connection error.
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/client/transport.py", line 101, in connection_init
+    ans = get_message(self.transport)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 12, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 9, in get_message
+    encoded_response = client.recv(MAX_PACKAGE_LENGTH)
+TimeoutError: timed out
+2023-07-12 22:18:39,580 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 22:18:39,581 DEBUG (client.py) Args loaded
+2023-07-12 22:18:45,860 DEBUG (client.py) Using USERNAME = Aliya2, PASSWD = 1
+2023-07-12 22:18:45,860 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: Aliya2
+2023-07-12 22:18:45,931 DEBUG (client.py) Keys successfully loaded
+2023-07-12 22:18:45,995 INFO (transport.py) Попытка подключения № 1
+2023-07-12 22:18:45,996 DEBUG (transport.py) Connection established.
+2023-07-12 22:18:45,996 DEBUG (transport.py) Starting auth dialog
+2023-07-12 22:18:46,029 DEBUG (transport.py) Passwd hash ready: b'd5d5a57aa99979a295d88d03a3031f2590dbeb4efe760d1b593213f60a1100bef752c94392d8e2cafed228b00cb9d6cc5f9a47aaf33aea87431f50c61a2e5df0'
+2023-07-12 22:18:46,030 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689182326.0301259, 'user': {'account_name': 'Aliya2', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnik9aIT1ZndLxCOAEuPn\nOEIkoTA4c2PQzkc825yVTDFsA5H3jySKvL6SztfEdNJn/Bp4xr/FDd4FoHFOU5bV\n4zPLs38YgZqbpVih4IHYc8KWIt+uE1GCPZRjd6UmMbsDyLly5QTsO2gIWwPZDIWo\n5DGLlF1zG8zSdTa+zYI+nDw3yZfX0xaltQ+/9MT/hAbpJS4rh+x8FS/0VFUp8zrN\nII7/Vaonxcg0qZrKIq2YWxwp9EsuYaq87AaRQ2OuAA6VRPVJsdrrbdSXnlBz22/c\nFlWsXn7kyFpMFdnlJYm05alaGPYvOCnEf2kDaSipSjErwwrEi8tUmiCjuswiiLGM\n6QIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-12 22:18:46,030 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35600), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689182326.0301259, 'user': {'account_name': 'Aliya2', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnik9aIT1ZndLxCOAEuPn\nOEIkoTA4c2PQzkc825yVTDFsA5H3jySKvL6SztfEdNJn/Bp4xr/FDd4FoHFOU5bV\n4zPLs38YgZqbpVih4IHYc8KWIt+uE1GCPZRjd6UmMbsDyLly5QTsO2gIWwPZDIWo\n5DGLlF1zG8zSdTa+zYI+nDw3yZfX0xaltQ+/9MT/hAbpJS4rh+x8FS/0VFUp8zrN\nII7/Vaonxcg0qZrKIq2YWxwp9EsuYaq87AaRQ2OuAA6VRPVJsdrrbdSXnlBz22/c\nFlWsXn7kyFpMFdnlJYm05alaGPYvOCnEf2kDaSipSjErwwrEi8tUmiCjuswiiLGM\n6QIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 22:18:51,034 DEBUG (transport.py) Connection error.
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/client/transport.py", line 101, in connection_init
+    ans = get_message(self.transport)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 12, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 9, in get_message
+    encoded_response = client.recv(MAX_PACKAGE_LENGTH)
+TimeoutError: timed out
+2023-07-12 22:21:07,978 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 22:21:07,978 DEBUG (client.py) Args loaded
+2023-07-12 22:21:15,706 DEBUG (client.py) Using USERNAME = Aliya1, PASSWD = 1
+2023-07-12 22:21:15,706 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: Aliya1
+2023-07-12 22:21:15,782 DEBUG (client.py) Keys successfully loaded
+2023-07-12 22:21:15,854 INFO (transport.py) Попытка подключения № 1
+2023-07-12 22:21:15,854 DEBUG (transport.py) Connection established.
+2023-07-12 22:21:15,854 DEBUG (transport.py) Starting auth dialog
+2023-07-12 22:21:15,867 DEBUG (transport.py) Passwd hash ready: b'2920cea764529b20a414c7a542d6f9c6046ee22cbc2461925129cc125cda5a150c56193d0a33c12b99db165999acdbe312a87898c2f9344f95061d62ca2b9d89'
+2023-07-12 22:21:15,868 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689182475.86815, 'user': {'account_name': 'Aliya1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtbJZfWz2fGnOHD7cyIKz\n+wYmkjJndfr5fvpTyjfwVlfPTIxqF97DvcOLEci4y0L0mbl3hEr5u/upP2uqIRin\nooYz4HnfmGW9CQugES+3mI2j6xx4J6aRbmXgxxSk965O8CDmlZdUoPA8w+cF6SYz\nN0Ivzn1QTIKD48tbAMXErtsts1zhTifHBtzSu0mpbaJoeRcJ0q+p4pGhuLqo/jG3\nfWPVAYPHhVZNd1Yh4nWcCP9xyTkzNr3UT0xxGcXfYVj+yFN+zAM423T2/0ADsgVr\nJBHAU5WSPM5eJMkoke+8QHeW1qpgI22U3vKBkFf47TIppY7fie8Z3GfgjQtqSbwQ\n+QIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-12 22:21:15,868 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 57472), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689182475.86815, 'user': {'account_name': 'Aliya1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtbJZfWz2fGnOHD7cyIKz\n+wYmkjJndfr5fvpTyjfwVlfPTIxqF97DvcOLEci4y0L0mbl3hEr5u/upP2uqIRin\nooYz4HnfmGW9CQugES+3mI2j6xx4J6aRbmXgxxSk965O8CDmlZdUoPA8w+cF6SYz\nN0Ivzn1QTIKD48tbAMXErtsts1zhTifHBtzSu0mpbaJoeRcJ0q+p4pGhuLqo/jG3\nfWPVAYPHhVZNd1Yh4nWcCP9xyTkzNr3UT0xxGcXfYVj+yFN+zAM423T2/0ADsgVr\nJBHAU5WSPM5eJMkoke+8QHeW1qpgI22U3vKBkFf47TIppY7fie8Z3GfgjQtqSbwQ\n+QIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 22:21:20,870 DEBUG (transport.py) Connection error.
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/client/transport.py", line 101, in connection_init
+    ans = get_message(self.transport)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 12, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 9, in get_message
+    encoded_response = client.recv(MAX_PACKAGE_LENGTH)
+TimeoutError: timed out
+2023-07-12 22:24:22,779 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 22:24:22,779 DEBUG (client.py) Args loaded
+2023-07-12 22:24:29,099 DEBUG (client.py) Using USERNAME = Aliya1, PASSWD = 1
+2023-07-12 22:24:29,099 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: Aliya1
+2023-07-12 22:24:29,151 DEBUG (client.py) Keys successfully loaded
+2023-07-12 22:24:29,218 INFO (transport.py) Попытка подключения № 1
+2023-07-12 22:24:29,219 DEBUG (transport.py) Connection established.
+2023-07-12 22:24:29,219 DEBUG (transport.py) Starting auth dialog
+2023-07-12 22:24:29,231 DEBUG (transport.py) Passwd hash ready: b'2920cea764529b20a414c7a542d6f9c6046ee22cbc2461925129cc125cda5a150c56193d0a33c12b99db165999acdbe312a87898c2f9344f95061d62ca2b9d89'
+2023-07-12 22:24:29,232 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689182669.232234, 'user': {'account_name': 'Aliya1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtbJZfWz2fGnOHD7cyIKz\n+wYmkjJndfr5fvpTyjfwVlfPTIxqF97DvcOLEci4y0L0mbl3hEr5u/upP2uqIRin\nooYz4HnfmGW9CQugES+3mI2j6xx4J6aRbmXgxxSk965O8CDmlZdUoPA8w+cF6SYz\nN0Ivzn1QTIKD48tbAMXErtsts1zhTifHBtzSu0mpbaJoeRcJ0q+p4pGhuLqo/jG3\nfWPVAYPHhVZNd1Yh4nWcCP9xyTkzNr3UT0xxGcXfYVj+yFN+zAM423T2/0ADsgVr\nJBHAU5WSPM5eJMkoke+8QHeW1qpgI22U3vKBkFf47TIppY7fie8Z3GfgjQtqSbwQ\n+QIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-12 22:24:29,232 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 49332), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689182669.232234, 'user': {'account_name': 'Aliya1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtbJZfWz2fGnOHD7cyIKz\n+wYmkjJndfr5fvpTyjfwVlfPTIxqF97DvcOLEci4y0L0mbl3hEr5u/upP2uqIRin\nooYz4HnfmGW9CQugES+3mI2j6xx4J6aRbmXgxxSk965O8CDmlZdUoPA8w+cF6SYz\nN0Ivzn1QTIKD48tbAMXErtsts1zhTifHBtzSu0mpbaJoeRcJ0q+p4pGhuLqo/jG3\nfWPVAYPHhVZNd1Yh4nWcCP9xyTkzNr3UT0xxGcXfYVj+yFN+zAM423T2/0ADsgVr\nJBHAU5WSPM5eJMkoke+8QHeW1qpgI22U3vKBkFf47TIppY7fie8Z3GfgjQtqSbwQ\n+QIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 22:24:34,237 DEBUG (transport.py) Connection error.
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/client/transport.py", line 101, in connection_init
+    ans = get_message(self.transport)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 12, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 9, in get_message
+    encoded_response = client.recv(MAX_PACKAGE_LENGTH)
+TimeoutError: timed out
+2023-07-12 22:25:14,383 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 22:25:14,383 DEBUG (client.py) Args loaded
+2023-07-12 22:25:23,142 DEBUG (client.py) Using USERNAME = Aliya1, PASSWD = 1
+2023-07-12 22:25:23,142 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: Aliya1
+2023-07-12 22:25:23,224 DEBUG (client.py) Keys successfully loaded
+2023-07-12 22:25:23,291 INFO (transport.py) Попытка подключения № 1
+2023-07-12 22:25:23,291 DEBUG (transport.py) Connection established.
+2023-07-12 22:25:23,291 DEBUG (transport.py) Starting auth dialog
+2023-07-12 22:25:23,323 DEBUG (transport.py) Passwd hash ready: b'2920cea764529b20a414c7a542d6f9c6046ee22cbc2461925129cc125cda5a150c56193d0a33c12b99db165999acdbe312a87898c2f9344f95061d62ca2b9d89'
+2023-07-12 22:25:23,324 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689182723.3244703, 'user': {'account_name': 'Aliya1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtbJZfWz2fGnOHD7cyIKz\n+wYmkjJndfr5fvpTyjfwVlfPTIxqF97DvcOLEci4y0L0mbl3hEr5u/upP2uqIRin\nooYz4HnfmGW9CQugES+3mI2j6xx4J6aRbmXgxxSk965O8CDmlZdUoPA8w+cF6SYz\nN0Ivzn1QTIKD48tbAMXErtsts1zhTifHBtzSu0mpbaJoeRcJ0q+p4pGhuLqo/jG3\nfWPVAYPHhVZNd1Yh4nWcCP9xyTkzNr3UT0xxGcXfYVj+yFN+zAM423T2/0ADsgVr\nJBHAU5WSPM5eJMkoke+8QHeW1qpgI22U3vKBkFf47TIppY7fie8Z3GfgjQtqSbwQ\n+QIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-12 22:25:23,324 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52942), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689182723.3244703, 'user': {'account_name': 'Aliya1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtbJZfWz2fGnOHD7cyIKz\n+wYmkjJndfr5fvpTyjfwVlfPTIxqF97DvcOLEci4y0L0mbl3hEr5u/upP2uqIRin\nooYz4HnfmGW9CQugES+3mI2j6xx4J6aRbmXgxxSk965O8CDmlZdUoPA8w+cF6SYz\nN0Ivzn1QTIKD48tbAMXErtsts1zhTifHBtzSu0mpbaJoeRcJ0q+p4pGhuLqo/jG3\nfWPVAYPHhVZNd1Yh4nWcCP9xyTkzNr3UT0xxGcXfYVj+yFN+zAM423T2/0ADsgVr\nJBHAU5WSPM5eJMkoke+8QHeW1qpgI22U3vKBkFf47TIppY7fie8Z3GfgjQtqSbwQ\n+QIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 22:25:28,329 DEBUG (transport.py) Connection error.
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/client/transport.py", line 101, in connection_init
+    ans = get_message(self.transport)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 12, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 9, in get_message
+    encoded_response = client.recv(MAX_PACKAGE_LENGTH)
+TimeoutError: timed out
+2023-07-12 22:30:44,192 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 22:30:44,192 DEBUG (client.py) Args loaded
+2023-07-12 22:30:44,254 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 22:30:44,255 DEBUG (client.py) Args loaded
+2023-07-12 22:30:58,393 DEBUG (client.py) Using USERNAME = Aliya1, PASSWD = 1
+2023-07-12 22:30:58,393 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: Aliya1
+2023-07-12 22:30:58,438 DEBUG (client.py) Keys successfully loaded
+2023-07-12 22:30:58,497 INFO (transport.py) Попытка подключения № 1
+2023-07-12 22:30:58,497 DEBUG (transport.py) Connection established.
+2023-07-12 22:30:58,498 DEBUG (transport.py) Starting auth dialog
+2023-07-12 22:30:58,530 DEBUG (transport.py) Passwd hash ready: b'2920cea764529b20a414c7a542d6f9c6046ee22cbc2461925129cc125cda5a150c56193d0a33c12b99db165999acdbe312a87898c2f9344f95061d62ca2b9d89'
+2023-07-12 22:30:58,531 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689183058.5315266, 'user': {'account_name': 'Aliya1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtbJZfWz2fGnOHD7cyIKz\n+wYmkjJndfr5fvpTyjfwVlfPTIxqF97DvcOLEci4y0L0mbl3hEr5u/upP2uqIRin\nooYz4HnfmGW9CQugES+3mI2j6xx4J6aRbmXgxxSk965O8CDmlZdUoPA8w+cF6SYz\nN0Ivzn1QTIKD48tbAMXErtsts1zhTifHBtzSu0mpbaJoeRcJ0q+p4pGhuLqo/jG3\nfWPVAYPHhVZNd1Yh4nWcCP9xyTkzNr3UT0xxGcXfYVj+yFN+zAM423T2/0ADsgVr\nJBHAU5WSPM5eJMkoke+8QHeW1qpgI22U3vKBkFf47TIppY7fie8Z3GfgjQtqSbwQ\n+QIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-12 22:30:58,531 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 43640), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689183058.5315266, 'user': {'account_name': 'Aliya1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtbJZfWz2fGnOHD7cyIKz\n+wYmkjJndfr5fvpTyjfwVlfPTIxqF97DvcOLEci4y0L0mbl3hEr5u/upP2uqIRin\nooYz4HnfmGW9CQugES+3mI2j6xx4J6aRbmXgxxSk965O8CDmlZdUoPA8w+cF6SYz\nN0Ivzn1QTIKD48tbAMXErtsts1zhTifHBtzSu0mpbaJoeRcJ0q+p4pGhuLqo/jG3\nfWPVAYPHhVZNd1Yh4nWcCP9xyTkzNr3UT0xxGcXfYVj+yFN+zAM423T2/0ADsgVr\nJBHAU5WSPM5eJMkoke+8QHeW1qpgI22U3vKBkFf47TIppY7fie8Z3GfgjQtqSbwQ\n+QIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 22:31:03,534 DEBUG (transport.py) Connection error.
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/client/transport.py", line 101, in connection_init
+    ans = get_message(self.transport)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 12, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 9, in get_message
+    encoded_response = client.recv(MAX_PACKAGE_LENGTH)
+TimeoutError: timed out
+2023-07-12 22:31:16,769 DEBUG (client.py) Using USERNAME = Aliya2, PASSWD = 1
+2023-07-12 22:31:16,769 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: Aliya2
+2023-07-12 22:31:16,845 DEBUG (client.py) Keys successfully loaded
+2023-07-12 22:31:16,904 INFO (transport.py) Попытка подключения № 1
+2023-07-12 22:31:16,904 DEBUG (transport.py) Connection established.
+2023-07-12 22:31:16,904 DEBUG (transport.py) Starting auth dialog
+2023-07-12 22:31:16,913 DEBUG (transport.py) Passwd hash ready: b'd5d5a57aa99979a295d88d03a3031f2590dbeb4efe760d1b593213f60a1100bef752c94392d8e2cafed228b00cb9d6cc5f9a47aaf33aea87431f50c61a2e5df0'
+2023-07-12 22:31:16,913 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689183076.9139774, 'user': {'account_name': 'Aliya2', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnik9aIT1ZndLxCOAEuPn\nOEIkoTA4c2PQzkc825yVTDFsA5H3jySKvL6SztfEdNJn/Bp4xr/FDd4FoHFOU5bV\n4zPLs38YgZqbpVih4IHYc8KWIt+uE1GCPZRjd6UmMbsDyLly5QTsO2gIWwPZDIWo\n5DGLlF1zG8zSdTa+zYI+nDw3yZfX0xaltQ+/9MT/hAbpJS4rh+x8FS/0VFUp8zrN\nII7/Vaonxcg0qZrKIq2YWxwp9EsuYaq87AaRQ2OuAA6VRPVJsdrrbdSXnlBz22/c\nFlWsXn7kyFpMFdnlJYm05alaGPYvOCnEf2kDaSipSjErwwrEi8tUmiCjuswiiLGM\n6QIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-12 22:31:16,914 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 45262), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689183076.9139774, 'user': {'account_name': 'Aliya2', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnik9aIT1ZndLxCOAEuPn\nOEIkoTA4c2PQzkc825yVTDFsA5H3jySKvL6SztfEdNJn/Bp4xr/FDd4FoHFOU5bV\n4zPLs38YgZqbpVih4IHYc8KWIt+uE1GCPZRjd6UmMbsDyLly5QTsO2gIWwPZDIWo\n5DGLlF1zG8zSdTa+zYI+nDw3yZfX0xaltQ+/9MT/hAbpJS4rh+x8FS/0VFUp8zrN\nII7/Vaonxcg0qZrKIq2YWxwp9EsuYaq87AaRQ2OuAA6VRPVJsdrrbdSXnlBz22/c\nFlWsXn7kyFpMFdnlJYm05alaGPYvOCnEf2kDaSipSjErwwrEi8tUmiCjuswiiLGM\n6QIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 22:31:21,919 DEBUG (transport.py) Connection error.
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/client/transport.py", line 101, in connection_init
+    ans = get_message(self.transport)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 12, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 9, in get_message
+    encoded_response = client.recv(MAX_PACKAGE_LENGTH)
+TimeoutError: timed out
+2023-07-12 22:36:06,360 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 22:36:06,360 DEBUG (client.py) Args loaded
+2023-07-12 22:36:06,373 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 22:36:06,373 DEBUG (client.py) Args loaded
+2023-07-12 22:36:19,988 DEBUG (client.py) Using USERNAME = Aliya1, PASSWD = 1
+2023-07-12 22:36:19,988 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: Aliya1
+2023-07-12 22:36:20,032 DEBUG (client.py) Keys successfully loaded
+2023-07-12 22:36:20,096 INFO (transport.py) Попытка подключения № 1
+2023-07-12 22:36:20,096 DEBUG (transport.py) Connection established.
+2023-07-12 22:36:20,096 DEBUG (transport.py) Starting auth dialog
+2023-07-12 22:36:20,110 DEBUG (transport.py) Passwd hash ready: b'2920cea764529b20a414c7a542d6f9c6046ee22cbc2461925129cc125cda5a150c56193d0a33c12b99db165999acdbe312a87898c2f9344f95061d62ca2b9d89'
+2023-07-12 22:36:20,110 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689183380.1106966, 'user': {'account_name': 'Aliya1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtbJZfWz2fGnOHD7cyIKz\n+wYmkjJndfr5fvpTyjfwVlfPTIxqF97DvcOLEci4y0L0mbl3hEr5u/upP2uqIRin\nooYz4HnfmGW9CQugES+3mI2j6xx4J6aRbmXgxxSk965O8CDmlZdUoPA8w+cF6SYz\nN0Ivzn1QTIKD48tbAMXErtsts1zhTifHBtzSu0mpbaJoeRcJ0q+p4pGhuLqo/jG3\nfWPVAYPHhVZNd1Yh4nWcCP9xyTkzNr3UT0xxGcXfYVj+yFN+zAM423T2/0ADsgVr\nJBHAU5WSPM5eJMkoke+8QHeW1qpgI22U3vKBkFf47TIppY7fie8Z3GfgjQtqSbwQ\n+QIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-12 22:36:20,110 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 34250), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689183380.1106966, 'user': {'account_name': 'Aliya1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtbJZfWz2fGnOHD7cyIKz\n+wYmkjJndfr5fvpTyjfwVlfPTIxqF97DvcOLEci4y0L0mbl3hEr5u/upP2uqIRin\nooYz4HnfmGW9CQugES+3mI2j6xx4J6aRbmXgxxSk965O8CDmlZdUoPA8w+cF6SYz\nN0Ivzn1QTIKD48tbAMXErtsts1zhTifHBtzSu0mpbaJoeRcJ0q+p4pGhuLqo/jG3\nfWPVAYPHhVZNd1Yh4nWcCP9xyTkzNr3UT0xxGcXfYVj+yFN+zAM423T2/0ADsgVr\nJBHAU5WSPM5eJMkoke+8QHeW1qpgI22U3vKBkFf47TIppY7fie8Z3GfgjQtqSbwQ\n+QIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 22:36:25,116 DEBUG (transport.py) Connection error.
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/client/transport.py", line 101, in connection_init
+    ans = get_message(self.transport)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 12, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 19, in get_message
+    encoded_response = client.recv(MAX_PACKAGE_LENGTH)
+TimeoutError: timed out
+2023-07-12 22:42:00,466 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 22:42:00,466 DEBUG (client.py) Args loaded
+2023-07-12 22:42:00,469 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 22:42:00,469 DEBUG (client.py) Args loaded
+2023-07-12 22:42:12,887 DEBUG (client.py) Using USERNAME = Aliya1, PASSWD = 1
+2023-07-12 22:42:12,887 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: Aliya1
+2023-07-12 22:42:12,931 DEBUG (client.py) Keys successfully loaded
+2023-07-12 22:42:13,001 INFO (transport.py) Попытка подключения № 1
+2023-07-12 22:42:13,002 DEBUG (transport.py) Connection established.
+2023-07-12 22:42:13,002 DEBUG (transport.py) Starting auth dialog
+2023-07-12 22:42:13,032 DEBUG (transport.py) Passwd hash ready: b'2920cea764529b20a414c7a542d6f9c6046ee22cbc2461925129cc125cda5a150c56193d0a33c12b99db165999acdbe312a87898c2f9344f95061d62ca2b9d89'
+2023-07-12 22:42:13,033 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689183733.0335274, 'user': {'account_name': 'Aliya1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtbJZfWz2fGnOHD7cyIKz\n+wYmkjJndfr5fvpTyjfwVlfPTIxqF97DvcOLEci4y0L0mbl3hEr5u/upP2uqIRin\nooYz4HnfmGW9CQugES+3mI2j6xx4J6aRbmXgxxSk965O8CDmlZdUoPA8w+cF6SYz\nN0Ivzn1QTIKD48tbAMXErtsts1zhTifHBtzSu0mpbaJoeRcJ0q+p4pGhuLqo/jG3\nfWPVAYPHhVZNd1Yh4nWcCP9xyTkzNr3UT0xxGcXfYVj+yFN+zAM423T2/0ADsgVr\nJBHAU5WSPM5eJMkoke+8QHeW1qpgI22U3vKBkFf47TIppY7fie8Z3GfgjQtqSbwQ\n+QIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-12 22:42:13,033 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 38910), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689183733.0335274, 'user': {'account_name': 'Aliya1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtbJZfWz2fGnOHD7cyIKz\n+wYmkjJndfr5fvpTyjfwVlfPTIxqF97DvcOLEci4y0L0mbl3hEr5u/upP2uqIRin\nooYz4HnfmGW9CQugES+3mI2j6xx4J6aRbmXgxxSk965O8CDmlZdUoPA8w+cF6SYz\nN0Ivzn1QTIKD48tbAMXErtsts1zhTifHBtzSu0mpbaJoeRcJ0q+p4pGhuLqo/jG3\nfWPVAYPHhVZNd1Yh4nWcCP9xyTkzNr3UT0xxGcXfYVj+yFN+zAM423T2/0ADsgVr\nJBHAU5WSPM5eJMkoke+8QHeW1qpgI22U3vKBkFf47TIppY7fie8Z3GfgjQtqSbwQ\n+QIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 22:42:18,034 DEBUG (transport.py) Connection error.
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/client/transport.py", line 101, in connection_init
+    ans = get_message(self.transport)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 19, in get_message
+    encoded_response = client.recv(MAX_PACKAGE_LENGTH)
+TimeoutError: timed out
+2023-07-12 22:43:20,874 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 22:43:20,874 DEBUG (client.py) Args loaded
+2023-07-12 22:43:51,762 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 22:43:51,762 DEBUG (client.py) Args loaded
+2023-07-12 22:43:54,837 DEBUG (client.py) Using USERNAME = qqq, PASSWD = q
+2023-07-12 22:43:54,837 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: qqq
+2023-07-12 22:43:54,965 DEBUG (client.py) Keys successfully loaded
+2023-07-12 22:43:55,267 INFO (transport.py) Попытка подключения № 1
+2023-07-12 22:43:55,268 DEBUG (transport.py) Connection established.
+2023-07-12 22:43:55,268 DEBUG (transport.py) Starting auth dialog
+2023-07-12 22:43:55,301 DEBUG (transport.py) Passwd hash ready: b'ece168de192bbb0c941059e0eb15fe6d91a15ba6a07bd97137d18ae96737ca82171ff06a6dee1ebd9fa86381c2a265cf1d6cbba201b26835b44dc7c7b0aa3959'
+2023-07-12 22:43:55,302 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689183835.3021688, 'user': {'account_name': 'qqq', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjbhb3/Ke1mbaDW/bONlr\nELfk2aVF9JtJxIOLV0GB3Dw7d3wavJSFn6ZC051PExmS8n9lDMRVctPsGEtkJImz\nNKWHm9uZLr9+lR0mL4am3PM8+ZVSh83ZP3a+Ne3tLxbjZpz904YfqgO1E5359obh\nFvmXux0cmweQXKsBXgYfCoYkW39UG+y/w+cvwUPnJ0GWMiIEqgj4ID3DMqcJOAd/\n4FA/ZkvZTaCEFSP6OHSrT1409TpFAkQCv+1NZxDVxTzOSYbTg7iNX99GpsvcSSXW\nXIoGzBAaqsvaBsdNa7WpciRbirRVFdIBoS9aVjWm5y5Hl9M7/4pQGtkmD4l+kjGk\nvwIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-12 22:43:55,302 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 48750), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689183835.3021688, 'user': {'account_name': 'qqq', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjbhb3/Ke1mbaDW/bONlr\nELfk2aVF9JtJxIOLV0GB3Dw7d3wavJSFn6ZC051PExmS8n9lDMRVctPsGEtkJImz\nNKWHm9uZLr9+lR0mL4am3PM8+ZVSh83ZP3a+Ne3tLxbjZpz904YfqgO1E5359obh\nFvmXux0cmweQXKsBXgYfCoYkW39UG+y/w+cvwUPnJ0GWMiIEqgj4ID3DMqcJOAd/\n4FA/ZkvZTaCEFSP6OHSrT1409TpFAkQCv+1NZxDVxTzOSYbTg7iNX99GpsvcSSXW\nXIoGzBAaqsvaBsdNa7WpciRbirRVFdIBoS9aVjWm5y5Hl9M7/4pQGtkmD4l+kjGk\nvwIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 22:44:00,303 DEBUG (transport.py) Connection error.
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/client/transport.py", line 101, in connection_init
+    ans = get_message(self.transport)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 19, in get_message
+    encoded_response = client.recv(MAX_PACKAGE_LENGTH)
+TimeoutError: timed out
+2023-07-12 22:45:20,723 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 22:45:20,724 DEBUG (client.py) Args loaded
+2023-07-12 22:45:44,558 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 22:45:44,558 DEBUG (client.py) Args loaded
+2023-07-12 22:45:50,019 DEBUG (client.py) Using USERNAME = qqq, PASSWD = q
+2023-07-12 22:45:50,020 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: qqq
+2023-07-12 22:45:50,097 DEBUG (client.py) Keys successfully loaded
+2023-07-12 22:45:50,161 INFO (transport.py) Попытка подключения № 1
+2023-07-12 22:45:50,161 DEBUG (transport.py) Connection established.
+2023-07-12 22:45:50,162 DEBUG (transport.py) Starting auth dialog
+2023-07-12 22:45:50,193 DEBUG (transport.py) Passwd hash ready: b'ece168de192bbb0c941059e0eb15fe6d91a15ba6a07bd97137d18ae96737ca82171ff06a6dee1ebd9fa86381c2a265cf1d6cbba201b26835b44dc7c7b0aa3959'
+2023-07-12 22:45:50,194 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689183950.1941924, 'user': {'account_name': 'qqq', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjbhb3/Ke1mbaDW/bONlr\nELfk2aVF9JtJxIOLV0GB3Dw7d3wavJSFn6ZC051PExmS8n9lDMRVctPsGEtkJImz\nNKWHm9uZLr9+lR0mL4am3PM8+ZVSh83ZP3a+Ne3tLxbjZpz904YfqgO1E5359obh\nFvmXux0cmweQXKsBXgYfCoYkW39UG+y/w+cvwUPnJ0GWMiIEqgj4ID3DMqcJOAd/\n4FA/ZkvZTaCEFSP6OHSrT1409TpFAkQCv+1NZxDVxTzOSYbTg7iNX99GpsvcSSXW\nXIoGzBAaqsvaBsdNa7WpciRbirRVFdIBoS9aVjWm5y5Hl9M7/4pQGtkmD4l+kjGk\nvwIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-12 22:45:50,194 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 49420), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689183950.1941924, 'user': {'account_name': 'qqq', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjbhb3/Ke1mbaDW/bONlr\nELfk2aVF9JtJxIOLV0GB3Dw7d3wavJSFn6ZC051PExmS8n9lDMRVctPsGEtkJImz\nNKWHm9uZLr9+lR0mL4am3PM8+ZVSh83ZP3a+Ne3tLxbjZpz904YfqgO1E5359obh\nFvmXux0cmweQXKsBXgYfCoYkW39UG+y/w+cvwUPnJ0GWMiIEqgj4ID3DMqcJOAd/\n4FA/ZkvZTaCEFSP6OHSrT1409TpFAkQCv+1NZxDVxTzOSYbTg7iNX99GpsvcSSXW\nXIoGzBAaqsvaBsdNa7WpciRbirRVFdIBoS9aVjWm5y5Hl9M7/4pQGtkmD4l+kjGk\nvwIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 22:45:55,198 DEBUG (transport.py) Connection error.
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/client/transport.py", line 101, in connection_init
+    ans = get_message(self.transport)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 19, in get_message
+    encoded_response = client.recv(MAX_PACKAGE_LENGTH)
+TimeoutError: timed out
+2023-07-12 23:21:19,660 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 23:21:19,660 DEBUG (client.py) Args loaded
+2023-07-12 23:21:23,865 DEBUG (client.py) Using USERNAME = qqq, PASSWD = q
+2023-07-12 23:21:23,865 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: qqq
+2023-07-12 23:21:23,935 DEBUG (client.py) Keys successfully loaded
+2023-07-12 23:21:24,000 INFO (transport.py) Попытка подключения № 1
+2023-07-12 23:21:24,000 DEBUG (transport.py) Connection established.
+2023-07-12 23:21:24,001 DEBUG (transport.py) Starting auth dialog
+2023-07-12 23:21:24,012 DEBUG (transport.py) Passwd hash ready: b'ece168de192bbb0c941059e0eb15fe6d91a15ba6a07bd97137d18ae96737ca82171ff06a6dee1ebd9fa86381c2a265cf1d6cbba201b26835b44dc7c7b0aa3959'
+2023-07-12 23:21:24,012 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689186084.0124698, 'user': {'account_name': 'qqq', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjbhb3/Ke1mbaDW/bONlr\nELfk2aVF9JtJxIOLV0GB3Dw7d3wavJSFn6ZC051PExmS8n9lDMRVctPsGEtkJImz\nNKWHm9uZLr9+lR0mL4am3PM8+ZVSh83ZP3a+Ne3tLxbjZpz904YfqgO1E5359obh\nFvmXux0cmweQXKsBXgYfCoYkW39UG+y/w+cvwUPnJ0GWMiIEqgj4ID3DMqcJOAd/\n4FA/ZkvZTaCEFSP6OHSrT1409TpFAkQCv+1NZxDVxTzOSYbTg7iNX99GpsvcSSXW\nXIoGzBAaqsvaBsdNa7WpciRbirRVFdIBoS9aVjWm5y5Hl9M7/4pQGtkmD4l+kjGk\nvwIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-12 23:21:24,012 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 47774), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689186084.0124698, 'user': {'account_name': 'qqq', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjbhb3/Ke1mbaDW/bONlr\nELfk2aVF9JtJxIOLV0GB3Dw7d3wavJSFn6ZC051PExmS8n9lDMRVctPsGEtkJImz\nNKWHm9uZLr9+lR0mL4am3PM8+ZVSh83ZP3a+Ne3tLxbjZpz904YfqgO1E5359obh\nFvmXux0cmweQXKsBXgYfCoYkW39UG+y/w+cvwUPnJ0GWMiIEqgj4ID3DMqcJOAd/\n4FA/ZkvZTaCEFSP6OHSrT1409TpFAkQCv+1NZxDVxTzOSYbTg7iNX99GpsvcSSXW\nXIoGzBAaqsvaBsdNa7WpciRbirRVFdIBoS9aVjWm5y5Hl9M7/4pQGtkmD4l+kjGk\nvwIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 23:21:29,014 DEBUG (transport.py) Connection error.
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/client/transport.py", line 101, in connection_init
+    ans = get_message(self.transport)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 19, in get_message
+    encoded_response = client.recv(MAX_PACKAGE_LENGTH)
+TimeoutError: timed out
+2023-07-12 23:25:09,474 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 23:25:09,474 DEBUG (client.py) Args loaded
+2023-07-12 23:25:14,883 DEBUG (client.py) Using USERNAME = aliya, PASSWD = a
+2023-07-12 23:25:14,884 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: aliya
+2023-07-12 23:25:15,612 DEBUG (client.py) Keys successfully loaded
+2023-07-12 23:25:15,933 INFO (transport.py) Попытка подключения № 1
+2023-07-12 23:25:15,933 DEBUG (transport.py) Connection established.
+2023-07-12 23:25:15,933 DEBUG (transport.py) Starting auth dialog
+2023-07-12 23:25:15,968 DEBUG (transport.py) Passwd hash ready: b'13f5a4580499f0a0abd836716a48d5b91f432128f8a30cd40caf3166e1cc30895094808583b263f38f0081ccf337a6775f9d1ba340798fdb6c225af344fa2cca'
+2023-07-12 23:25:15,969 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689186315.9692464, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-12 23:25:15,969 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 45228), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689186315.9692464, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 23:25:20,974 DEBUG (transport.py) Connection error.
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/client/transport.py", line 101, in connection_init
+    ans = get_message(self.transport)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 19, in get_message
+    encoded_response = client.recv(MAX_PACKAGE_LENGTH)
+TimeoutError: timed out
+2023-07-12 23:26:39,158 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 23:26:39,158 DEBUG (client.py) Args loaded
+2023-07-12 23:26:45,587 DEBUG (client.py) Using USERNAME = aliya, PASSWD = a
+2023-07-12 23:26:45,588 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: aliya
+2023-07-12 23:26:45,659 DEBUG (client.py) Keys successfully loaded
+2023-07-12 23:26:45,744 INFO (transport.py) Попытка подключения № 1
+2023-07-12 23:26:45,744 DEBUG (transport.py) Connection established.
+2023-07-12 23:26:45,744 DEBUG (transport.py) Starting auth dialog
+2023-07-12 23:26:45,756 DEBUG (transport.py) Passwd hash ready: b'13f5a4580499f0a0abd836716a48d5b91f432128f8a30cd40caf3166e1cc30895094808583b263f38f0081ccf337a6775f9d1ba340798fdb6c225af344fa2cca'
+2023-07-12 23:26:45,756 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689186405.7567585, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-12 23:26:45,756 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 44362), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689186405.7567585, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 23:26:50,760 DEBUG (transport.py) Connection error.
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/client/transport.py", line 101, in connection_init
+    ans = get_message(self.transport)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 19, in get_message
+    encoded_response = client.recv(MAX_PACKAGE_LENGTH)
+TimeoutError: timed out
+2023-07-12 23:28:43,691 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 23:28:43,691 DEBUG (client.py) Args loaded
+2023-07-12 23:28:48,689 DEBUG (client.py) Using USERNAME = aliya, PASSWD = a
+2023-07-12 23:28:48,689 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: aliya
+2023-07-12 23:28:48,728 DEBUG (client.py) Keys successfully loaded
+2023-07-12 23:28:48,804 INFO (transport.py) Попытка подключения № 1
+2023-07-12 23:28:48,804 DEBUG (transport.py) Connection established.
+2023-07-12 23:28:48,804 DEBUG (transport.py) Starting auth dialog
+2023-07-12 23:28:48,837 DEBUG (transport.py) Passwd hash ready: b'13f5a4580499f0a0abd836716a48d5b91f432128f8a30cd40caf3166e1cc30895094808583b263f38f0081ccf337a6775f9d1ba340798fdb6c225af344fa2cca'
+2023-07-12 23:28:48,838 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689186528.838224, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-12 23:28:48,838 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35746), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689186528.838224, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 23:28:48,838 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 35746), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689186528.838224, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 23:28:53,842 DEBUG (transport.py) Connection error.
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/client/transport.py", line 103, in connection_init
+    ans = get_message(self.transport)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 19, in get_message
+    encoded_response = client.recv(MAX_PACKAGE_LENGTH)
+TimeoutError: timed out
+2023-07-12 23:30:19,988 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 23:30:19,988 DEBUG (client.py) Args loaded
+2023-07-12 23:30:26,639 DEBUG (client.py) Using USERNAME = aliya, PASSWD = a
+2023-07-12 23:30:26,640 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: aliya
+2023-07-12 23:30:26,710 DEBUG (client.py) Keys successfully loaded
+2023-07-12 23:30:26,798 INFO (transport.py) Попытка подключения № 1
+2023-07-12 23:30:26,799 DEBUG (transport.py) Connection established.
+2023-07-12 23:30:26,799 DEBUG (transport.py) Starting auth dialog
+2023-07-12 23:30:26,810 DEBUG (transport.py) Passwd hash ready: b'13f5a4580499f0a0abd836716a48d5b91f432128f8a30cd40caf3166e1cc30895094808583b263f38f0081ccf337a6775f9d1ba340798fdb6c225af344fa2cca'
+2023-07-12 23:30:26,810 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689186626.8109062, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-12 23:30:26,811 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51422), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689186626.8109062, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 23:30:31,812 DEBUG (transport.py) Connection error.
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/client/transport.py", line 101, in connection_init
+    ans = get_message(self.transport)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 19, in get_message
+    encoded_response = client.recv(MAX_PACKAGE_LENGTH)
+TimeoutError: timed out
+2023-07-12 23:42:14,018 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 23:42:14,018 DEBUG (client.py) Args loaded
+2023-07-12 23:42:20,003 DEBUG (client.py) Using USERNAME = aliya, PASSWD = a
+2023-07-12 23:42:20,004 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: aliya
+2023-07-12 23:42:20,073 DEBUG (client.py) Keys successfully loaded
+2023-07-12 23:42:20,166 INFO (transport.py) Попытка подключения № 1
+2023-07-12 23:42:20,166 DEBUG (transport.py) Connection established.
+2023-07-12 23:42:20,166 DEBUG (transport.py) Starting auth dialog
+2023-07-12 23:42:20,200 DEBUG (transport.py) Passwd hash ready: b'13f5a4580499f0a0abd836716a48d5b91f432128f8a30cd40caf3166e1cc30895094808583b263f38f0081ccf337a6775f9d1ba340798fdb6c225af344fa2cca'
+2023-07-12 23:42:20,202 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689187340.2020724, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-12 23:42:20,202 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 60630), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689187340.2020724, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 23:42:25,207 DEBUG (transport.py) Connection error.
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/client/transport.py", line 98, in connection_init
+    ans = get_message(self.transport)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 19, in get_message
+    encoded_response = client.recv(MAX_PACKAGE_LENGTH)
+TimeoutError: timed out
+2023-07-12 23:44:52,968 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 23:44:52,968 DEBUG (client.py) Args loaded
+2023-07-12 23:44:58,025 DEBUG (client.py) Using USERNAME = aliya, PASSWD = a
+2023-07-12 23:44:58,025 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: aliya
+2023-07-12 23:44:58,064 DEBUG (client.py) Keys successfully loaded
+2023-07-12 23:44:58,149 INFO (transport.py) Попытка подключения № 1
+2023-07-12 23:44:58,149 DEBUG (transport.py) Connection established.
+2023-07-12 23:44:58,149 DEBUG (transport.py) Starting auth dialog
+2023-07-12 23:44:58,161 DEBUG (transport.py) Passwd hash ready: b'13f5a4580499f0a0abd836716a48d5b91f432128f8a30cd40caf3166e1cc30895094808583b263f38f0081ccf337a6775f9d1ba340798fdb6c225af344fa2cca'
+2023-07-12 23:44:58,162 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689187498.1622334, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-12 23:44:58,162 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 38692), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689187498.1622334, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 23:45:03,166 DEBUG (transport.py) Connection error. timed out
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/client/transport.py", line 98, in connection_init
+    ans = get_message(self.transport)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 19, in get_message
+    encoded_response = client.recv(MAX_PACKAGE_LENGTH)
+TimeoutError: timed out
+2023-07-12 23:46:14,704 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 23:46:14,705 DEBUG (client.py) Args loaded
+2023-07-12 23:46:18,776 DEBUG (client.py) Using USERNAME = aliya, PASSWD = a
+2023-07-12 23:46:18,776 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: aliya
+2023-07-12 23:46:18,814 DEBUG (client.py) Keys successfully loaded
+2023-07-12 23:46:18,894 INFO (transport.py) Попытка подключения № 1
+2023-07-12 23:46:18,895 DEBUG (transport.py) Connection established.
+2023-07-12 23:46:18,895 DEBUG (transport.py) Starting auth dialog
+2023-07-12 23:46:18,928 DEBUG (transport.py) Passwd hash ready: b'13f5a4580499f0a0abd836716a48d5b91f432128f8a30cd40caf3166e1cc30895094808583b263f38f0081ccf337a6775f9d1ba340798fdb6c225af344fa2cca'
+2023-07-12 23:46:18,929 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689187578.9297783, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-12 23:46:18,930 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 58216), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689187578.9297783, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 23:46:19,430 DEBUG (transport.py) Connection error. timed out
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/client/transport.py", line 99, in connection_init
+    ans = get_message(self.transport)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 19, in get_message
+    encoded_response = client.recv(MAX_PACKAGE_LENGTH)
+TimeoutError: timed out
+2023-07-13 10:04:10,180 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-13 10:04:10,180 DEBUG (client.py) Args loaded
+2023-07-13 10:04:15,961 DEBUG (client.py) Using USERNAME = aliya, PASSWD = a
+2023-07-13 10:04:15,962 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: aliya
+2023-07-13 10:04:16,089 DEBUG (client.py) Keys successfully loaded
+2023-07-13 10:04:16,163 INFO (transport.py) Попытка подключения № 1
+2023-07-13 10:04:16,163 DEBUG (transport.py) Connection established.
+2023-07-13 10:04:16,163 DEBUG (transport.py) Starting auth dialog
+2023-07-13 10:04:16,196 DEBUG (transport.py) Passwd hash ready: b'13f5a4580499f0a0abd836716a48d5b91f432128f8a30cd40caf3166e1cc30895094808583b263f38f0081ccf337a6775f9d1ba340798fdb6c225af344fa2cca'
+2023-07-13 10:04:16,196 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689224656.1969478, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-13 10:04:16,197 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 48240), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689224656.1969478, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 10:05:30,564 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-13 10:05:30,564 DEBUG (client.py) Args loaded
+2023-07-13 10:05:44,800 DEBUG (client.py) Using USERNAME = aliya, PASSWD = a
+2023-07-13 10:05:44,800 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: aliya
+2023-07-13 10:05:44,873 DEBUG (client.py) Keys successfully loaded
+2023-07-13 10:05:44,958 INFO (transport.py) Попытка подключения № 1
+2023-07-13 10:05:44,958 DEBUG (transport.py) Connection established.
+2023-07-13 10:05:44,958 DEBUG (transport.py) Starting auth dialog
+2023-07-13 10:05:44,982 DEBUG (transport.py) Passwd hash ready: b'13f5a4580499f0a0abd836716a48d5b91f432128f8a30cd40caf3166e1cc30895094808583b263f38f0081ccf337a6775f9d1ba340798fdb6c225af344fa2cca'
+2023-07-13 10:05:44,983 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689224744.9838345, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-13 10:05:44,984 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 34116), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689224744.9838345, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 10:08:17,408 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-13 10:08:17,408 DEBUG (client.py) Args loaded
+2023-07-13 10:08:23,844 DEBUG (client.py) Using USERNAME = aliya, PASSWD = a
+2023-07-13 10:08:23,844 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: aliya
+2023-07-13 10:08:23,915 DEBUG (client.py) Keys successfully loaded
+2023-07-13 10:08:24,030 INFO (transport.py) Попытка подключения № 1
+2023-07-13 10:08:24,031 DEBUG (transport.py) Connection established.
+2023-07-13 10:08:24,031 DEBUG (transport.py) Starting auth dialog
+2023-07-13 10:08:24,066 DEBUG (transport.py) Passwd hash ready: b'13f5a4580499f0a0abd836716a48d5b91f432128f8a30cd40caf3166e1cc30895094808583b263f38f0081ccf337a6775f9d1ba340798fdb6c225af344fa2cca'
+2023-07-13 10:08:24,067 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689224904.067919, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-13 10:08:24,068 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 37148), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689224904.067919, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 10:12:33,446 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-13 10:12:33,446 DEBUG (client.py) Args loaded
+2023-07-13 10:12:37,351 DEBUG (client.py) Using USERNAME = aliya, PASSWD = a
+2023-07-13 10:12:37,351 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: aliya
+2023-07-13 10:12:37,422 DEBUG (client.py) Keys successfully loaded
+2023-07-13 10:12:37,515 INFO (transport.py) Попытка подключения № 1
+2023-07-13 10:12:37,516 DEBUG (transport.py) Connection established.
+2023-07-13 10:12:37,516 DEBUG (transport.py) Starting auth dialog
+2023-07-13 10:12:37,528 DEBUG (transport.py) Passwd hash ready: b'13f5a4580499f0a0abd836716a48d5b91f432128f8a30cd40caf3166e1cc30895094808583b263f38f0081ccf337a6775f9d1ba340798fdb6c225af344fa2cca'
+2023-07-13 10:12:37,529 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689225157.5290515, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-13 10:12:37,529 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 39774), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689225157.5290515, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 10:12:42,529 DEBUG (transport.py) Connection error. timed out
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/client/transport.py", line 98, in connection_init
+    ans = get_message(self.transport)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 19, in get_message
+    encoded_response = client.recv(MAX_PACKAGE_LENGTH)
+TimeoutError: timed out
+2023-07-13 10:13:33,498 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-13 10:13:33,498 DEBUG (client.py) Args loaded
+2023-07-13 10:13:37,742 DEBUG (client.py) Using USERNAME = aliya, PASSWD = a
+2023-07-13 10:13:37,743 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: aliya
+2023-07-13 10:13:37,815 DEBUG (client.py) Keys successfully loaded
+2023-07-13 10:13:37,896 INFO (transport.py) Попытка подключения № 1
+2023-07-13 10:13:37,896 DEBUG (transport.py) Connection established.
+2023-07-13 10:13:37,896 DEBUG (transport.py) Starting auth dialog
+2023-07-13 10:13:37,929 DEBUG (transport.py) Passwd hash ready: b'13f5a4580499f0a0abd836716a48d5b91f432128f8a30cd40caf3166e1cc30895094808583b263f38f0081ccf337a6775f9d1ba340798fdb6c225af344fa2cca'
+2023-07-13 10:13:37,930 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689225217.9304256, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-13 10:13:42,935 DEBUG (transport.py) Connection error. timed out
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/client/transport.py", line 98, in connection_init
+    ans = get_message(self.transport)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 19, in get_message
+    encoded_response = client.recv(MAX_PACKAGE_LENGTH)
+TimeoutError: timed out
+2023-07-13 10:22:45,463 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-13 10:22:45,463 DEBUG (client.py) Args loaded
+2023-07-13 10:22:51,891 DEBUG (client.py) Using USERNAME = aliya, PASSWD = a
+2023-07-13 10:22:51,891 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: aliya
+2023-07-13 10:22:51,961 DEBUG (client.py) Keys successfully loaded
+2023-07-13 10:22:52,035 INFO (transport.py) Попытка подключения № 1
+2023-07-13 10:22:52,036 DEBUG (transport.py) Connection established.
+2023-07-13 10:22:52,036 DEBUG (transport.py) Starting auth dialog
+2023-07-13 10:22:52,054 DEBUG (transport.py) Passwd hash ready: b'13f5a4580499f0a0abd836716a48d5b91f432128f8a30cd40caf3166e1cc30895094808583b263f38f0081ccf337a6775f9d1ba340798fdb6c225af344fa2cca'
+2023-07-13 10:22:52,055 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689225772.0551867, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-13 10:22:52,055 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 37430), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689225772.0551867, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 10:22:57,060 DEBUG (transport.py) Connection error. timed out
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/client/transport.py", line 100, in connection_init
+    ans = get_message(self.transport)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 19, in get_message
+    encoded_response = client.recv(MAX_PACKAGE_LENGTH)
+TimeoutError: timed out
+2023-07-13 10:25:05,020 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-13 10:25:05,020 DEBUG (client.py) Args loaded
+2023-07-13 10:25:12,301 DEBUG (client.py) Using USERNAME = aliya, PASSWD = a
+2023-07-13 10:25:12,301 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: aliya
+2023-07-13 10:25:12,340 DEBUG (client.py) Keys successfully loaded
+2023-07-13 10:25:12,424 INFO (transport.py) Попытка подключения № 1
+2023-07-13 10:25:12,425 DEBUG (transport.py) Connection established.
+2023-07-13 10:25:12,425 DEBUG (transport.py) Starting auth dialog
+2023-07-13 10:25:12,461 DEBUG (transport.py) Passwd hash ready: b'13f5a4580499f0a0abd836716a48d5b91f432128f8a30cd40caf3166e1cc30895094808583b263f38f0081ccf337a6775f9d1ba340798fdb6c225af344fa2cca'
+2023-07-13 10:25:12,462 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689225912.4628618, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-13 10:25:12,463 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 40300), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689225912.4628618, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 10:25:17,467 DEBUG (transport.py) Connection error. timed out
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/client/transport.py", line 100, in connection_init
+    ans = get_message(self.transport)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 19, in get_message
+    encoded_response = client.recv(MAX_PACKAGE_LENGTH)
+TimeoutError: timed out
+2023-07-13 10:28:03,188 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-13 10:28:03,188 DEBUG (client.py) Args loaded
+2023-07-13 10:28:08,111 DEBUG (client.py) Using USERNAME = aliya, PASSWD = a
+2023-07-13 10:28:08,112 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: aliya
+2023-07-13 10:28:08,182 DEBUG (client.py) Keys successfully loaded
+2023-07-13 10:28:08,270 INFO (transport.py) Попытка подключения № 1
+2023-07-13 10:28:08,270 DEBUG (transport.py) Connection established.
+2023-07-13 10:28:08,271 DEBUG (transport.py) Starting auth dialog
+2023-07-13 10:28:08,283 DEBUG (transport.py) Passwd hash ready: b'13f5a4580499f0a0abd836716a48d5b91f432128f8a30cd40caf3166e1cc30895094808583b263f38f0081ccf337a6775f9d1ba340798fdb6c225af344fa2cca'
+2023-07-13 10:28:08,283 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689226088.2835455, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-13 10:28:08,283 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55844), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689226088.2835455, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 10:28:08,283 DEBUG (transport.py) Sever response = get_message(self.transport)
+2023-07-13 10:28:08,283 DEBUG (transport.py) Запрос списка известных пользователей aliya
+2023-07-13 10:28:08,283 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55844), raddr=('127.0.0.1', 7777)>, {'action': 'get_users', 'time': 1689226088.2838476, 'account_name': 'aliya'}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 10:28:13,287 ERROR (transport.py) Таймаут соединения при обновлении списков пользователей
+2023-07-13 10:28:13,288 DEBUG (client.py) Transport ready
+2023-07-13 10:28:13,289 DEBUG (transport.py) Запущен процесс - приемник сообщений с сервера.
+2023-07-13 10:59:07,377 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-13 10:59:07,377 DEBUG (client.py) Args loaded
+2023-07-13 10:59:13,654 DEBUG (client.py) Using USERNAME = aliya, PASSWD = a
+2023-07-13 10:59:13,654 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: aliya
+2023-07-13 10:59:13,726 DEBUG (client.py) Keys successfully loaded
+2023-07-13 10:59:13,812 INFO (transport.py) Попытка подключения № 1
+2023-07-13 10:59:13,812 DEBUG (transport.py) Connection established.
+2023-07-13 10:59:13,812 DEBUG (transport.py) Starting auth dialog
+2023-07-13 10:59:13,846 DEBUG (transport.py) Passwd hash ready: b'13f5a4580499f0a0abd836716a48d5b91f432128f8a30cd40caf3166e1cc30895094808583b263f38f0081ccf337a6775f9d1ba340798fdb6c225af344fa2cca'
+2023-07-13 10:59:13,847 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689227953.847224, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-13 10:59:13,847 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 34068), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689227953.847224, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 10:59:18,852 DEBUG (transport.py) Connection error. timed out
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/client/transport.py", line 100, in connection_init
+    ans = get_message(self.transport)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 19, in get_message
+    encoded_response = client.recv(MAX_PACKAGE_LENGTH)
+TimeoutError: timed out
+2023-07-13 11:00:00,453 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-13 11:00:00,453 DEBUG (client.py) Args loaded
+2023-07-13 11:00:04,532 DEBUG (client.py) Using USERNAME = aliya, PASSWD = a
+2023-07-13 11:00:04,533 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: aliya
+2023-07-13 11:00:04,604 DEBUG (client.py) Keys successfully loaded
+2023-07-13 11:00:04,683 INFO (transport.py) Попытка подключения № 1
+2023-07-13 11:00:04,683 DEBUG (transport.py) Connection established.
+2023-07-13 11:00:04,684 DEBUG (transport.py) Starting auth dialog
+2023-07-13 11:00:04,720 DEBUG (transport.py) Passwd hash ready: b'13f5a4580499f0a0abd836716a48d5b91f432128f8a30cd40caf3166e1cc30895094808583b263f38f0081ccf337a6775f9d1ba340798fdb6c225af344fa2cca'
+2023-07-13 11:00:04,721 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689228004.721136, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-13 11:00:04,721 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 40764), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689228004.721136, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 11:00:14,726 DEBUG (transport.py) Connection error. timed out
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/client/transport.py", line 101, in connection_init
+    ans = get_message(self.transport)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 19, in get_message
+    encoded_response = client.recv(MAX_PACKAGE_LENGTH)
+TimeoutError: timed out
+2023-07-13 11:02:12,015 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-13 11:02:12,015 DEBUG (client.py) Args loaded
+2023-07-13 11:02:15,801 DEBUG (client.py) Using USERNAME = aliya, PASSWD = a
+2023-07-13 11:02:15,801 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: aliya
+2023-07-13 11:02:15,874 DEBUG (client.py) Keys successfully loaded
+2023-07-13 11:02:15,957 INFO (transport.py) Попытка подключения № 1
+2023-07-13 11:02:15,958 DEBUG (transport.py) Connection established.
+2023-07-13 11:02:15,958 DEBUG (transport.py) Starting auth dialog
+2023-07-13 11:02:15,992 DEBUG (transport.py) Passwd hash ready: b'13f5a4580499f0a0abd836716a48d5b91f432128f8a30cd40caf3166e1cc30895094808583b263f38f0081ccf337a6775f9d1ba340798fdb6c225af344fa2cca'
+2023-07-13 11:02:15,993 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689228135.993581, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-13 11:02:15,993 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 48196), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689228135.993581, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 11:02:31,008 DEBUG (transport.py) Connection error. timed out
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/client/transport.py", line 101, in connection_init
+    ans = get_message(self.transport)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 19, in get_message
+    encoded_response = client.recv(MAX_PACKAGE_LENGTH)
+TimeoutError: timed out
+2023-07-13 11:05:15,501 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-13 11:05:15,501 DEBUG (client.py) Args loaded
+2023-07-13 11:05:20,077 DEBUG (client.py) Using USERNAME = aliya, PASSWD = a
+2023-07-13 11:05:20,077 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: aliya
+2023-07-13 11:05:20,149 DEBUG (client.py) Keys successfully loaded
+2023-07-13 11:05:20,237 INFO (transport.py) Попытка подключения № 1
+2023-07-13 11:05:20,238 DEBUG (transport.py) Connection established.
+2023-07-13 11:05:20,238 DEBUG (transport.py) Starting auth dialog
+2023-07-13 11:05:20,250 DEBUG (transport.py) Passwd hash ready: b'13f5a4580499f0a0abd836716a48d5b91f432128f8a30cd40caf3166e1cc30895094808583b263f38f0081ccf337a6775f9d1ba340798fdb6c225af344fa2cca'
+2023-07-13 11:05:20,251 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689228320.2510865, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-13 11:05:20,251 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52526), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689228320.2510865, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 11:05:25,256 DEBUG (transport.py) Connection error.
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/client/transport.py", line 101, in connection_init
+    ans = get_message(self.transport)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 19, in get_message
+    encoded_response = client.recv(MAX_PACKAGE_LENGTH)
+TimeoutError: timed out
+2023-07-13 11:20:19,797 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-13 11:20:19,828 DEBUG (client.py) Args loaded
+2023-07-13 11:20:26,920 DEBUG (client.py) Using USERNAME = aliya, PASSWD = a
+2023-07-13 11:20:26,920 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: aliya
+2023-07-13 11:20:26,989 DEBUG (client.py) Keys successfully loaded
+2023-07-13 11:20:27,079 INFO (transport.py) Попытка подключения № 1
+2023-07-13 11:20:27,080 DEBUG (transport.py) Connection established.
+2023-07-13 11:20:27,080 DEBUG (transport.py) Starting auth dialog
+2023-07-13 11:20:27,113 DEBUG (transport.py) Passwd hash ready: b'13f5a4580499f0a0abd836716a48d5b91f432128f8a30cd40caf3166e1cc30895094808583b263f38f0081ccf337a6775f9d1ba340798fdb6c225af344fa2cca'
+2023-07-13 11:20:27,115 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689229227.1150029, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}} 
+None
+2023-07-13 11:20:27,115 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 60118), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689229227.1150029, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 11:20:32,119 DEBUG (transport.py) Connection error.
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/client/transport.py", line 101, in connection_init
+    ans = get_message(self.transport)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 19, in get_message
+    encoded_response = client.recv(MAX_PACKAGE_LENGTH)
+TimeoutError: timed out
+2023-07-13 11:21:38,992 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-13 11:21:38,993 DEBUG (client.py) Args loaded
+2023-07-13 11:21:43,944 DEBUG (client.py) Using USERNAME = aliya, PASSWD = a
+2023-07-13 11:21:43,944 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: aliya
+2023-07-13 11:21:44,017 DEBUG (client.py) Keys successfully loaded
+2023-07-13 11:21:44,101 INFO (transport.py) транспорт None
+2023-07-13 11:21:44,101 INFO (transport.py) Попытка подключения № 1
+2023-07-13 11:21:44,102 DEBUG (transport.py) Connection established.
+2023-07-13 11:21:44,102 DEBUG (transport.py) Starting auth dialog
+2023-07-13 11:21:44,113 DEBUG (transport.py) Passwd hash ready: b'13f5a4580499f0a0abd836716a48d5b91f432128f8a30cd40caf3166e1cc30895094808583b263f38f0081ccf337a6775f9d1ba340798fdb6c225af344fa2cca'
+2023-07-13 11:21:44,113 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689229304.1137772, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}} 
+None
+2023-07-13 11:21:44,113 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 42062), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689229304.1137772, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 11:21:49,116 DEBUG (transport.py) Connection error.
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/client/transport.py", line 102, in connection_init
+    ans = get_message(self.transport)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 19, in get_message
+    encoded_response = client.recv(MAX_PACKAGE_LENGTH)
+TimeoutError: timed out
+2023-07-13 11:22:49,561 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-13 11:22:49,561 DEBUG (client.py) Args loaded
+2023-07-13 11:22:53,648 DEBUG (client.py) Using USERNAME = aliya, PASSWD = a
+2023-07-13 11:22:53,648 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: aliya
+2023-07-13 11:22:53,686 DEBUG (client.py) Keys successfully loaded
+2023-07-13 11:22:53,765 INFO (transport.py) Попытка подключения № 1
+2023-07-13 11:22:53,765 DEBUG (transport.py) Connection established.
+2023-07-13 11:22:53,765 DEBUG (transport.py) Starting auth dialog
+2023-07-13 11:22:53,766 INFO (transport.py) транспорт None
+2023-07-13 11:22:53,777 DEBUG (transport.py) Passwd hash ready: b'13f5a4580499f0a0abd836716a48d5b91f432128f8a30cd40caf3166e1cc30895094808583b263f38f0081ccf337a6775f9d1ba340798fdb6c225af344fa2cca'
+2023-07-13 11:22:53,777 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689229373.777638, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}} 
+None
+2023-07-13 11:22:53,777 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 40972), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689229373.777638, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 11:22:58,783 DEBUG (transport.py) Connection error.
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/client/transport.py", line 101, in connection_init
+    ans = get_message(self.transport)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 19, in get_message
+    encoded_response = client.recv(MAX_PACKAGE_LENGTH)
+TimeoutError: timed out
+2023-07-13 11:24:17,738 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-13 11:24:17,739 DEBUG (client.py) Args loaded
+2023-07-13 11:24:21,776 DEBUG (client.py) Using USERNAME = aliya, PASSWD = a
+2023-07-13 11:24:21,776 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: aliya
+2023-07-13 11:24:21,849 DEBUG (client.py) Keys successfully loaded
+2023-07-13 11:24:21,937 INFO (transport.py) Попытка подключения № 1
+2023-07-13 11:24:21,937 DEBUG (transport.py) Connection established.
+2023-07-13 11:24:21,937 DEBUG (transport.py) Starting auth dialog
+2023-07-13 11:24:21,973 DEBUG (transport.py) Passwd hash ready: b'13f5a4580499f0a0abd836716a48d5b91f432128f8a30cd40caf3166e1cc30895094808583b263f38f0081ccf337a6775f9d1ba340798fdb6c225af344fa2cca'
+2023-07-13 11:24:21,974 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689229461.9746938, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}} 
+None
+2023-07-13 11:24:21,975 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 59174), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689229461.9746938, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 11:24:21,975 DEBUG (transport.py) Connection error.
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/client/transport.py", line 101, in connection_init
+    ans = get_message(socket.socket(socket.AF_INET, socket.SOCK_STREAM))
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 19, in get_message
+    encoded_response = client.recv(MAX_PACKAGE_LENGTH)
+OSError: [Errno 107] Конечная точка передачи не подсоединена
+2023-07-13 11:29:53,775 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-13 11:29:53,775 DEBUG (client.py) Args loaded
+2023-07-13 11:29:58,905 DEBUG (client.py) Using USERNAME = aliya, PASSWD = a
+2023-07-13 11:29:58,905 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: aliya
+2023-07-13 11:29:58,975 DEBUG (client.py) Keys successfully loaded
+2023-07-13 11:29:59,058 INFO (transport.py) Попытка подключения № 1
+2023-07-13 11:29:59,058 DEBUG (transport.py) Connection established.
+2023-07-13 11:29:59,058 DEBUG (transport.py) Starting auth dialog
+2023-07-13 11:29:59,093 DEBUG (transport.py) Passwd hash ready: b'13f5a4580499f0a0abd836716a48d5b91f432128f8a30cd40caf3166e1cc30895094808583b263f38f0081ccf337a6775f9d1ba340798fdb6c225af344fa2cca'
+2023-07-13 11:29:59,094 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689229799.0940576, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-13 11:29:59,094 DEBUG (transport.py) hello <socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 49808), raddr=('127.0.0.1', 7777)>
+2023-07-13 11:29:59,094 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 49808), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689229799.0940576, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 11:30:04,097 DEBUG (transport.py) Connection error.
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/client/transport.py", line 102, in connection_init
+    ans = get_message(self.transport)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 19, in get_message
+    encoded_response = client.recv(MAX_PACKAGE_LENGTH)
+TimeoutError: timed out
+2023-07-13 11:33:30,390 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-13 11:33:30,390 DEBUG (client.py) Args loaded
+2023-07-13 11:33:37,241 DEBUG (client.py) Using USERNAME = aliya, PASSWD = a
+2023-07-13 11:33:37,242 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: aliya
+2023-07-13 11:33:37,312 DEBUG (client.py) Keys successfully loaded
+2023-07-13 11:33:37,382 INFO (transport.py) Попытка подключения № 1
+2023-07-13 11:33:37,383 DEBUG (transport.py) Connection established.
+2023-07-13 11:33:37,383 DEBUG (transport.py) Starting auth dialog
+2023-07-13 11:33:37,396 DEBUG (transport.py) Passwd hash ready: b'13f5a4580499f0a0abd836716a48d5b91f432128f8a30cd40caf3166e1cc30895094808583b263f38f0081ccf337a6775f9d1ba340798fdb6c225af344fa2cca'
+2023-07-13 11:33:37,396 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689230017.396891, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-13 11:33:42,399 DEBUG (transport.py) Connection error.
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/client/transport.py", line 100, in connection_init
+    ans = get_message(self.transport)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 19, in get_message
+    encoded_response = client.recv(MAX_PACKAGE_LENGTH)
+TimeoutError: timed out
+2023-07-13 11:35:55,604 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-13 11:35:55,604 DEBUG (client.py) Args loaded
+2023-07-13 11:36:00,137 DEBUG (client.py) Using USERNAME = aliya, PASSWD = a
+2023-07-13 11:36:00,137 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: aliya
+2023-07-13 11:36:00,211 DEBUG (client.py) Keys successfully loaded
+2023-07-13 11:36:00,302 INFO (transport.py) Попытка подключения № 1
+2023-07-13 11:36:00,303 DEBUG (transport.py) Connection established.
+2023-07-13 11:36:00,303 DEBUG (transport.py) Starting auth dialog
+2023-07-13 11:36:00,336 DEBUG (transport.py) Passwd hash ready: b'13f5a4580499f0a0abd836716a48d5b91f432128f8a30cd40caf3166e1cc30895094808583b263f38f0081ccf337a6775f9d1ba340798fdb6c225af344fa2cca'
+2023-07-13 11:36:00,337 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689230160.3371065, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-13 11:36:00,337 INFO (transport.py) {<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 54008), raddr=('127.0.0.1', 7777)>}
+2023-07-13 11:36:00,337 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 54008), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689230160.3371065, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 11:36:05,342 DEBUG (transport.py) Connection error.
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/client/transport.py", line 102, in connection_init
+    ans = get_message(self.transport)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 19, in get_message
+    encoded_response = client.recv(MAX_PACKAGE_LENGTH)
+TimeoutError: timed out
+2023-07-13 11:43:06,758 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-13 11:43:06,759 DEBUG (client.py) Args loaded
+2023-07-13 11:43:11,225 DEBUG (client.py) Using USERNAME = aliya, PASSWD = a
+2023-07-13 11:43:11,225 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: aliya
+2023-07-13 11:43:11,264 DEBUG (client.py) Keys successfully loaded
+2023-07-13 11:43:11,352 INFO (transport.py) Попытка подключения № 1
+2023-07-13 11:43:12,354 INFO (transport.py) Попытка подключения № 2
+2023-07-13 11:43:13,355 INFO (transport.py) Попытка подключения № 3
+2023-07-13 11:43:14,357 INFO (transport.py) Попытка подключения № 4
+2023-07-13 11:43:15,358 INFO (transport.py) Попытка подключения № 5
+2023-07-13 11:43:16,360 CRITICAL (transport.py) Не удалось установить соединение с сервером
+2023-07-13 11:43:37,391 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-13 11:43:37,391 DEBUG (client.py) Args loaded
+2023-07-13 11:43:41,848 DEBUG (client.py) Using USERNAME = aliya, PASSWD = a
+2023-07-13 11:43:41,848 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: aliya
+2023-07-13 11:43:41,913 DEBUG (client.py) Keys successfully loaded
+2023-07-13 11:43:41,992 INFO (transport.py) Попытка подключения № 1
+2023-07-13 11:43:41,993 DEBUG (transport.py) Connection established.
+2023-07-13 11:43:41,993 DEBUG (transport.py) Starting auth dialog
+2023-07-13 11:43:42,026 DEBUG (transport.py) Passwd hash ready: b'13f5a4580499f0a0abd836716a48d5b91f432128f8a30cd40caf3166e1cc30895094808583b263f38f0081ccf337a6775f9d1ba340798fdb6c225af344fa2cca'
+2023-07-13 11:43:42,027 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689230622.027101, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-13 11:43:42,027 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 33650), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689230622.027101, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 11:43:42,027 DEBUG (transport.py) Server response = get_message(self.transport).
+2023-07-13 11:43:42,027 DEBUG (transport.py) Запрос списка известных пользователей aliya
+2023-07-13 11:43:42,027 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 33650), raddr=('127.0.0.1', 7777)>, {'action': 'get_users', 'time': 1689230622.0276668, 'account_name': 'aliya'}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 11:43:47,029 ERROR (transport.py) Таймаут соединения при обновлении списков пользователей
+2023-07-13 11:43:47,030 DEBUG (client.py) Transport ready
+2023-07-13 11:43:47,031 DEBUG (transport.py) Запущен процесс - приемник сообщений с сервера.
+2023-07-13 11:43:59,353 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-13 11:43:59,354 DEBUG (client.py) Args loaded
+2023-07-13 11:47:44,146 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-13 11:47:44,146 DEBUG (client.py) Args loaded
+2023-07-13 11:47:48,275 DEBUG (client.py) Using USERNAME = aliya, PASSWD = a
+2023-07-13 11:47:48,276 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: aliya
+2023-07-13 11:47:48,349 DEBUG (client.py) Keys successfully loaded
+2023-07-13 11:47:48,435 INFO (transport.py) Попытка подключения № 1
+2023-07-13 11:47:48,435 DEBUG (transport.py) Connection established.
+2023-07-13 11:47:48,435 DEBUG (transport.py) Starting auth dialog
+2023-07-13 11:47:48,444 DEBUG (transport.py) Passwd hash ready: b'13f5a4580499f0a0abd836716a48d5b91f432128f8a30cd40caf3166e1cc30895094808583b263f38f0081ccf337a6775f9d1ba340798fdb6c225af344fa2cca'
+2023-07-13 11:47:48,444 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689230868.4447777, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-13 11:47:48,444 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52614), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689230868.4447777, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 11:48:38,448 DEBUG (transport.py) Connection error.
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/client/transport.py", line 101, in connection_init
+    ans = get_message(self.transport)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 20, in get_message
+    encoded_response = client.recv(MAX_PACKAGE_LENGTH)
+TimeoutError: timed out
+2023-07-13 11:49:55,165 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-13 11:49:55,165 DEBUG (client.py) Args loaded
+2023-07-13 11:50:00,105 DEBUG (client.py) Using USERNAME = aliya, PASSWD = a
+2023-07-13 11:50:00,106 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: aliya
+2023-07-13 11:50:00,178 DEBUG (client.py) Keys successfully loaded
+2023-07-13 11:50:00,261 INFO (transport.py) Попытка подключения № 1
+2023-07-13 11:50:01,263 INFO (transport.py) Попытка подключения № 2
+2023-07-13 11:50:02,264 INFO (transport.py) Попытка подключения № 3
+2023-07-13 11:50:03,266 INFO (transport.py) Попытка подключения № 4
+2023-07-13 11:50:04,267 INFO (transport.py) Попытка подключения № 5
+2023-07-13 11:50:05,269 CRITICAL (transport.py) Не удалось установить соединение с сервером
+2023-07-13 11:50:22,524 DEBUG (decos.py) Функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-13 11:50:22,524 DEBUG (client.py) Args loaded
+2023-07-13 11:50:26,593 DEBUG (client.py) Using USERNAME = aliya, PASSWD = a
+2023-07-13 11:50:26,593 INFO (client.py) Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777,  имя пользователя: aliya
+2023-07-13 11:50:26,662 DEBUG (client.py) Keys successfully loaded
+2023-07-13 11:50:26,743 INFO (transport.py) Попытка подключения № 1
+2023-07-13 11:50:26,743 DEBUG (transport.py) Connection established.
+2023-07-13 11:50:26,743 DEBUG (transport.py) Starting auth dialog
+2023-07-13 11:50:26,765 DEBUG (transport.py) Passwd hash ready: b'13f5a4580499f0a0abd836716a48d5b91f432128f8a30cd40caf3166e1cc30895094808583b263f38f0081ccf337a6775f9d1ba340798fdb6c225af344fa2cca'
+2023-07-13 11:50:26,766 DEBUG (transport.py) Presence message = {'action': 'presence', 'time': 1689231026.766758, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-13 11:50:26,767 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=27, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52200), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1689231026.766758, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 11:51:16,816 DEBUG (transport.py) Connection error.
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/client/transport.py", line 101, in connection_init
+    ans = get_message(self.transport)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 20, in get_message
+    encoded_response = client.recv(1024)
+TimeoutError: timed out

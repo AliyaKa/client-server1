@@ -41,7 +41,7 @@ class ServerMaker(type):
 
         # Если сокет не инициализировался константами SOCK_STREAM(TCP), AF_INET(IPv4) - исключение
         if not ('SOCK_STREAM' in attrs and 'AF_INET' in attrs):
-            raise TypeError('Некорректная инициализация сокета.')
+            raise TypeError('Не корректная инициализация сокета.')
         # Вызываем конструктор предка
         super().__init__(clsname, bases, clsdict)
 
