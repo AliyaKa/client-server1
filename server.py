@@ -3,8 +3,11 @@ import argparse
 import configparser
 import os.path
 
+
 from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import QApplication
+
+
 
 from common.variables import *
 from common.decos import log
@@ -12,6 +15,12 @@ from server.core import MessageProcessor
 from server.server_database import ServerStorage
 from server.main_window import MainWindow
 
+
+
+
+
+
+# Парсер аргументов командной строки:
 
 @log
 def create_arg_parser(default_port, default_address):
@@ -82,6 +91,7 @@ def main():
         main_window = MainWindow(database, server, config)
         server_app.exec_()
         server.running = False
+
 
 
 if __name__ == '__main__':

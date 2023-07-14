@@ -5,6 +5,7 @@ import os.path
 from Cryptodome.PublicKey import RSA
 from PyQt5.QtWidgets import QApplication, QMessageBox
 
+
 from client.main_window import ClientMainWindow
 from client.start_dialog import UserNameDialog
 from client.transport import ClientTransport
@@ -25,6 +26,7 @@ def create_arg_parser():
     parser.add_argument('addr', default=DEFAULT_IP, nargs='?')
     parser.add_argument('port', default=DEFAULT_PORT, type=int, nargs='?')
     parser.add_argument('-n', '--name', default=None, nargs='?')
+
     parser.add_argument('-p', '--password', default='', nargs='?')
     namespace = parser.parse_args(sys.argv[1:])
 
@@ -33,16 +35,21 @@ def create_arg_parser():
     client_name = namespace.name
     client_passwd = namespace.password
 
+
     if not 1023 < server_port < 65536:
+
         LOGGER.critical(
             f' Попытка запуска клиента с зарезервированным номером порта: {server_port}.'
             f' Допустимы порты с 1024 до 65535.')
         sys.exit(1)
 
+
     return server_address, server_port, client_name, client_passwd
 
 
+
 if __name__ == '__main__':
+
     # загружаем параметры командной строки
     server_address, server_port, client_name, client_passwd = create_arg_parser()
     LOGGER.debug('Args loaded')
@@ -105,3 +112,4 @@ if __name__ == '__main__':
     # Раз графическая оболочка закрылась, закрываем транспорт
     transport.transport_shutdown()
     transport.join()
+

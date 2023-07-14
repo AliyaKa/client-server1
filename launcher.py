@@ -1,3 +1,4 @@
+
 import subprocess
 
 
@@ -17,12 +18,15 @@ while True:
                                         stderr=None,
                                         shell=True
                                         ))
+
         for i in range(clients):
             PROCESS.append(subprocess.Popen(f'gnome-terminal -e "python client.py -n test{i+1}"',
+
                                             stdout=subprocess.PIPE,
                                             stderr=None,
                                             shell=True
                                             ))
+
     elif ACTION == 'x':
         while PROCESS:
             PROCESS.pop().kill()
