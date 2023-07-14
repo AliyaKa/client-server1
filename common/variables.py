@@ -12,8 +12,6 @@ MAX_CONNECTIONS = 5
 MAX_PACKAGE_LENGTH = 1024
 # Кодировка проекта
 ENCODING = 'utf-8'
-# # База данных для хранения данных сервера
-# SERVER_DATABASE = 'sqlite:///server_base.db3'
 # База данных для хранения данных сервера:
 SERVER_CONFIG = 'server.ini'
 
@@ -25,6 +23,8 @@ ACCOUNT_NAME = 'account_name'
 
 SENDER = 'from'
 DESTINATION = 'to'
+DATA = 'bin'
+PUBLIC_KEY = 'pubkey'
 
 
 # Прочие ключи, используемые в протоколе
@@ -42,6 +42,9 @@ REMOVE_CONTACT = 'remove'
 ADD_CONTACT = 'add'
 USERS_REQUEST = 'get_users'
 
+PUBLIC_KEY_REQUEST = 'pubkey_need'
+
+
 ERR_DICT = {
         RESPONSE: 400,
         ERROR: 'Bad Request'
@@ -51,15 +54,26 @@ OK_DICT = {RESPONSE: 200}
 
 # 202
 RESPONSE_202 = {RESPONSE: 202,
-                LIST_INFO:None
+                LIST_INFO: None
                 }
+
+# 205
+RESPONSE_205 = {
+    RESPONSE: 205
+}
+
+# 511
+RESPONSE_511 = {
+    RESPONSE: 511,
+    DATA: None
+}
 
 # Текущий уровень логирования
 LOGGING_LEVEL = logging.DEBUG
 # создаём формировщик логов (formatter):
 FORMATTER = logging.Formatter('%(asctime)s %(levelname)s (%(filename)s) %(message)s')
 
-# метод определения модуля, источника запуска.
+# Метод определения модуля, источника запуска.
 # Метод find () возвращает индекс первого вхождения искомой подстроки,
 # если он найден в данной строке.
 # Если его не найдено, - возвращает -1.
