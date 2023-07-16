@@ -6,6 +6,7 @@ from PyQt5.QtWidgets import QDialog, QLabel, QLineEdit, QPushButton, QFileDialog
 
 class ConfigWindow(QDialog):
     """Класс - окно настроек"""
+
     def __init__(self, config):
         super().__init__()
         self.config = config
@@ -60,7 +61,8 @@ class ConfigWindow(QDialog):
 
         # Поле для ввода ip
         self.ip = QLineEdit(self)
-        self.ip.setToolTip('оставьте это поле пустым, чтобы\n принимать соединения с любых адресов.')
+        self.ip.setToolTip(
+            'оставьте это поле пустым, чтобы\n принимать соединения с любых адресов.')
         self.ip.move(200, 148)
         self.ip.setFixedSize(150, 20)
 
@@ -92,12 +94,10 @@ class ConfigWindow(QDialog):
         self.db_path.clear()
         self.db_path.insert(path)
 
-
     def save_server_config(self):
         """
         Метод - сохранение настроек. Проверяет правильность введенных данных.
         Если все верно, сохраняет в ini файл
-        :return:
         """
         global config_window
         message = QMessageBox()
@@ -115,6 +115,8 @@ class ConfigWindow(QDialog):
                 dir_path = os.path.join(dir_path, '..')
                 with open(f"{dir_path}/{'server.ini'}", "w") as conf:
                     self.config.write(conf)
-                    message.information(self, 'OK', 'Настройки успешно сохранены!')
+                    message.information(
+                        self, 'OK', 'Настройки успешно сохранены!')
             else:
-                message.warning(self, 'Ошибка', 'Порт должен быть от 1024 до 65536')
+                message.warning(
+                    self, 'Ошибка', 'Порт должен быть от 1024 до 65536')

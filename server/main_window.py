@@ -2,7 +2,7 @@ import sys
 
 from PyQt5 import QtWidgets
 from PyQt5.QtGui import QStandardItemModel, QStandardItem
-from PyQt5.QtWidgets import QMainWindow, QAction, qApp, QLabel, QTableView,\
+from PyQt5.QtWidgets import QMainWindow, QAction, qApp, QLabel, QTableView, \
     QApplication, QMessageBox
 from PyQt5.QtCore import Qt, QTimer
 
@@ -80,7 +80,8 @@ class MainWindow(QMainWindow):
         """Метод заполняющий таблицу активных пользователей"""
         list_users = self.database.active_users_list()
         model_list = QStandardItemModel()
-        model_list.setHorizontalHeaderLabels(['Имя клиента', 'IP адрес', 'Порт', 'Время подключения'])
+        model_list.setHorizontalHeaderLabels(
+            ['Имя клиента', 'IP адрес', 'Порт', 'Время подключения'])
         for row in list_users:
             user, ip, port, time = row
             user = QStandardItem(user)
@@ -97,25 +98,25 @@ class MainWindow(QMainWindow):
         self.active_clients_table.resizeRowsToContents()
 
     def show_statistics(self):
-        '''Метод создающий окно со статистикой клиентов.'''
+        """Метод создающий окно со статистикой клиентов."""
         global stat_window
         stat_window = StatWindow(self.database)
         stat_window.show()
 
     def server_config(self):
-        '''Метод создающий окно с настройками сервера.'''
+        """Метод создающий окно с настройками сервера."""
         global config_window
         # Создаём окно и заносим в него текущие параметры
         config_window = ConfigWindow(self.config)
 
     def reg_user(self):
-        '''Метод создающий окно регистрации пользователя.'''
+        """Метод создающий окно регистрации пользователя."""
         global reg_window
         reg_window = RegisterUser(self.database, self.server_thread)
         reg_window.show()
 
     def rem_user(self):
-        '''Метод создающий окно удаления пользователя.'''
+        """Метод создающий окно удаления пользователя."""
         global rem_window
         rem_window = DelUserDialog(self.database, self.server_thread)
         rem_window.show()

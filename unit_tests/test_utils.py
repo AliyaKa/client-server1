@@ -1,7 +1,7 @@
 """Unittests утилит"""
 from common.variables import USER, ACCOUNT_NAME, TIME, \
         ACTION, PRESENCE, ENCODING, OK_DICT, ERR_DICT
-from common.prgm_utils import get_message, send_message
+from common.utils import get_message, send_message
 import json
 import os
 import sys

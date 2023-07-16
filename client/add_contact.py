@@ -1,9 +1,10 @@
-import sys
 import logging
-from PyQt5.QtWidgets import QDialog, QLabel, QComboBox, QPushButton
-from PyQt5.QtCore import Qt
 
-logger = logging.getLogger('client')
+from PyQt5.QtCore import Qt
+from PyQt5.QtWidgets import QDialog, QLabel, QComboBox, QPushButton
+
+
+from log.configs.client_log_config import logger
 
 
 class AddContactDialog(QDialog):

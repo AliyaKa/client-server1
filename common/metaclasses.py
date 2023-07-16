@@ -23,23 +23,28 @@ class ServerMaker(type):
             except TypeError:
                 pass
             else:
-                # Если функция - разбираем код, получаем используемые методы и атрибуты
+                # Если функция - разбираем код, получаем используемые методы и
+                # атрибуты
                 for i in ret:
                     print(i)
                     if i.opname == 'LOAD_GLOBAL':
                         if i.argval not in methods:
-                            # заполняем список методами, используемыми в функциях класса
+                            # заполняем список методами, используемыми в
+                            # функциях класса
                             methods.append(i.argval)
                     elif i.opname == 'LOAD_ATTR':
                         if i.argval not in attrs:
-                            # заполняем список атрибутами, используемыми в функциях класса
+                            # заполняем список атрибутами, используемыми в
+                            # функциях класса
                             attrs.append(i.argval)
         print(methods)
         # Если используется не допустимый метод connect, вызываем исключение
         if 'connect' in methods:
-            raise TypeError('Использование метода connect недопустимо в серверном классе')
+            raise TypeError(
+                'Использование метода connect недопустимо в серверном классе')
 
-        # Если сокет не инициализировался константами SOCK_STREAM(TCP), AF_INET(IPv4) - исключение
+        # Если сокет не инициализировался константами SOCK_STREAM(TCP),
+        # AF_INET(IPv4) - исключение
         if not ('SOCK_STREAM' in attrs and 'AF_INET' in attrs):
             raise TypeError('Не корректная инициализация сокета.')
         # Вызываем конструктор предка
@@ -62,9 +67,11 @@ class ClientMaker(type):
                             methods.append(i.argval)
         for command in ('accept', 'listen', 'socket'):
             if command in methods:
-                raise TypeError('В классе обнаружено использование не допустимого метода')
+                raise TypeError(
+                    'В классе обнаружено использование не допустимого метода')
             if 'get_message' in methods or 'send_message' in methods:
                 pass
             else:
-                raise TypeError('Отсутствуют вызовы функций, работающих с сокетами.')
+                raise TypeError(
+                    'Отсутствуют вызовы функций, работающих с сокетами.')
             super().__init__(clsname, bases, clsdict)

@@ -12,10 +12,12 @@ class ServerStorage:
     Использует SQLite базу данных,
     реализован с помощью SQLAlchemy ORM и используется классический подход.
     """
+
     class AllUsers:
         """
         Класс - отображение таблицы всех пользователей
         """
+
         def __init__(self, username, passwd_hash):
             self.name = username
             self.last_login = datetime.datetime.now()
@@ -27,6 +29,7 @@ class ServerStorage:
         """
         Класс - отображение таблицы активных пользователей
         """
+
         def __init__(self, user_id, ip_address, port, login_time):
             self.user = user_id
             self.ip_address = ip_address
@@ -38,6 +41,7 @@ class ServerStorage:
         """
         Класс - отображение таблицы истории входов
         """
+
         def __init__(self, name, date, ip, port):
             self.id = None
             self.name = name
@@ -49,6 +53,7 @@ class ServerStorage:
         """
         Класс - отображение таблицы контактов пользователей
         """
+
         def __init__(self, user, contact):
             self.id = None
             self.user = user
@@ -58,6 +63,7 @@ class ServerStorage:
         """
         Класс - отображение таблицы истории действий
         """
+
         def __init__(self, user):
             self.id = None
             self.user = user
@@ -68,10 +74,12 @@ class ServerStorage:
         # Создаем движок БД
         # echo = False - отключение ведения лога (вывод sql-запросов)
         # pool-recycle - опция переустановки соединения
-        self.database_engine = create_engine(f'sqlite:///{path}',
-                                             echo=False,
-                                             pool_recycle=7200,
-                                             connect_args={'check_same_thread': False})
+        self.database_engine = create_engine(
+            f'sqlite:///{path}',
+            echo=False,
+            pool_recycle=7200,
+            connect_args={
+                'check_same_thread': False})
 
         # Создание объекта MetaData
         self.metadata = MetaData()
@@ -87,14 +95,13 @@ class ServerStorage:
                             )
 
         # Таблица активных пользователей
-        active_users_table = Table('Active_users',
-                                   self.metadata,
-                                   Column('id', Integer, primary_key=True),
-                                   Column('user', ForeignKey('Users.id'), unique=True),
-                                   Column('ip_address', String),
-                                   Column('port', Integer),
-                                   Column('login_time', DateTime)
-                                   )
+        active_users_table = Table(
+            'Active_users', self.metadata, Column(
+                'id', Integer, primary_key=True), Column(
+                'user', ForeignKey('Users.id'), unique=True), Column(
+                'ip_address', String), Column(
+                    'port', Integer), Column(
+                        'login_time', DateTime))
 
         # Таблица истории входов
         user_login_history = Table('Login_history',
@@ -131,7 +138,8 @@ class ServerStorage:
         mapper_registry.map_imperatively(self.ActiveUsers, active_users_table)
         mapper_registry.map_imperatively(self.LoginHistory, user_login_history)
         mapper_registry.map_imperatively(self.UsersContacts, contacts)
-        mapper_registry.map_imperatively(self.UsersHistory, users_history_table)
+        mapper_registry.map_imperatively(
+            self.UsersHistory, users_history_table)
 
         # Создаем сессию
         Session = sessionmaker(bind=self.database_engine)
@@ -207,7 +215,9 @@ class ServerStorage:
         self.session.query(self.ActiveUsers).filter_by(user=user.id).delete()
         self.session.query(self.LoginHistory).filter_by(user=user.id).delete()
         self.session.query(self.UsersContacts).filter_by(user=user.id).delete()
-        self.session.query(self.UsersContacts).filter_by(contact=user.id).delete()
+        self.session.query(
+            self.UsersContacts).filter_by(
+            contact=user.id).delete()
         self.session.query(self.UsersHistory).filter_by(user=user.id).delete()
         self.session.query(self.AllUsers).filter_by(name=name).delete()
         self.session.commit()
@@ -242,31 +252,46 @@ class ServerStorage:
         :return:
         """
         # Запрашиваем пользователя, который покидает нас
-        user = self.session.query(self.AllUsers).filter_by(name=username).first()
+        user = self.session.query(
+            self.AllUsers).filter_by(
+            name=username).first()
 
         # Удаляем его из таблицы активных пользователей.
         self.session.query(self.ActiveUsers).filter_by(user=user.id).delete()
 
         self.session.commit()
 
-    # Функция фиксирует передачу сообщения и делает соответствующие отметки в БД
+    # Функция фиксирует передачу сообщения и делает соответствующие отметки в
+    # БД
     def process_message(self, sender, recipient):
         # Получаем id отправителя и получателя
-        sender = self.session.query(self.AllUsers).filter_by(name=sender).first().id
-        recipient = self.session.query(self.AllUsers).filter_by(name=recipient).first().id
+        sender = self.session.query(
+            self.AllUsers).filter_by(
+            name=sender).first().id
+        recipient = self.session.query(
+            self.AllUsers).filter_by(
+            name=recipient).first().id
         # Запрашиваем строки из истории и увеличиваем счетчики
-        sender_row = self.session.query(self.UsersHistory).filter_by(user=sender).first()
+        sender_row = self.session.query(
+            self.UsersHistory).filter_by(
+            user=sender).first()
         sender_row.sent += 1
-        recipient_row = self.session.query(self.UsersHistory).filter_by(user=recipient).first()
+        recipient_row = self.session.query(
+            self.UsersHistory).filter_by(
+            user=recipient).first()
         recipient_row.accepted += 1
         self.session.commit()
 
     def add_contact(self, user, contact):
         user = self.session.query(self.AllUsers).filter_by(name=user).first()
-        contact = self.session.query(self.AllUsers).filter_by(name=contact).first()
+        contact = self.session.query(
+            self.AllUsers).filter_by(
+            name=contact).first()
         # Проверяем что контакт может существовать
-        if not contact or \
-            self.session.query(self.UsersContacts).filter_by(user=user.id, contact=contact.id).count():
+        if not contact or self.session.query(
+                self.UsersContacts).filter_by(
+                user=user.id,
+                contact=contact.id).count():
             return
 
         # Создаем объект и заносим его в базу
@@ -276,7 +301,9 @@ class ServerStorage:
 
     def remove_contact(self, user, contact):
         user = self.session.query(self.AllUsers).filter_by(name=user).first()
-        contact = self.session.query(self.AllUsers).filter_by(name=contact).first()
+        contact = self.session.query(
+            self.AllUsers).filter_by(
+            name=contact).first()
 
         if not contact:
             return
@@ -285,10 +312,11 @@ class ServerStorage:
         self.session.query(self.UsersContacts).filter(
             self.UsersContacts.user == user.id,
             self.UsersContacts.contact == contact.id
-            ).delete()
+        ).delete()
         self.session.commit()
 
-    # Функция возвращает список известных пользователей со временем последнего входа
+    # Функция возвращает список известных пользователей со временем последнего
+    # входа
     def users_list(self):
         query = self.session.query(
             self.AllUsers.name,
@@ -335,4 +363,4 @@ class ServerStorage:
 
 
 if __name__ == '__main__':
-    test_db = ServerStorage('../server_base.db3')
+    test_db = ServerStorage('../server_database.db3')

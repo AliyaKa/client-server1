@@ -8,6 +8,7 @@ class StatWindow(QDialog):
     """
     Класс - окно со статистикой пользователей
     """
+
     def __init__(self, database):
         super().__init__()
         self.database = database
@@ -54,4 +55,3 @@ class StatWindow(QDialog):
         self.stat_table.setModel(model_list)
         self.stat_table.resizeColumnsToContents()
         self.stat_table.resizeRowsToContents()
-

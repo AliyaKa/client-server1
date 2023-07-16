@@ -1,22 +1,31 @@
-"""Декораторы"""
 import socket
+import logging
+import sys
 
-import log.configs.server_log_config
-import log.configs.client_log_config
-from common.variables import LOGGER
+sys.path.append('../')
+
+# метод определения модуля, источника запуска.
+if sys.argv[0].find('client') == -1:
+    logger = logging.getLogger('server')
+else:
+    logger = logging.getLogger('client')
 
 
 def log(func_to_log):
-    """Функция-декоратор"""
+    """
+    Декоратор, выполняющий логирование вызовов функций.
+    Сохраняет события типа debug, содержащие
+    информацию об имени вызываемой функции, параметры с которыми
+    вызывается функция, и модуль, вызывающий функцию.
+    """
 
-    def log_writer(*args, **kwargs):
-        """Обертка"""
+    def log_saver(*args, **kwargs):
+        logger.debug(
+            f'Была вызвана функция {func_to_log.__name__} c параметрами {args} , {kwargs}. Вызов из модуля {func_to_log.__module__}')
         ret = func_to_log(*args, **kwargs)
-        LOGGER.debug(f'Функция {func_to_log.__name__} c параметрами {args}, {kwargs}. '
-                     f'Вызов из модуля {func_to_log.__module__}. ')
         return ret
 
-    return log_writer
+    return log_saver
 
 
 def login_required(func):
@@ -45,7 +54,7 @@ def login_required(func):
                             found = True
 
             # Теперь надо проверить, что передаваемые аргументы не presence
-            # сообщение. Если presense, то разрешаем
+            # сообщение. Если presence, то разрешаем
             for arg in args:
                 if isinstance(arg, dict):
                     if ACTION in arg and arg[ACTION] == PRESENCE:

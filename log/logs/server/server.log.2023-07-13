@@ -1,0 +1,848 @@
+2023-07-12 19:58:53,708 DEBUG (server.py) Инициализация парсера аргументов командной строки: ['/home/aliya/PycharmProjects/client-server1/server.py']
+2023-07-12 19:58:53,715 DEBUG (server.py) Аргументы успешно загружены
+2023-07-12 19:58:53,715 DEBUG (decos.py) Функция create_arg_parser c параметрами ('7777', ''), {}. Вызов из модуля __main__. 
+2023-07-12 19:58:53,868 INFO (core.py) Запущен сервер, порт для подключений: 7777, адрес: . Если адрес не указан, принимаются соединения с любых адресов.
+2023-07-12 20:04:18,710 DEBUG (server.py) Инициализация парсера аргументов командной строки: ['/home/aliya/PycharmProjects/client-server1/server.py']
+2023-07-12 20:04:18,712 DEBUG (server.py) Аргументы успешно загружены
+2023-07-12 20:04:18,712 DEBUG (decos.py) Функция create_arg_parser c параметрами ('7777', ''), {}. Вызов из модуля __main__. 
+2023-07-12 20:04:18,783 INFO (core.py) Запущен сервер, порт для подключений: 7777, адрес: . Если адрес не указан, принимаются соединения с любых адресов.
+2023-07-12 20:06:44,395 DEBUG (server.py) Инициализация парсера аргументов командной строки: ['/home/aliya/PycharmProjects/client-server1/server.py']
+2023-07-12 20:06:44,396 DEBUG (server.py) Аргументы успешно загружены
+2023-07-12 20:06:44,396 DEBUG (decos.py) Функция create_arg_parser c параметрами ('7777', ''), {}. Вызов из модуля __main__. 
+2023-07-12 20:06:44,476 INFO (core.py) Запущен сервер, порт для подключений: 7777, адрес: . Если адрес не указан, принимаются соединения с любых адресов.
+2023-07-12 20:09:29,252 DEBUG (server.py) Инициализация парсера аргументов командной строки: ['/home/aliya/PycharmProjects/client-server1/server.py']
+2023-07-12 20:09:29,253 DEBUG (server.py) Аргументы успешно загружены
+2023-07-12 20:09:29,253 DEBUG (decos.py) Функция create_arg_parser c параметрами ('7777', ''), {}. Вызов из модуля __main__. 
+2023-07-12 20:09:29,341 INFO (core.py) Запущен сервер, порт для подключений: 7777, адрес: . Если адрес не указан, принимаются соединения с любых адресов.
+2023-07-12 21:07:00,162 DEBUG (server.py) Инициализация парсера аргументов командной строки: ['server.py']
+2023-07-12 21:07:00,163 DEBUG (server.py) Аргументы успешно загружены
+2023-07-12 21:07:00,163 DEBUG (decos.py) Функция create_arg_parser c параметрами ('7777', ''), {}. Вызов из модуля __main__. 
+2023-07-12 21:07:00,247 INFO (core.py) Запущен сервер, порт для подключений: 7777, адрес: . Если адрес не указан, принимаются соединения с любых адресов.
+2023-07-12 21:07:59,569 DEBUG (server.py) Инициализация парсера аргументов командной строки: ['server.py']
+2023-07-12 21:07:59,571 DEBUG (server.py) Аргументы успешно загружены
+2023-07-12 21:07:59,571 DEBUG (decos.py) Функция create_arg_parser c параметрами ('7777', ''), {}. Вызов из модуля __main__. 
+2023-07-12 21:07:59,660 INFO (core.py) Запущен сервер, порт для подключений: 7777, адрес: . Если адрес не указан, принимаются соединения с любых адресов.
+2023-07-12 21:08:27,108 DEBUG (server.py) Инициализация парсера аргументов командной строки: ['/home/aliya/PycharmProjects/client-server1/server.py']
+2023-07-12 21:08:27,109 DEBUG (server.py) Аргументы успешно загружены
+2023-07-12 21:08:27,109 DEBUG (decos.py) Функция create_arg_parser c параметрами ('7777', ''), {}. Вызов из модуля __main__. 
+2023-07-12 21:08:27,184 INFO (core.py) Запущен сервер, порт для подключений: 7777, адрес: . Если адрес не указан, принимаются соединения с любых адресов.
+2023-07-12 21:09:20,257 DEBUG (server.py) Инициализация парсера аргументов командной строки: ['server.py']
+2023-07-12 21:09:20,258 DEBUG (server.py) Аргументы успешно загружены
+2023-07-12 21:09:20,258 DEBUG (decos.py) Функция create_arg_parser c параметрами ('7777', ''), {}. Вызов из модуля __main__. 
+2023-07-12 21:09:20,338 INFO (core.py) Запущен сервер, порт для подключений: 7777, адрес: . Если адрес не указан, принимаются соединения с любых адресов.
+2023-07-12 21:09:30,489 DEBUG (decos.py) Функция main c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 21:09:37,012 DEBUG (server.py) Инициализация парсера аргументов командной строки: ['/home/aliya/PycharmProjects/client-server1/server.py']
+2023-07-12 21:09:37,013 DEBUG (server.py) Аргументы успешно загружены
+2023-07-12 21:09:37,013 DEBUG (decos.py) Функция create_arg_parser c параметрами ('7777', ''), {}. Вызов из модуля __main__. 
+2023-07-12 21:09:37,088 INFO (core.py) Запущен сервер, порт для подключений: 7777, адрес: . Если адрес не указан, принимаются соединения с любых адресов.
+2023-07-12 21:18:43,938 DEBUG (decos.py) Функция main c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 21:18:59,118 DEBUG (server.py) Инициализация парсера аргументов командной строки: ['server.py']
+2023-07-12 21:18:59,119 DEBUG (server.py) Аргументы успешно загружены
+2023-07-12 21:18:59,119 DEBUG (decos.py) Функция create_arg_parser c параметрами ('7777', ''), {}. Вызов из модуля __main__. 
+2023-07-12 21:18:59,214 INFO (core.py) Запущен сервер, порт для подключений: 7777, адрес: . Если адрес не указан, принимаются соединения с любых адресов.
+2023-07-12 21:19:02,584 DEBUG (decos.py) Функция main c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 21:19:10,965 DEBUG (server.py) Инициализация парсера аргументов командной строки: ['server.py']
+2023-07-12 21:19:10,966 DEBUG (server.py) Аргументы успешно загружены
+2023-07-12 21:19:10,966 DEBUG (decos.py) Функция create_arg_parser c параметрами ('7777', ''), {}. Вызов из модуля __main__. 
+2023-07-12 21:19:11,038 INFO (core.py) Запущен сервер, порт для подключений: 7777, адрес: . Если адрес не указан, принимаются соединения с любых адресов.
+2023-07-12 21:19:55,393 DEBUG (server.py) Инициализация парсера аргументов командной строки: ['/home/aliya/PycharmProjects/client-server1/server.py']
+2023-07-12 21:19:55,394 DEBUG (server.py) Аргументы успешно загружены
+2023-07-12 21:19:55,394 DEBUG (decos.py) Функция create_arg_parser c параметрами ('7777', ''), {}. Вызов из модуля __main__. 
+2023-07-12 21:19:55,461 INFO (core.py) Запущен сервер, порт для подключений: 7777, адрес: . Если адрес не указан, принимаются соединения с любых адресов.
+2023-07-12 21:25:51,526 DEBUG (server.py) Инициализация парсера аргументов командной строки: ['/home/aliya/PycharmProjects/client-server1/server.py']
+2023-07-12 21:25:51,527 DEBUG (server.py) Аргументы успешно загружены
+2023-07-12 21:25:51,528 DEBUG (decos.py) Функция create_arg_parser c параметрами ('7777', ''), {}. Вызов из модуля __main__. 
+2023-07-12 21:25:51,616 INFO (core.py) Запущен сервер, порт для подключений: 7777, адрес: . Если адрес не указан, принимаются соединения с любых адресов.
+2023-07-12 21:29:38,061 DEBUG (server.py) Инициализация парсера аргументов командной строки: ['/home/aliya/PycharmProjects/client-server1/server.py']
+2023-07-12 21:29:38,062 DEBUG (server.py) Аргументы успешно загружены
+2023-07-12 21:29:38,062 DEBUG (decos.py) Функция create_arg_parser c параметрами ('7777', ''), {}. Вызов из модуля __main__. 
+2023-07-12 21:29:38,636 INFO (core.py) Запущен сервер, порт для подключений: 7777, адрес: . Если адрес не указан, принимаются соединения с любых адресов.
+2023-07-12 21:29:53,334 DEBUG (decos.py) Функция main c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 21:30:13,435 DEBUG (server.py) Инициализация парсера аргументов командной строки: ['server.py']
+2023-07-12 21:30:13,436 DEBUG (server.py) Аргументы успешно загружены
+2023-07-12 21:30:13,437 DEBUG (decos.py) Функция create_arg_parser c параметрами ('7777', ''), {}. Вызов из модуля __main__. 
+2023-07-12 21:30:14,074 INFO (core.py) Запущен сервер, порт для подключений: 7777, адрес: . Если адрес не указан, принимаются соединения с любых адресов.
+2023-07-12 21:30:59,247 DEBUG (decos.py) Функция main c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 21:31:07,737 DEBUG (server.py) Инициализация парсера аргументов командной строки: ['/home/aliya/PycharmProjects/client-server1/server.py']
+2023-07-12 21:31:07,737 DEBUG (server.py) Аргументы успешно загружены
+2023-07-12 21:31:07,737 DEBUG (decos.py) Функция create_arg_parser c параметрами ('7777', ''), {}. Вызов из модуля __main__. 
+2023-07-12 21:31:07,823 INFO (core.py) Запущен сервер, порт для подключений: 7777, адрес: . Если адрес не указан, принимаются соединения с любых адресов.
+2023-07-12 21:39:04,753 DEBUG (server.py) Инициализация парсера аргументов командной строки: ['/home/aliya/PycharmProjects/client-server1/server.py']
+2023-07-12 21:39:04,753 DEBUG (server.py) Аргументы успешно загружены
+2023-07-12 21:39:04,753 DEBUG (decos.py) Функция create_arg_parser c параметрами ('7777', ''), {}. Вызов из модуля __main__. 
+2023-07-12 21:39:04,820 INFO (core.py) Запущен сервер, порт для подключений: 7777, адрес: . Если адрес не указан, принимаются соединения с любых адресов.
+2023-07-12 22:13:55,719 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 49830)
+2023-07-12 22:14:18,413 DEBUG (server.py) Инициализация парсера аргументов командной строки: ['server.py']
+2023-07-12 22:14:18,414 DEBUG (server.py) Аргументы успешно загружены
+2023-07-12 22:14:18,414 DEBUG (decos.py) Функция create_arg_parser c параметрами ('7777', ''), {}. Вызов из модуля __main__. 
+2023-07-12 22:14:18,496 INFO (core.py) Запущен сервер, порт для подключений: 7777, адрес: . Если адрес не указан, принимаются соединения с любых адресов.
+2023-07-12 22:15:05,758 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 48258)
+2023-07-12 22:15:07,533 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 48262)
+2023-07-12 22:15:07,533 DEBUG (decos.py) Функция get_message c параметрами (<socket.socket fd=29, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 48258)>,), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 22:15:07,534 DEBUG (core.py) Разбор сообщения от клиента: {'action': 'presence', 'time': 1689182105.7949393, 'user': {'account_name': 'Aliya1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtbJZfWz2fGnOHD7cyIKz\n+wYmkjJndfr5fvpTyjfwVlfPTIxqF97DvcOLEci4y0L0mbl3hEr5u/upP2uqIRin\nooYz4HnfmGW9CQugES+3mI2j6xx4J6aRbmXgxxSk965O8CDmlZdUoPA8w+cF6SYz\nN0Ivzn1QTIKD48tbAMXErtsts1zhTifHBtzSu0mpbaJoeRcJ0q+p4pGhuLqo/jG3\nfWPVAYPHhVZNd1Yh4nWcCP9xyTkzNr3UT0xxGcXfYVj+yFN+zAM423T2/0ADsgVr\nJBHAU5WSPM5eJMkoke+8QHeW1qpgI22U3vKBkFf47TIppY7fie8Z3GfgjQtqSbwQ\n+QIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-12 22:15:07,534 DEBUG (core.py) Start auth process for {'account_name': 'Aliya1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtbJZfWz2fGnOHD7cyIKz\n+wYmkjJndfr5fvpTyjfwVlfPTIxqF97DvcOLEci4y0L0mbl3hEr5u/upP2uqIRin\nooYz4HnfmGW9CQugES+3mI2j6xx4J6aRbmXgxxSk965O8CDmlZdUoPA8w+cF6SYz\nN0Ivzn1QTIKD48tbAMXErtsts1zhTifHBtzSu0mpbaJoeRcJ0q+p4pGhuLqo/jG3\nfWPVAYPHhVZNd1Yh4nWcCP9xyTkzNr3UT0xxGcXfYVj+yFN+zAM423T2/0ADsgVr\nJBHAU5WSPM5eJMkoke+8QHeW1qpgI22U3vKBkFf47TIppY7fie8Z3GfgjQtqSbwQ\n+QIDAQAB\n-----END PUBLIC KEY-----'}
+2023-07-12 22:15:07,536 DEBUG (core.py) Correct username, starting passwd check
+2023-07-12 22:15:07,541 DEBUG (core.py) Auth message = {'response': 511, 'bin': '7693b530ea57ebd357420abce00e4d0ce3ef0c06fddf9593235e2b56af8fc4a9b639a7103e61a8a7223276e3b17ecc56edf5a5bf43050e4e71df8ba58b21825d'}
+2023-07-12 22:15:07,542 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=29, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 48258)>, {'response': 511, 'bin': '7693b530ea57ebd357420abce00e4d0ce3ef0c06fddf9593235e2b56af8fc4a9b639a7103e61a8a7223276e3b17ecc56edf5a5bf43050e4e71df8ba58b21825d'}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 22:15:07,543 DEBUG (decos.py) Функция get_message c параметрами (<socket.socket fd=29, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 48258)>,), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 22:15:07,544 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=29, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 48258)>, {'response': 200}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 22:15:19,440 DEBUG (server.py) Инициализация парсера аргументов командной строки: ['/home/aliya/PycharmProjects/client-server1/server.py']
+2023-07-12 22:15:19,440 DEBUG (server.py) Аргументы успешно загружены
+2023-07-12 22:15:19,440 DEBUG (decos.py) Функция create_arg_parser c параметрами ('7777', ''), {}. Вызов из модуля __main__. 
+2023-07-12 22:15:19,518 INFO (core.py) Запущен сервер, порт для подключений: 7777, адрес: . Если адрес не указан, принимаются соединения с любых адресов.
+2023-07-12 22:15:31,048 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 59820)
+2023-07-12 22:18:03,565 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 46858)
+2023-07-12 22:18:03,566 DEBUG (decos.py) Функция get_message c параметрами (<socket.socket fd=28, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59820)>,), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 22:18:03,566 DEBUG (core.py) Разбор сообщения от клиента: {'action': 'presence', 'time': 1689182131.0825775, 'user': {'account_name': 'Aliya1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtbJZfWz2fGnOHD7cyIKz\n+wYmkjJndfr5fvpTyjfwVlfPTIxqF97DvcOLEci4y0L0mbl3hEr5u/upP2uqIRin\nooYz4HnfmGW9CQugES+3mI2j6xx4J6aRbmXgxxSk965O8CDmlZdUoPA8w+cF6SYz\nN0Ivzn1QTIKD48tbAMXErtsts1zhTifHBtzSu0mpbaJoeRcJ0q+p4pGhuLqo/jG3\nfWPVAYPHhVZNd1Yh4nWcCP9xyTkzNr3UT0xxGcXfYVj+yFN+zAM423T2/0ADsgVr\nJBHAU5WSPM5eJMkoke+8QHeW1qpgI22U3vKBkFf47TIppY7fie8Z3GfgjQtqSbwQ\n+QIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-12 22:18:03,567 DEBUG (core.py) Start auth process for {'account_name': 'Aliya1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtbJZfWz2fGnOHD7cyIKz\n+wYmkjJndfr5fvpTyjfwVlfPTIxqF97DvcOLEci4y0L0mbl3hEr5u/upP2uqIRin\nooYz4HnfmGW9CQugES+3mI2j6xx4J6aRbmXgxxSk965O8CDmlZdUoPA8w+cF6SYz\nN0Ivzn1QTIKD48tbAMXErtsts1zhTifHBtzSu0mpbaJoeRcJ0q+p4pGhuLqo/jG3\nfWPVAYPHhVZNd1Yh4nWcCP9xyTkzNr3UT0xxGcXfYVj+yFN+zAM423T2/0ADsgVr\nJBHAU5WSPM5eJMkoke+8QHeW1qpgI22U3vKBkFf47TIppY7fie8Z3GfgjQtqSbwQ\n+QIDAQAB\n-----END PUBLIC KEY-----'}
+2023-07-12 22:18:03,573 DEBUG (core.py) Correct username, starting passwd check
+2023-07-12 22:18:03,574 DEBUG (core.py) Auth message = {'response': 511, 'bin': '28f31b2c60b6d240cb64936f206b91eb03e9f03002dd1d73920999b12f16f9142662d3e07b6d9a47502604e36978c9a567e7c502eb7a392ee3f076e80eb4da6e'}
+2023-07-12 22:18:03,574 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=28, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777)>, {'response': 511, 'bin': '28f31b2c60b6d240cb64936f206b91eb03e9f03002dd1d73920999b12f16f9142662d3e07b6d9a47502604e36978c9a567e7c502eb7a392ee3f076e80eb4da6e'}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 22:18:03,574 DEBUG (core.py) Getting data from client exception
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 74, in run
+    self.parse_client_message(get_message(client_with_message),
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 152, in parse_client_message
+    self.authorize_user(message, client)
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 304, in authorize_user
+    ans = get_message(sock)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 12, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 12, in get_message
+    response = json.loads(json_response)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2023-07-12 22:18:03,609 INFO (core.py) Клиент <built-in method getpeername of socket object at 0x7f1f681b20e0> отключился от сервера
+2023-07-12 22:18:18,160 DEBUG (server.py) Инициализация парсера аргументов командной строки: ['/home/aliya/PycharmProjects/client-server1/server.py']
+2023-07-12 22:18:18,161 DEBUG (server.py) Аргументы успешно загружены
+2023-07-12 22:18:18,161 DEBUG (decos.py) Функция create_arg_parser c параметрами ('7777', ''), {}. Вызов из модуля __main__. 
+2023-07-12 22:18:18,241 INFO (core.py) Запущен сервер, порт для подключений: 7777, адрес: . Если адрес не указан, принимаются соединения с любых адресов.
+2023-07-12 22:18:30,063 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 41886)
+2023-07-12 22:18:45,996 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 35600)
+2023-07-12 22:18:45,997 DEBUG (decos.py) Функция get_message c параметрами (<socket.socket fd=28, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 41886)>,), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 22:18:45,997 DEBUG (core.py) Разбор сообщения от клиента: {'action': 'presence', 'time': 1689182310.0769594, 'user': {'account_name': 'Aliya1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtbJZfWz2fGnOHD7cyIKz\n+wYmkjJndfr5fvpTyjfwVlfPTIxqF97DvcOLEci4y0L0mbl3hEr5u/upP2uqIRin\nooYz4HnfmGW9CQugES+3mI2j6xx4J6aRbmXgxxSk965O8CDmlZdUoPA8w+cF6SYz\nN0Ivzn1QTIKD48tbAMXErtsts1zhTifHBtzSu0mpbaJoeRcJ0q+p4pGhuLqo/jG3\nfWPVAYPHhVZNd1Yh4nWcCP9xyTkzNr3UT0xxGcXfYVj+yFN+zAM423T2/0ADsgVr\nJBHAU5WSPM5eJMkoke+8QHeW1qpgI22U3vKBkFf47TIppY7fie8Z3GfgjQtqSbwQ\n+QIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-12 22:18:45,997 DEBUG (core.py) Start auth process for {'account_name': 'Aliya1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtbJZfWz2fGnOHD7cyIKz\n+wYmkjJndfr5fvpTyjfwVlfPTIxqF97DvcOLEci4y0L0mbl3hEr5u/upP2uqIRin\nooYz4HnfmGW9CQugES+3mI2j6xx4J6aRbmXgxxSk965O8CDmlZdUoPA8w+cF6SYz\nN0Ivzn1QTIKD48tbAMXErtsts1zhTifHBtzSu0mpbaJoeRcJ0q+p4pGhuLqo/jG3\nfWPVAYPHhVZNd1Yh4nWcCP9xyTkzNr3UT0xxGcXfYVj+yFN+zAM423T2/0ADsgVr\nJBHAU5WSPM5eJMkoke+8QHeW1qpgI22U3vKBkFf47TIppY7fie8Z3GfgjQtqSbwQ\n+QIDAQAB\n-----END PUBLIC KEY-----'}
+2023-07-12 22:18:46,011 DEBUG (core.py) Correct username, starting passwd check
+2023-07-12 22:18:46,015 DEBUG (core.py) Auth message = {'response': 511, 'bin': '7739a46177cde80c2aba8b2d2674c75e6b1424732519b3579d41241218df0a2edff36dd4ee832af2d83edc1113c8f164b45012df0f4350e5f131e64abc9738f5'}
+2023-07-12 22:18:46,016 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=28, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777)>, {'response': 511, 'bin': '7739a46177cde80c2aba8b2d2674c75e6b1424732519b3579d41241218df0a2edff36dd4ee832af2d83edc1113c8f164b45012df0f4350e5f131e64abc9738f5'}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 22:18:46,017 DEBUG (core.py) Getting data from client exception
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 74, in run
+    self.parse_client_message(get_message(client_with_message),
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 152, in parse_client_message
+    self.authorize_user(message, client)
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 304, in authorize_user
+    ans = get_message(sock)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 12, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 12, in get_message
+    response = json.loads(json_response)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2023-07-12 22:18:46,019 INFO (core.py) Клиент <built-in method getpeername of socket object at 0x7f16083a2020> отключился от сервера
+2023-07-12 22:21:02,962 DEBUG (server.py) Инициализация парсера аргументов командной строки: ['/home/aliya/PycharmProjects/client-server1/server.py']
+2023-07-12 22:21:02,964 DEBUG (server.py) Аргументы успешно загружены
+2023-07-12 22:21:02,964 DEBUG (decos.py) Функция create_arg_parser c параметрами ('7777', ''), {}. Вызов из модуля __main__. 
+2023-07-12 22:21:03,074 INFO (core.py) Запущен сервер, порт для подключений: 7777, адрес: . Если адрес не указан, принимаются соединения с любых адресов.
+2023-07-12 22:21:15,854 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 57472)
+2023-07-12 22:24:29,219 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 49332)
+2023-07-12 22:24:29,220 DEBUG (decos.py) Функция get_message c параметрами (<socket.socket fd=28, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 57472)>,), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 22:24:29,220 DEBUG (core.py) Разбор сообщения от клиента: {'action': 'presence', 'time': 1689182475.86815, 'user': {'account_name': 'Aliya1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtbJZfWz2fGnOHD7cyIKz\n+wYmkjJndfr5fvpTyjfwVlfPTIxqF97DvcOLEci4y0L0mbl3hEr5u/upP2uqIRin\nooYz4HnfmGW9CQugES+3mI2j6xx4J6aRbmXgxxSk965O8CDmlZdUoPA8w+cF6SYz\nN0Ivzn1QTIKD48tbAMXErtsts1zhTifHBtzSu0mpbaJoeRcJ0q+p4pGhuLqo/jG3\nfWPVAYPHhVZNd1Yh4nWcCP9xyTkzNr3UT0xxGcXfYVj+yFN+zAM423T2/0ADsgVr\nJBHAU5WSPM5eJMkoke+8QHeW1qpgI22U3vKBkFf47TIppY7fie8Z3GfgjQtqSbwQ\n+QIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-12 22:24:29,220 DEBUG (core.py) Start auth process for {'account_name': 'Aliya1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtbJZfWz2fGnOHD7cyIKz\n+wYmkjJndfr5fvpTyjfwVlfPTIxqF97DvcOLEci4y0L0mbl3hEr5u/upP2uqIRin\nooYz4HnfmGW9CQugES+3mI2j6xx4J6aRbmXgxxSk965O8CDmlZdUoPA8w+cF6SYz\nN0Ivzn1QTIKD48tbAMXErtsts1zhTifHBtzSu0mpbaJoeRcJ0q+p4pGhuLqo/jG3\nfWPVAYPHhVZNd1Yh4nWcCP9xyTkzNr3UT0xxGcXfYVj+yFN+zAM423T2/0ADsgVr\nJBHAU5WSPM5eJMkoke+8QHeW1qpgI22U3vKBkFf47TIppY7fie8Z3GfgjQtqSbwQ\n+QIDAQAB\n-----END PUBLIC KEY-----'}
+2023-07-12 22:24:29,227 DEBUG (core.py) Correct username, starting passwd check
+2023-07-12 22:24:29,228 DEBUG (core.py) Auth message = {'response': 511, 'bin': 'c65ecf0b8901b945156b01f921c914ed1ae32fb610a27d43dd3bf195903c4562a689ac051d4187edf24feb3a085a659f4efd7b2a266e21cb257aa226eb74567e'}
+2023-07-12 22:24:29,228 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=28, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777)>, {'response': 511, 'bin': 'c65ecf0b8901b945156b01f921c914ed1ae32fb610a27d43dd3bf195903c4562a689ac051d4187edf24feb3a085a659f4efd7b2a266e21cb257aa226eb74567e'}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 22:24:29,228 DEBUG (core.py) Getting data from client exception
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 74, in run
+    self.parse_client_message(get_message(client_with_message),
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 152, in parse_client_message
+    self.authorize_user(message, client)
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 304, in authorize_user
+    ans = get_message(sock)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 12, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 12, in get_message
+    response = json.loads(json_response)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2023-07-12 22:24:29,229 INFO (core.py) Клиент <built-in method getpeername of socket object at 0x7f5d1805fc40> отключился от сервера
+2023-07-12 22:24:46,957 DEBUG (decos.py) Функция main c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 22:25:09,566 DEBUG (server.py) Инициализация парсера аргументов командной строки: ['/home/aliya/PycharmProjects/client-server1/server.py']
+2023-07-12 22:25:09,567 DEBUG (server.py) Аргументы успешно загружены
+2023-07-12 22:25:09,567 DEBUG (decos.py) Функция create_arg_parser c параметрами ('7777', ''), {}. Вызов из модуля __main__. 
+2023-07-12 22:25:09,699 INFO (core.py) Запущен сервер, порт для подключений: 7777, адрес: . Если адрес не указан, принимаются соединения с любых адресов.
+2023-07-12 22:25:23,291 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 52942)
+2023-07-12 22:30:44,229 DEBUG (server.py) Инициализация парсера аргументов командной строки: ['server.py']
+2023-07-12 22:30:44,230 DEBUG (server.py) Аргументы успешно загружены
+2023-07-12 22:30:44,230 DEBUG (decos.py) Функция create_arg_parser c параметрами ('7777', ''), {}. Вызов из модуля __main__. 
+2023-07-12 22:30:44,376 INFO (core.py) Запущен сервер, порт для подключений: 7777, адрес: . Если адрес не указан, принимаются соединения с любых адресов.
+2023-07-12 22:30:58,498 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 43640)
+2023-07-12 22:31:16,904 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 45262)
+2023-07-12 22:31:16,904 DEBUG (decos.py) Функция get_message c параметрами (<socket.socket fd=28, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 43640)>,), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 22:31:16,904 DEBUG (core.py) Разбор сообщения от клиента: {'action': 'presence', 'time': 1689183058.5315266, 'user': {'account_name': 'Aliya1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtbJZfWz2fGnOHD7cyIKz\n+wYmkjJndfr5fvpTyjfwVlfPTIxqF97DvcOLEci4y0L0mbl3hEr5u/upP2uqIRin\nooYz4HnfmGW9CQugES+3mI2j6xx4J6aRbmXgxxSk965O8CDmlZdUoPA8w+cF6SYz\nN0Ivzn1QTIKD48tbAMXErtsts1zhTifHBtzSu0mpbaJoeRcJ0q+p4pGhuLqo/jG3\nfWPVAYPHhVZNd1Yh4nWcCP9xyTkzNr3UT0xxGcXfYVj+yFN+zAM423T2/0ADsgVr\nJBHAU5WSPM5eJMkoke+8QHeW1qpgI22U3vKBkFf47TIppY7fie8Z3GfgjQtqSbwQ\n+QIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-12 22:31:16,904 DEBUG (core.py) Start auth process for {'account_name': 'Aliya1', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtbJZfWz2fGnOHD7cyIKz\n+wYmkjJndfr5fvpTyjfwVlfPTIxqF97DvcOLEci4y0L0mbl3hEr5u/upP2uqIRin\nooYz4HnfmGW9CQugES+3mI2j6xx4J6aRbmXgxxSk965O8CDmlZdUoPA8w+cF6SYz\nN0Ivzn1QTIKD48tbAMXErtsts1zhTifHBtzSu0mpbaJoeRcJ0q+p4pGhuLqo/jG3\nfWPVAYPHhVZNd1Yh4nWcCP9xyTkzNr3UT0xxGcXfYVj+yFN+zAM423T2/0ADsgVr\nJBHAU5WSPM5eJMkoke+8QHeW1qpgI22U3vKBkFf47TIppY7fie8Z3GfgjQtqSbwQ\n+QIDAQAB\n-----END PUBLIC KEY-----'}
+2023-07-12 22:31:16,908 DEBUG (core.py) Correct username, starting passwd check
+2023-07-12 22:31:16,910 DEBUG (core.py) Auth message = {'response': 511, 'bin': '5403e94c2615f0a2a11e8d14f07eeee7d545e6ec4bed6aaec923f4f36e58d8640bef90b6bedfe552be8ccf430b6020eeaa82942ddc1e272db569aa955702379b'}
+2023-07-12 22:31:16,910 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=28, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777)>, {'response': 511, 'bin': '5403e94c2615f0a2a11e8d14f07eeee7d545e6ec4bed6aaec923f4f36e58d8640bef90b6bedfe552be8ccf430b6020eeaa82942ddc1e272db569aa955702379b'}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 22:31:16,910 DEBUG (core.py) Getting data from client exception
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 74, in run
+    self.parse_client_message(get_message(client_with_message),
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 152, in parse_client_message
+    self.authorize_user(message, client)
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 304, in authorize_user
+    ans = get_message(sock)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 12, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 12, in get_message
+    response = json.loads(json_response)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2023-07-12 22:31:16,911 INFO (core.py) Клиент <built-in method getpeername of socket object at 0x7f44f7d9fa60> отключился от сервера
+2023-07-12 22:31:37,154 DEBUG (decos.py) Функция main c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 22:36:06,297 DEBUG (server.py) Инициализация парсера аргументов командной строки: ['server.py']
+2023-07-12 22:36:06,298 DEBUG (server.py) Аргументы успешно загружены
+2023-07-12 22:36:06,298 DEBUG (decos.py) Функция create_arg_parser c параметрами ('7777', ''), {}. Вызов из модуля __main__. 
+2023-07-12 22:36:06,466 INFO (core.py) Запущен сервер, порт для подключений: 7777, адрес: . Если адрес не указан, принимаются соединения с любых адресов.
+2023-07-12 22:36:20,096 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 34250)
+2023-07-12 22:36:31,074 DEBUG (decos.py) Функция main c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 22:42:00,414 DEBUG (server.py) Инициализация парсера аргументов командной строки: ['server.py']
+2023-07-12 22:42:00,415 DEBUG (server.py) Аргументы успешно загружены
+2023-07-12 22:42:00,416 DEBUG (decos.py) Функция create_arg_parser c параметрами ('7777', ''), {}. Вызов из модуля __main__. 
+2023-07-12 22:42:00,538 INFO (core.py) Запущен сервер, порт для подключений: 7777, адрес: . Если адрес не указан, принимаются соединения с любых адресов.
+2023-07-12 22:42:13,002 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 38910)
+2023-07-12 22:42:25,606 DEBUG (decos.py) Функция main c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 22:43:16,271 DEBUG (server.py) Инициализация парсера аргументов командной строки: ['/home/aliya/PycharmProjects/client-server1/server.py']
+2023-07-12 22:43:16,271 DEBUG (server.py) Аргументы успешно загружены
+2023-07-12 22:43:16,272 DEBUG (decos.py) Функция create_arg_parser c параметрами ('7777', ''), {}. Вызов из модуля __main__. 
+2023-07-12 22:43:16,351 INFO (core.py) Запущен сервер, порт для подключений: 7777, адрес: . Если адрес не указан, принимаются соединения с любых адресов.
+2023-07-12 22:43:55,268 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 48750)
+2023-07-12 22:45:30,229 DEBUG (server.py) Инициализация парсера аргументов командной строки: ['/home/aliya/PycharmProjects/client-server1/server.py']
+2023-07-12 22:45:30,230 DEBUG (server.py) Аргументы успешно загружены
+2023-07-12 22:45:30,230 DEBUG (decos.py) Функция create_arg_parser c параметрами ('7777', ''), {}. Вызов из модуля __main__. 
+2023-07-12 22:45:30,327 INFO (core.py) Запущен сервер, порт для подключений: 7777, адрес: . Если адрес не указан, принимаются соединения с любых адресов.
+2023-07-12 22:45:40,941 DEBUG (server.py) Инициализация парсера аргументов командной строки: ['/home/aliya/PycharmProjects/client-server1/server.py']
+2023-07-12 22:45:40,942 DEBUG (server.py) Аргументы успешно загружены
+2023-07-12 22:45:40,942 DEBUG (decos.py) Функция create_arg_parser c параметрами ('7777', ''), {}. Вызов из модуля __main__. 
+2023-07-12 22:45:41,018 INFO (core.py) Запущен сервер, порт для подключений: 7777, адрес: . Если адрес не указан, принимаются соединения с любых адресов.
+2023-07-12 22:45:50,162 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 49420)
+2023-07-12 22:46:48,734 DEBUG (decos.py) Функция main c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 23:21:16,266 DEBUG (server.py) Инициализация парсера аргументов командной строки: ['/home/aliya/PycharmProjects/client-server1/server.py']
+2023-07-12 23:21:16,272 DEBUG (server.py) Аргументы успешно загружены
+2023-07-12 23:21:16,272 DEBUG (decos.py) Функция create_arg_parser c параметрами ('7777', ''), {}. Вызов из модуля __main__. 
+2023-07-12 23:21:16,356 INFO (core.py) Запущен сервер, порт для подключений: 7777, адрес: . Если адрес не указан, принимаются соединения с любых адресов.
+2023-07-12 23:21:24,001 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 47774)
+2023-07-12 23:21:33,142 DEBUG (decos.py) Функция main c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-12 23:24:43,878 DEBUG (server.py) Инициализация парсера аргументов командной строки: ['/home/aliya/PycharmProjects/client-server1/server.py']
+2023-07-12 23:24:43,878 DEBUG (server.py) Аргументы успешно загружены
+2023-07-12 23:24:43,878 DEBUG (decos.py) Функция create_arg_parser c параметрами ('7777', ''), {}. Вызов из модуля __main__. 
+2023-07-12 23:24:43,970 INFO (core.py) Запущен сервер, порт для подключений: 7777, адрес: . Если адрес не указан, принимаются соединения с любых адресов.
+2023-07-12 23:25:15,933 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 45228)
+2023-07-12 23:26:45,744 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 44362)
+2023-07-12 23:26:45,745 DEBUG (decos.py) Функция get_message c параметрами (<socket.socket fd=29, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 45228)>,), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 23:26:45,745 DEBUG (core.py) Разбор сообщения от клиента: {'action': 'presence', 'time': 1689186315.9692464, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-12 23:26:45,745 DEBUG (core.py) Start auth process for {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}
+2023-07-12 23:26:45,747 DEBUG (core.py) Correct username, starting passwd check
+2023-07-12 23:26:45,750 DEBUG (core.py) Auth message = {'response': 511, 'bin': '073d02f38d0eeef1d7a44b5515ec327de1c5d9110c76a9d98693d8fe5722c1416f6c29c12dceaff75fc71b283b1f5d0c1fd4c74a7f004ae74a52f386e195b1f3'}
+2023-07-12 23:26:45,750 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=29, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777)>, {'response': 511, 'bin': '073d02f38d0eeef1d7a44b5515ec327de1c5d9110c76a9d98693d8fe5722c1416f6c29c12dceaff75fc71b283b1f5d0c1fd4c74a7f004ae74a52f386e195b1f3'}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 23:26:45,750 DEBUG (core.py) Getting data from client exception
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 75, in run
+    self.parse_client_message(get_message(client_with_message),
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 57, in checker
+    return func(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 154, in parse_client_message
+    self.authorize_user(message, client)
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 306, in authorize_user
+    ans = get_message(sock)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 21, in get_message
+    response = json.loads(json_response)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2023-07-12 23:26:45,751 INFO (core.py) Клиент <built-in method getpeername of socket object at 0x7fcfe86f3c40> отключился от сервера
+2023-07-12 23:28:48,804 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 35746)
+2023-07-12 23:28:48,805 DEBUG (decos.py) Функция get_message c параметрами (<socket.socket fd=30, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 44362)>,), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 23:28:48,805 DEBUG (core.py) Разбор сообщения от клиента: {'action': 'presence', 'time': 1689186405.7567585, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-12 23:28:48,806 DEBUG (core.py) Start auth process for {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}
+2023-07-12 23:28:48,808 DEBUG (core.py) Correct username, starting passwd check
+2023-07-12 23:28:48,810 DEBUG (core.py) Auth message = {'response': 511, 'bin': 'cce60b154c8320d98cf8249020bd38e129137b386cd0879af158ff1090762fdf878f74ae7e2b7f628305e43de3c9d2a6a8cf66dad6affe7ddefa9722e6efe335'}
+2023-07-12 23:28:48,811 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=30, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777)>, {'response': 511, 'bin': 'cce60b154c8320d98cf8249020bd38e129137b386cd0879af158ff1090762fdf878f74ae7e2b7f628305e43de3c9d2a6a8cf66dad6affe7ddefa9722e6efe335'}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 23:28:48,811 DEBUG (core.py) Getting data from client exception
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 75, in run
+    self.parse_client_message(get_message(client_with_message),
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 57, in checker
+    return func(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 154, in parse_client_message
+    self.authorize_user(message, client)
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 306, in authorize_user
+    ans = get_message(sock)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 21, in get_message
+    response = json.loads(json_response)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2023-07-12 23:28:48,812 INFO (core.py) Клиент <built-in method getpeername of socket object at 0x7fcfe82b1ba0> отключился от сервера
+2023-07-12 23:30:26,799 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 51422)
+2023-07-12 23:30:26,799 DEBUG (core.py) Getting data from client exception
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 75, in run
+    self.parse_client_message(get_message(client_with_message),
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 21, in get_message
+    response = json.loads(json_response)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 1 column 557 (char 556)
+2023-07-12 23:30:26,800 INFO (core.py) Клиент <built-in method getpeername of socket object at 0x7fcfe82b11e0> отключился от сервера
+2023-07-12 23:42:09,841 DEBUG (server.py) Инициализация парсера аргументов командной строки: ['/home/aliya/PycharmProjects/client-server1/server.py']
+2023-07-12 23:42:09,842 DEBUG (server.py) Аргументы успешно загружены
+2023-07-12 23:42:09,842 DEBUG (decos.py) Функция create_arg_parser c параметрами ('7777', ''), {}. Вызов из модуля __main__. 
+2023-07-12 23:42:09,919 INFO (core.py) Запущен сервер, порт для подключений: 7777, адрес: . Если адрес не указан, принимаются соединения с любых адресов.
+2023-07-12 23:42:20,166 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 60630)
+2023-07-12 23:44:58,149 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 38692)
+2023-07-12 23:44:58,150 DEBUG (decos.py) Функция get_message c параметрами (<socket.socket fd=28, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 60630)>,), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 23:44:58,150 DEBUG (core.py) Разбор сообщения от клиента: {'action': 'presence', 'time': 1689187340.2020724, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-12 23:44:58,150 DEBUG (core.py) Start auth process for {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}
+2023-07-12 23:44:58,157 DEBUG (core.py) Correct username, starting passwd check
+2023-07-12 23:44:58,158 DEBUG (core.py) Auth message = {'response': 511, 'bin': '1e2bbeedc7c9b735fed0d384262c8e77dec910239f2cdf2487140a180dcefad69979a63eea6e04a6530aca3bfea3f58f78d9be64d282d6e439ab287fe78cd332'}
+2023-07-12 23:44:58,158 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=28, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777)>, {'response': 511, 'bin': '1e2bbeedc7c9b735fed0d384262c8e77dec910239f2cdf2487140a180dcefad69979a63eea6e04a6530aca3bfea3f58f78d9be64d282d6e439ab287fe78cd332'}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 23:44:58,158 DEBUG (core.py) Getting data from client exception
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 75, in run
+    self.parse_client_message(get_message(client_with_message),
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 57, in checker
+    return func(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 154, in parse_client_message
+    self.authorize_user(message, client)
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 306, in authorize_user
+    ans = get_message(sock)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 21, in get_message
+    response = json.loads(json_response)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2023-07-12 23:44:58,159 INFO (core.py) Клиент <built-in method getpeername of socket object at 0x7f7fc49a2200> отключился от сервера
+2023-07-12 23:46:18,895 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 58216)
+2023-07-12 23:46:18,896 DEBUG (decos.py) Функция get_message c параметрами (<socket.socket fd=29, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 38692)>,), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 23:46:18,896 DEBUG (core.py) Разбор сообщения от клиента: {'action': 'presence', 'time': 1689187498.1622334, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-12 23:46:18,896 DEBUG (core.py) Start auth process for {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}
+2023-07-12 23:46:18,899 DEBUG (core.py) Correct username, starting passwd check
+2023-07-12 23:46:18,901 DEBUG (core.py) Auth message = {'response': 511, 'bin': 'd004d360ef1af7c29e96d88c19f0075769bc0b4d9f9a5c94ea6378bd03c8962b55e1d866812222f585d70d48ae399d8d283bfc2610fa1c3de7fc20d5d7cd2dd9'}
+2023-07-12 23:46:18,902 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=29, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777)>, {'response': 511, 'bin': 'd004d360ef1af7c29e96d88c19f0075769bc0b4d9f9a5c94ea6378bd03c8962b55e1d866812222f585d70d48ae399d8d283bfc2610fa1c3de7fc20d5d7cd2dd9'}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-12 23:46:18,902 DEBUG (core.py) Getting data from client exception
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 75, in run
+    self.parse_client_message(get_message(client_with_message),
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 57, in checker
+    return func(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 154, in parse_client_message
+    self.authorize_user(message, client)
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 306, in authorize_user
+    ans = get_message(sock)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 21, in get_message
+    response = json.loads(json_response)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2023-07-12 23:46:18,903 INFO (core.py) Клиент <built-in method getpeername of socket object at 0x7f7fc49a2020> отключился от сервера
+2023-07-13 10:04:05,499 DEBUG (server.py) Инициализация парсера аргументов командной строки: ['/home/aliya/PycharmProjects/client-server1/server.py']
+2023-07-13 10:04:05,501 DEBUG (server.py) Аргументы успешно загружены
+2023-07-13 10:04:05,501 DEBUG (decos.py) Функция create_arg_parser c параметрами ('7777', ''), {}. Вызов из модуля __main__. 
+2023-07-13 10:04:05,594 INFO (core.py) Запущен сервер, порт для подключений: 7777, адрес: . Если адрес не указан, принимаются соединения с любых адресов.
+2023-07-13 10:04:16,163 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 48240)
+2023-07-13 10:05:44,958 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 34116)
+2023-07-13 10:05:44,959 DEBUG (decos.py) Функция get_message c параметрами (<socket.socket fd=28, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 48240)>,), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 10:05:44,959 DEBUG (core.py) Разбор сообщения от клиента: {'action': 'presence', 'time': 1689224656.1969478, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-13 10:05:44,959 DEBUG (core.py) Start auth process for {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}
+2023-07-13 10:05:44,972 DEBUG (core.py) Correct username, starting passwd check
+2023-07-13 10:05:44,976 DEBUG (core.py) Auth message = {'response': 511, 'bin': '6673e11f80fd64772a297f7823c42d915b10b7d2954b0c2c0a533793e018da6aa6ffaee096c86660027a78a0f7f4ac75145f27c2fb75470d590b4bbd42e63854'}
+2023-07-13 10:05:44,977 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=28, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777)>, {'response': 511, 'bin': '6673e11f80fd64772a297f7823c42d915b10b7d2954b0c2c0a533793e018da6aa6ffaee096c86660027a78a0f7f4ac75145f27c2fb75470d590b4bbd42e63854'}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 10:05:44,977 DEBUG (core.py) Getting data from client exception
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 75, in run
+    self.parse_client_message(get_message(client_with_message),
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 57, in checker
+    return func(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 154, in parse_client_message
+    self.authorize_user(message, client)
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 306, in authorize_user
+    ans = get_message(sock)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 21, in get_message
+    response = json.loads(json_response)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2023-07-13 10:05:44,980 INFO (core.py) Клиент <built-in method getpeername of socket object at 0x7f6e912b8940> отключился от сервера
+2023-07-13 10:08:24,031 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 37148)
+2023-07-13 10:08:24,032 DEBUG (decos.py) Функция get_message c параметрами (<socket.socket fd=29, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 34116)>,), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 10:08:24,032 DEBUG (core.py) Разбор сообщения от клиента: {'action': 'presence', 'time': 1689224744.9838345, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-13 10:08:24,033 DEBUG (core.py) Start auth process for {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}
+2023-07-13 10:08:24,036 DEBUG (core.py) Correct username, starting passwd check
+2023-07-13 10:08:24,038 DEBUG (core.py) Auth message = {'response': 511, 'bin': '4c6e6e0d330536ea9f0c0d2db625e8756f13d6073516722e4235fc0aee4ff600c3cdd4160d125502e4e649be7924407a9b89f97c44d6c03f1be02f6fb29075ad'}
+2023-07-13 10:08:24,039 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=29, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777)>, {'response': 511, 'bin': '4c6e6e0d330536ea9f0c0d2db625e8756f13d6073516722e4235fc0aee4ff600c3cdd4160d125502e4e649be7924407a9b89f97c44d6c03f1be02f6fb29075ad'}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 10:08:24,040 DEBUG (core.py) Getting data from client exception
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 75, in run
+    self.parse_client_message(get_message(client_with_message),
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 57, in checker
+    return func(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 154, in parse_client_message
+    self.authorize_user(message, client)
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 306, in authorize_user
+    ans = get_message(sock)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 21, in get_message
+    response = json.loads(json_response)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2023-07-13 10:08:24,041 INFO (core.py) Клиент <built-in method getpeername of socket object at 0x7f6e912ba620> отключился от сервера
+2023-07-13 10:12:37,516 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 39774)
+2023-07-13 10:12:37,516 DEBUG (decos.py) Функция get_message c параметрами (<socket.socket fd=28, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 37148)>,), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 10:12:37,517 DEBUG (core.py) Разбор сообщения от клиента: {'action': 'presence', 'time': 1689224904.067919, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-13 10:12:37,517 DEBUG (core.py) Start auth process for {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}
+2023-07-13 10:12:37,519 DEBUG (core.py) Correct username, starting passwd check
+2023-07-13 10:12:37,521 DEBUG (core.py) Auth message = {'response': 511, 'bin': 'c48e5c39ee071f5ae826cdadd11366ead4c6988f9d9eca852cb224b0482be2e34caeb47fffdad53af1f9a37f7cd0837b0e165bd395dc3b5b20bfc2e7df719d85'}
+2023-07-13 10:12:37,522 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=28, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777)>, {'response': 511, 'bin': 'c48e5c39ee071f5ae826cdadd11366ead4c6988f9d9eca852cb224b0482be2e34caeb47fffdad53af1f9a37f7cd0837b0e165bd395dc3b5b20bfc2e7df719d85'}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 10:12:37,522 DEBUG (core.py) Getting data from client exception
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 75, in run
+    self.parse_client_message(get_message(client_with_message),
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 57, in checker
+    return func(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 154, in parse_client_message
+    self.authorize_user(message, client)
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 306, in authorize_user
+    ans = get_message(sock)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 21, in get_message
+    response = json.loads(json_response)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2023-07-13 10:12:37,522 INFO (core.py) Клиент <built-in method getpeername of socket object at 0x7f6e912b9540> отключился от сервера
+2023-07-13 10:13:37,896 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 44048)
+2023-07-13 10:13:37,897 DEBUG (decos.py) Функция get_message c параметрами (<socket.socket fd=29, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 39774)>,), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 10:13:37,897 DEBUG (core.py) Разбор сообщения от клиента: {'action': 'presence', 'time': 1689225157.5290515, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-13 10:13:37,897 DEBUG (core.py) Start auth process for {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}
+2023-07-13 10:13:37,900 DEBUG (core.py) Correct username, starting passwd check
+2023-07-13 10:13:37,902 DEBUG (core.py) Auth message = {'response': 511, 'bin': 'df8fa34206c19ac64ad95ab43ff6d39b661e242a9df10e2f7b66fe2fb4fe633c0f19b43b739188388b00df086dc81eeda93ce16134fe126266c3649ac60a1ae1'}
+2023-07-13 10:13:37,902 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=29, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777)>, {'response': 511, 'bin': 'df8fa34206c19ac64ad95ab43ff6d39b661e242a9df10e2f7b66fe2fb4fe633c0f19b43b739188388b00df086dc81eeda93ce16134fe126266c3649ac60a1ae1'}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 10:13:37,903 DEBUG (core.py) Getting data from client exception
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 75, in run
+    self.parse_client_message(get_message(client_with_message),
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 57, in checker
+    return func(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 154, in parse_client_message
+    self.authorize_user(message, client)
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 306, in authorize_user
+    ans = get_message(sock)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 21, in get_message
+    response = json.loads(json_response)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2023-07-13 10:13:37,903 INFO (core.py) Клиент <built-in method getpeername of socket object at 0x7f6e916fb460> отключился от сервера
+2023-07-13 10:22:52,036 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 37430)
+2023-07-13 10:22:52,036 DEBUG (core.py) Getting data from client exception
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 75, in run
+    self.parse_client_message(get_message(client_with_message),
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 21, in get_message
+    response = json.loads(json_response)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2023-07-13 10:22:52,036 INFO (core.py) Клиент <built-in method getpeername of socket object at 0x7f6e912ba620> отключился от сервера
+2023-07-13 10:25:12,425 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 40300)
+2023-07-13 10:25:12,426 DEBUG (decos.py) Функция get_message c параметрами (<socket.socket fd=29, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 37430)>,), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 10:25:12,426 DEBUG (core.py) Разбор сообщения от клиента: {'action': 'presence', 'time': 1689225772.0551867, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-13 10:25:12,426 DEBUG (core.py) Start auth process for {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}
+2023-07-13 10:25:12,430 DEBUG (core.py) Correct username, starting passwd check
+2023-07-13 10:25:12,432 DEBUG (core.py) Auth message = {'response': 511, 'bin': 'eb703aac55711a69925436642a66647598dc07551922124bb3051f057c853260d24b4ba5ce93cc6b8b9f6d76509c008229d3bee0f009788e5793e348da758642'}
+2023-07-13 10:25:12,433 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=29, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777)>, {'response': 511, 'bin': 'eb703aac55711a69925436642a66647598dc07551922124bb3051f057c853260d24b4ba5ce93cc6b8b9f6d76509c008229d3bee0f009788e5793e348da758642'}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 10:25:12,433 DEBUG (core.py) Getting data from client exception
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 75, in run
+    self.parse_client_message(get_message(client_with_message),
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 57, in checker
+    return func(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 154, in parse_client_message
+    self.authorize_user(message, client)
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 306, in authorize_user
+    ans = get_message(sock)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 21, in get_message
+    response = json.loads(json_response)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2023-07-13 10:25:12,434 INFO (core.py) Клиент <built-in method getpeername of socket object at 0x7f6e912ba860> отключился от сервера
+2023-07-13 10:28:08,271 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 55844)
+2023-07-13 10:28:08,271 DEBUG (decos.py) Функция get_message c параметрами (<socket.socket fd=28, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 40300)>,), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 10:28:08,272 DEBUG (core.py) Разбор сообщения от клиента: {'action': 'presence', 'time': 1689225912.4628618, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-13 10:28:08,272 DEBUG (core.py) Start auth process for {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}
+2023-07-13 10:28:08,274 DEBUG (core.py) Correct username, starting passwd check
+2023-07-13 10:28:08,276 DEBUG (core.py) Auth message = {'response': 511, 'bin': '0737d356b350e15139eafb67b3807e43c861575764785eb22ec4262e94c8b5949a9bc0a9e30ecbb4bbc0b041b5085a8d4f296b0ae15587544ecbdd3a4ef07f27'}
+2023-07-13 10:28:08,276 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=28, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777)>, {'response': 511, 'bin': '0737d356b350e15139eafb67b3807e43c861575764785eb22ec4262e94c8b5949a9bc0a9e30ecbb4bbc0b041b5085a8d4f296b0ae15587544ecbdd3a4ef07f27'}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 10:28:08,276 DEBUG (core.py) Getting data from client exception
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 75, in run
+    self.parse_client_message(get_message(client_with_message),
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 57, in checker
+    return func(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 154, in parse_client_message
+    self.authorize_user(message, client)
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 306, in authorize_user
+    ans = get_message(sock)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 21, in get_message
+    response = json.loads(json_response)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2023-07-13 10:28:08,276 INFO (core.py) Клиент <built-in method getpeername of socket object at 0x7f6e916fb460> отключился от сервера
+2023-07-13 10:59:13,812 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 34068)
+2023-07-13 10:59:13,813 DEBUG (core.py) Getting data from client exception
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 75, in run
+    self.parse_client_message(get_message(client_with_message),
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 21, in get_message
+    json_response = encoded_response.decode(ENCODING)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 1 column 558 (char 557)
+2023-07-13 10:59:13,814 INFO (core.py) Клиент <built-in method getpeername of socket object at 0x7f6e912ba620> отключился от сервера
+2023-07-13 11:00:04,684 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 40764)
+2023-07-13 11:00:04,684 DEBUG (decos.py) Функция get_message c параметрами (<socket.socket fd=28, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 34068)>,), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 11:00:04,685 DEBUG (core.py) Разбор сообщения от клиента: {'action': 'presence', 'time': 1689227953.847224, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-13 11:00:04,685 DEBUG (core.py) Start auth process for {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}
+2023-07-13 11:00:04,688 DEBUG (core.py) Correct username, starting passwd check
+2023-07-13 11:00:04,691 DEBUG (core.py) Auth message = {'response': 511, 'bin': '6d8839b97d7c341e4a1f1a3d4185e058ae33feb6aa391dab46f693898444e725508271d8ac1003ffdde6804ef60b24359eb14557c13ea3c4d1032712d19ccffb'}
+2023-07-13 11:00:04,691 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=28, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777)>, {'response': 511, 'bin': '6d8839b97d7c341e4a1f1a3d4185e058ae33feb6aa391dab46f693898444e725508271d8ac1003ffdde6804ef60b24359eb14557c13ea3c4d1032712d19ccffb'}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 11:00:04,692 DEBUG (core.py) Getting data from client exception
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 75, in run
+    self.parse_client_message(get_message(client_with_message),
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 57, in checker
+    return func(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 154, in parse_client_message
+    self.authorize_user(message, client)
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 306, in authorize_user
+    ans = get_message(sock)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 21, in get_message
+    json_response = encoded_response.decode(ENCODING)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2023-07-13 11:00:04,693 INFO (core.py) Клиент <built-in method getpeername of socket object at 0x7f6e912ba860> отключился от сервера
+2023-07-13 11:02:06,502 DEBUG (server.py) Инициализация парсера аргументов командной строки: ['/home/aliya/PycharmProjects/client-server1/server.py']
+2023-07-13 11:02:06,503 DEBUG (server.py) Аргументы успешно загружены
+2023-07-13 11:02:06,503 DEBUG (decos.py) Функция create_arg_parser c параметрами ('7777', ''), {}. Вызов из модуля __main__. 
+2023-07-13 11:02:06,568 INFO (core.py) Запущен сервер, порт для подключений: 7777, адрес: . Если адрес не указан, принимаются соединения с любых адресов.
+2023-07-13 11:02:15,958 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 48196)
+2023-07-13 11:05:20,238 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 52526)
+2023-07-13 11:05:20,238 DEBUG (decos.py) Функция get_message c параметрами (<socket.socket fd=28, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 48196)>,), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 11:05:20,239 DEBUG (core.py) Разбор сообщения от клиента: {'action': 'presence', 'time': 1689228135.993581, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-13 11:05:20,239 DEBUG (core.py) Start auth process for {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}
+2023-07-13 11:05:20,246 DEBUG (core.py) Correct username, starting passwd check
+2023-07-13 11:05:20,247 DEBUG (core.py) Auth message = {'response': 511, 'bin': 'e59b5798e68a744b5fd8bf7bb5467fd4f8b62f16d47a567808c3160344ec731a578fae82e53efc8f486bcac3c8943882b7234af4bb90c85f362d4d01c86af30f'}
+2023-07-13 11:05:20,247 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=28, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777)>, {'response': 511, 'bin': 'e59b5798e68a744b5fd8bf7bb5467fd4f8b62f16d47a567808c3160344ec731a578fae82e53efc8f486bcac3c8943882b7234af4bb90c85f362d4d01c86af30f'}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 11:05:20,247 DEBUG (core.py) Getting data from client exception
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 75, in run
+    self.parse_client_message(get_message(client_with_message),
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 57, in checker
+    return func(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 154, in parse_client_message
+    self.authorize_user(message, client)
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 306, in authorize_user
+    ans = get_message(sock)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 22, in get_message
+    response = json.loads(json_response)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2023-07-13 11:05:20,248 INFO (core.py) Клиент <built-in method getpeername of socket object at 0x7f2f7519f580> отключился от сервера
+2023-07-13 11:10:01,576 DEBUG (decos.py) Функция main c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-13 11:20:16,110 DEBUG (server.py) Инициализация парсера аргументов командной строки: ['/home/aliya/PycharmProjects/client-server1/server.py']
+2023-07-13 11:20:16,111 DEBUG (server.py) Аргументы успешно загружены
+2023-07-13 11:20:16,111 DEBUG (decos.py) Функция create_arg_parser c параметрами ('7777', ''), {}. Вызов из модуля __main__. 
+2023-07-13 11:20:16,215 INFO (core.py) Запущен сервер, порт для подключений: 7777, адрес: . Если адрес не указан, принимаются соединения с любых адресов.
+2023-07-13 11:20:27,080 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 60118)
+2023-07-13 11:21:44,102 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 42062)
+2023-07-13 11:21:44,102 DEBUG (decos.py) Функция get_message c параметрами (<socket.socket fd=28, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 60118)>,), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 11:21:44,102 DEBUG (core.py) Разбор сообщения от клиента: {'action': 'presence', 'time': 1689229227.1150029, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-13 11:21:44,102 DEBUG (core.py) Start auth process for {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}
+2023-07-13 11:21:44,108 DEBUG (core.py) Correct username, starting passwd check
+2023-07-13 11:21:44,110 DEBUG (core.py) Auth message = {'response': 511, 'bin': '0c4534381c642cde96fa6dfe62787644571a1b21ed132a24e08baafcc952fce5572d0493845a186f6b8dd6150e1b9611fcd246e42e1e157b24506562efae2b18'}
+2023-07-13 11:21:44,110 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=28, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777)>, {'response': 511, 'bin': '0c4534381c642cde96fa6dfe62787644571a1b21ed132a24e08baafcc952fce5572d0493845a186f6b8dd6150e1b9611fcd246e42e1e157b24506562efae2b18'}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 11:21:44,110 DEBUG (core.py) Getting data from client exception
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 75, in run
+    self.parse_client_message(get_message(client_with_message),
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 57, in checker
+    return func(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 154, in parse_client_message
+    self.authorize_user(message, client)
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 306, in authorize_user
+    ans = get_message(sock)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 22, in get_message
+    response = json.loads(json_response)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2023-07-13 11:21:44,110 INFO (core.py) Клиент <built-in method getpeername of socket object at 0x7f9c09fad780> отключился от сервера
+2023-07-13 11:22:53,765 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 40972)
+2023-07-13 11:22:53,766 DEBUG (decos.py) Функция get_message c параметрами (<socket.socket fd=29, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 42062)>,), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 11:22:53,766 DEBUG (core.py) Разбор сообщения от клиента: {'action': 'presence', 'time': 1689229304.1137772, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-13 11:22:53,766 DEBUG (core.py) Start auth process for {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}
+2023-07-13 11:22:53,768 DEBUG (core.py) Correct username, starting passwd check
+2023-07-13 11:22:53,769 DEBUG (core.py) Auth message = {'response': 511, 'bin': '2188f2db63bd184356433d195b4e26758caeadc2b0faacfcbfc769802187b8a2cb39339eaf78efd637bdc11bf804971b0a1522758c390dfdaeef3522fff10aeb'}
+2023-07-13 11:22:53,770 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=29, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777)>, {'response': 511, 'bin': '2188f2db63bd184356433d195b4e26758caeadc2b0faacfcbfc769802187b8a2cb39339eaf78efd637bdc11bf804971b0a1522758c390dfdaeef3522fff10aeb'}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 11:22:53,770 DEBUG (core.py) Getting data from client exception
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 75, in run
+    self.parse_client_message(get_message(client_with_message),
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 57, in checker
+    return func(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 154, in parse_client_message
+    self.authorize_user(message, client)
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 306, in authorize_user
+    ans = get_message(sock)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 22, in get_message
+    response = json.loads(json_response)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2023-07-13 11:22:53,770 INFO (core.py) Клиент <built-in method getpeername of socket object at 0x7f9c09fad0c0> отключился от сервера
+2023-07-13 11:24:21,937 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 59174)
+2023-07-13 11:24:21,938 DEBUG (decos.py) Функция get_message c параметрами (<socket.socket fd=28, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 40972)>,), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 11:24:21,938 DEBUG (core.py) Разбор сообщения от клиента: {'action': 'presence', 'time': 1689229373.777638, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-13 11:24:21,938 DEBUG (core.py) Start auth process for {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}
+2023-07-13 11:24:21,941 DEBUG (core.py) Correct username, starting passwd check
+2023-07-13 11:24:21,943 DEBUG (core.py) Auth message = {'response': 511, 'bin': '6ea329e098a26d9c1b63433f8e69d3340c91091387a30cdc0f6fca2523b9c2cedbbc65050c4b523d2e690a7fd620cddc8fef2bf295821b02d1b46494ad03dd26'}
+2023-07-13 11:24:21,944 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=28, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777)>, {'response': 511, 'bin': '6ea329e098a26d9c1b63433f8e69d3340c91091387a30cdc0f6fca2523b9c2cedbbc65050c4b523d2e690a7fd620cddc8fef2bf295821b02d1b46494ad03dd26'}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 11:24:21,944 DEBUG (core.py) Getting data from client exception
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 75, in run
+    self.parse_client_message(get_message(client_with_message),
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 57, in checker
+    return func(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 154, in parse_client_message
+    self.authorize_user(message, client)
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 306, in authorize_user
+    ans = get_message(sock)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 22, in get_message
+    response = json.loads(json_response)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2023-07-13 11:24:21,945 INFO (core.py) Клиент <built-in method getpeername of socket object at 0x7f9c09fadea0> отключился от сервера
+2023-07-13 11:29:59,058 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 49808)
+2023-07-13 11:29:59,059 DEBUG (decos.py) Функция get_message c параметрами (<socket.socket fd=29, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59174)>,), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 11:29:59,059 DEBUG (core.py) Разбор сообщения от клиента: {'action': 'presence', 'time': 1689229461.9746938, 'user': {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}}
+2023-07-13 11:29:59,060 DEBUG (core.py) Start auth process for {'account_name': 'aliya', 'pubkey': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0s6/0HkuyUd2hbM0Ti93\n8S1FSSUfGmPqkO05TW6fcaDqWTLbZrDlWyIzU94rrNwI3biAmcsZqcFmwVH4VmaN\nHKdWE5JCpkLyGqOSJ3rI3ApdlT1B/s+m6UAQMHtWzWB5qYp9vJx7/Z9oVKH/GKDl\nEnxkdwL1gIc28YFCytaUwVfIf3M5NT53O+0iyQWPQklm7o/0dXQsrzUCqMsd1/ya\nh/Xo6t75owaGcgdp99wXje2zQ8M+uN2FNAApu9EwCBepQAfM1IJ36Fg0kd78sQ7J\nqBtGUsovmxyOPoLqxcQpMoN3nRJAUFU3kYEJgBvB2iugFzY+oZbXVyEKfm0FBjIS\n8wIDAQAB\n-----END PUBLIC KEY-----'}
+2023-07-13 11:29:59,063 DEBUG (core.py) Correct username, starting passwd check
+2023-07-13 11:29:59,065 DEBUG (core.py) Auth message = {'response': 511, 'bin': 'ee5371892d028f20f00228eac7ea81406d126dcbe33fc474db2d5248ba54797f03c4efa565d8f4d0578df85723a3c8190bec713203e2a80481b0019913587144'}
+2023-07-13 11:29:59,066 DEBUG (decos.py) Функция send_message c параметрами (<socket.socket fd=29, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777)>, {'response': 511, 'bin': 'ee5371892d028f20f00228eac7ea81406d126dcbe33fc474db2d5248ba54797f03c4efa565d8f4d0578df85723a3c8190bec713203e2a80481b0019913587144'}), {}. Вызов из модуля common.prgm_utils. 
+2023-07-13 11:29:59,067 DEBUG (core.py) Getting data from client exception
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 75, in run
+    self.parse_client_message(get_message(client_with_message),
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 57, in checker
+    return func(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 154, in parse_client_message
+    self.authorize_user(message, client)
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 306, in authorize_user
+    ans = get_message(sock)
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 22, in get_message
+    if isinstance(response, dict):
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2023-07-13 11:29:59,068 INFO (core.py) Клиент <built-in method getpeername of socket object at 0x7f9c0a3ec580> отключился от сервера
+2023-07-13 11:33:25,911 DEBUG (server.py) Инициализация парсера аргументов командной строки: ['/home/aliya/PycharmProjects/client-server1/server.py']
+2023-07-13 11:33:25,912 DEBUG (server.py) Аргументы успешно загружены
+2023-07-13 11:33:25,912 DEBUG (decos.py) Функция create_arg_parser c параметрами ('7777', ''), {}. Вызов из модуля __main__. 
+2023-07-13 11:33:25,994 INFO (core.py) Запущен сервер, порт для подключений: 7777, адрес: . Если адрес не указан, принимаются соединения с любых адресов.
+2023-07-13 11:33:37,383 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 34836)
+2023-07-13 11:36:00,303 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 54008)
+2023-07-13 11:36:00,303 DEBUG (core.py) Getting data from client exception
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 75, in run
+    self.parse_client_message(get_message(client_with_message),
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 21, in get_message
+    response = json.loads(json_response)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2023-07-13 11:36:00,306 INFO (core.py) Клиент <built-in method getpeername of socket object at 0x7fa7925b2800> отключился от сервера
+2023-07-13 11:38:38,813 DEBUG (decos.py) Функция main c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-13 11:43:33,299 DEBUG (server.py) Инициализация парсера аргументов командной строки: ['/home/aliya/PycharmProjects/client-server1/server.py']
+2023-07-13 11:43:33,300 DEBUG (server.py) Аргументы успешно загружены
+2023-07-13 11:43:33,300 DEBUG (decos.py) Функция create_arg_parser c параметрами ('7777', ''), {}. Вызов из модуля __main__. 
+2023-07-13 11:43:33,378 INFO (core.py) Запущен сервер, порт для подключений: 7777, адрес: . Если адрес не указан, принимаются соединения с любых адресов.
+2023-07-13 11:43:41,993 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 33650)
+2023-07-13 11:47:48,435 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 52614)
+2023-07-13 11:47:48,436 DEBUG (core.py) Getting data from client exception
+Traceback (most recent call last):
+  File "/home/aliya/PycharmProjects/client-server1/server/core.py", line 75, in run
+    self.parse_client_message(get_message(client_with_message),
+  File "/home/aliya/PycharmProjects/client-server1/common/decos.py", line 14, in log_writer
+    ret = func_to_log(*args, **kwargs)
+  File "/home/aliya/PycharmProjects/client-server1/common/prgm_utils.py", line 21, in get_message
+    json_response = encoded_response.decode(ENCODING)
+  File "/usr/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.10/json/decoder.py", line 340, in decode
+    raise JSONDecodeError("Extra data", s, end)
+json.decoder.JSONDecodeError: Extra data: line 1 column 557 (char 556)
+2023-07-13 11:47:48,436 INFO (core.py) Клиент <built-in method getpeername of socket object at 0x7ff6dc2b3220> отключился от сервера
+2023-07-13 11:48:45,656 DEBUG (decos.py) Функция main c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-13 11:50:17,577 DEBUG (server.py) Инициализация парсера аргументов командной строки: ['/home/aliya/PycharmProjects/client-server1/server.py']
+2023-07-13 11:50:17,578 DEBUG (server.py) Аргументы успешно загружены
+2023-07-13 11:50:17,578 DEBUG (decos.py) Функция create_arg_parser c параметрами ('7777', ''), {}. Вызов из модуля __main__. 
+2023-07-13 11:50:17,670 INFO (core.py) Запущен сервер, порт для подключений: 7777, адрес: . Если адрес не указан, принимаются соединения с любых адресов.
+2023-07-13 11:50:26,744 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 52200)
+2023-07-13 11:52:11,568 DEBUG (decos.py) Функция main c параметрами (), {}. Вызов из модуля __main__. 
+2023-07-13 12:20:24,710 DEBUG (server.py) Инициализация парсера аргументов командной строки: ['/home/aliya/PycharmProjects/client-server1/server.py']
+2023-07-13 12:20:24,711 DEBUG (server.py) Аргументы успешно загружены
+2023-07-13 12:20:24,711 DEBUG (decos.py) Функция create_arg_parser c параметрами ('7777', ''), {}. Вызов из модуля __main__. 
+2023-07-13 12:20:24,785 INFO (core.py) Запущен сервер, порт для подключений: 7777, адрес: . Если адрес не указан, принимаются соединения с любых адресов.
+2023-07-13 12:20:59,122 INFO (core.py) Установлено соедение с клиентом: ('127.0.0.1', 59606)
